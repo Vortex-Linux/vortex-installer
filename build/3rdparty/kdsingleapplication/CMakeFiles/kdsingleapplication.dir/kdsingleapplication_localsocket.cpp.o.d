@@ -1,7 +1,7 @@
 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication.dir/kdsingleapplication_localsocket.cpp.o: \
- /home/arun/VortexLinux/calamares/3rdparty/kdsingleapplication/kdsingleapplication_localsocket.cpp \
+ /home/arun/VortexLinux/vortex-installer/3rdparty/kdsingleapplication/kdsingleapplication_localsocket.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/3rdparty/kdsingleapplication/kdsingleapplication_localsocket_p.h \
+ /home/arun/VortexLinux/vortex-installer/3rdparty/kdsingleapplication/kdsingleapplication_localsocket_p.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \

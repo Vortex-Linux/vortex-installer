@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/libcalamaresutilspathstest.dir/utils/TestPaths.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/TestPaths.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/TestPaths.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Entropy.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Entropy.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QByteArray /usr/include/qt6/QtCore/qbytearray.h \
  /usr/include/qt6/QtCore/qrefcount.h /usr/include/qt6/QtCore/qatomic.h \
  /usr/include/qt6/QtCore/qbasicatomic.h \
@@ -248,7 +248,7 @@ src/libcalamares/CMakeFiles/libcalamaresutilspathstest.dir/utils/TestPaths.cpp.o
  /usr/include/qt6/QtCore/qstringfwd.h \
  /usr/include/qt6/QtCore/q20type_traits.h \
  /usr/include/c++/14.2.1/stdlib.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qiodevicebase.h /usr/include/qt6/QtCore/qchar.h \
@@ -310,15 +310,15 @@ src/libcalamares/CMakeFiles/libcalamaresutilspathstest.dir/utils/TestPaths.cpp.o
  /usr/include/qt6/QtCore/qdebug.h /usr/include/qt6/QtCore/q23utility.h \
  /usr/include/qt6/QtCore/qobject.h /usr/include/qt6/QtCore/qobject_impl.h \
  /usr/include/qt6/QtCore/qbindingstorage.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QPair /usr/include/qt6/QtCore/qpair.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/UMask.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/UMask.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
  /usr/include/qt6/QtCore/QVariantList \
@@ -370,13 +370,13 @@ src/libcalamares/CMakeFiles/libcalamaresutilspathstest.dir/utils/TestPaths.cpp.o
  /usr/include/c++/14.2.1/bits/indirect_array.h \
  /usr/include/yaml-cpp/node/detail/impl.h \
  /usr/include/yaml-cpp/node/parse.h /usr/include/yaml-cpp/node/emit.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
  /usr/include/qt6/QtCore/qtsan_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
  /usr/include/qt6/QtCore/QDir /usr/include/qt6/QtCore/qdir.h \
  /usr/include/qt6/QtCore/qfile.h /usr/include/qt6/QtCore/qfiledevice.h \
  /usr/include/qt6/QtCore/qiodevice.h /usr/include/c++/14.2.1/filesystem \
@@ -799,6 +799,6 @@ src/libcalamares/CMakeFiles/libcalamaresutilspathstest.dir/utils/TestPaths.cpp.o
  /usr/include/qt6/QtTest/qtesteventloop.h \
  /usr/include/qt6/QtTest/qtestsystem.h \
  /usr/include/qt6/QtTest/qttestversion.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilspathstest_autogen/include/TestPaths.moc \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilspathstest_autogen/include/TestPaths.moc \
  /usr/include/qt6/QtCore/qtmochelpers.h

@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/src
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,31 +44,31 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/libcalamares/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/libcalamaresui/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/qml/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/qml/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/calamares/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/calamares/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/branding/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/branding/cmake_install.cmake")
 endif()
 

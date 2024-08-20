@@ -1,8 +1,8 @@
 src/libcalamaresui/CMakeFiles/calamaresui.dir/widgets/FixedAspectRatioLabel.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/FixedAspectRatioLabel.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/FixedAspectRatioLabel.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/FixedAspectRatioLabel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/FixedAspectRatioLabel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtWidgets/QLabel /usr/include/qt6/QtWidgets/qlabel.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \

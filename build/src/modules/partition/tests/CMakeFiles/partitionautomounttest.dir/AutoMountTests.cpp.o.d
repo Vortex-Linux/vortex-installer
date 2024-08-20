@@ -1,9 +1,9 @@
 src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/AutoMountTests.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/AutoMountTests.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/AutoMountTests.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../jobs/AutoMountManagementJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../jobs/AutoMountManagementJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -295,11 +295,11 @@ src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/AutoMountTests
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qshareddata.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/AutoMount.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/AutoMount.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qcontiguouscache.h \
@@ -757,6 +757,6 @@ src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/AutoMountTests
  /usr/include/qt6/QtTest/qtesteventloop.h \
  /usr/include/qt6/QtTest/qtestsystem.h \
  /usr/include/qt6/QtTest/qttestversion.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionautomounttest_autogen/include/AutoMountTests.moc \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionautomounttest_autogen/include/AutoMountTests.moc \
  /usr/include/qt6/QtCore/qtmochelpers.h

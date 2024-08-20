@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Utility rule file for branding-translation-default.
 
@@ -71,28 +71,28 @@ src/branding/CMakeFiles/branding-translation-default: src/branding/calamares-def
 src/branding/CMakeFiles/branding-translation-default: src/branding/calamares-default_eo.qm
 src/branding/CMakeFiles/branding-translation-default: src/branding/calamares-default_fr.qm
 src/branding/CMakeFiles/branding-translation-default: src/branding/calamares-default_nl.qm
-	cd /home/arun/VortexLinux/calamares/build/src/branding && /usr/bin/cmake -E make_directory /home/arun/VortexLinux/calamares/build/src/branding/default/lang/
-	cd /home/arun/VortexLinux/calamares/build/src/branding && /usr/bin/cmake -E copy /home/arun/VortexLinux/calamares/build/src/branding/calamares-default_ar.qm /home/arun/VortexLinux/calamares/build/src/branding/calamares-default_en.qm /home/arun/VortexLinux/calamares/build/src/branding/calamares-default_eo.qm /home/arun/VortexLinux/calamares/build/src/branding/calamares-default_fr.qm /home/arun/VortexLinux/calamares/build/src/branding/calamares-default_nl.qm /home/arun/VortexLinux/calamares/build/src/branding/default/lang/
+	cd /home/arun/VortexLinux/vortex-installer/build/src/branding && /usr/bin/cmake -E make_directory /home/arun/VortexLinux/vortex-installer/build/src/branding/default/lang/
+	cd /home/arun/VortexLinux/vortex-installer/build/src/branding && /usr/bin/cmake -E copy /home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_ar.qm /home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_en.qm /home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_eo.qm /home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_fr.qm /home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_nl.qm /home/arun/VortexLinux/vortex-installer/build/src/branding/default/lang/
 
-src/branding/calamares-default_ar.qm: /home/arun/VortexLinux/calamares/src/branding/default/lang/calamares-default_ar.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating calamares-default_ar.qm"
-	cd /home/arun/VortexLinux/calamares/build/src/branding && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/calamares/src/branding/default/lang/calamares-default_ar.ts -qm /home/arun/VortexLinux/calamares/build/src/branding/calamares-default_ar.qm
+src/branding/calamares-default_ar.qm: /home/arun/VortexLinux/vortex-installer/src/branding/default/lang/calamares-default_ar.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating calamares-default_ar.qm"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/branding && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/vortex-installer/src/branding/default/lang/calamares-default_ar.ts -qm /home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_ar.qm
 
-src/branding/calamares-default_en.qm: /home/arun/VortexLinux/calamares/src/branding/default/lang/calamares-default_en.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating calamares-default_en.qm"
-	cd /home/arun/VortexLinux/calamares/build/src/branding && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/calamares/src/branding/default/lang/calamares-default_en.ts -qm /home/arun/VortexLinux/calamares/build/src/branding/calamares-default_en.qm
+src/branding/calamares-default_en.qm: /home/arun/VortexLinux/vortex-installer/src/branding/default/lang/calamares-default_en.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating calamares-default_en.qm"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/branding && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/vortex-installer/src/branding/default/lang/calamares-default_en.ts -qm /home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_en.qm
 
-src/branding/calamares-default_eo.qm: /home/arun/VortexLinux/calamares/src/branding/default/lang/calamares-default_eo.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating calamares-default_eo.qm"
-	cd /home/arun/VortexLinux/calamares/build/src/branding && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/calamares/src/branding/default/lang/calamares-default_eo.ts -qm /home/arun/VortexLinux/calamares/build/src/branding/calamares-default_eo.qm
+src/branding/calamares-default_eo.qm: /home/arun/VortexLinux/vortex-installer/src/branding/default/lang/calamares-default_eo.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating calamares-default_eo.qm"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/branding && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/vortex-installer/src/branding/default/lang/calamares-default_eo.ts -qm /home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_eo.qm
 
-src/branding/calamares-default_fr.qm: /home/arun/VortexLinux/calamares/src/branding/default/lang/calamares-default_fr.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating calamares-default_fr.qm"
-	cd /home/arun/VortexLinux/calamares/build/src/branding && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/calamares/src/branding/default/lang/calamares-default_fr.ts -qm /home/arun/VortexLinux/calamares/build/src/branding/calamares-default_fr.qm
+src/branding/calamares-default_fr.qm: /home/arun/VortexLinux/vortex-installer/src/branding/default/lang/calamares-default_fr.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating calamares-default_fr.qm"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/branding && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/vortex-installer/src/branding/default/lang/calamares-default_fr.ts -qm /home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_fr.qm
 
-src/branding/calamares-default_nl.qm: /home/arun/VortexLinux/calamares/src/branding/default/lang/calamares-default_nl.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating calamares-default_nl.qm"
-	cd /home/arun/VortexLinux/calamares/build/src/branding && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/calamares/src/branding/default/lang/calamares-default_nl.ts -qm /home/arun/VortexLinux/calamares/build/src/branding/calamares-default_nl.qm
+src/branding/calamares-default_nl.qm: /home/arun/VortexLinux/vortex-installer/src/branding/default/lang/calamares-default_nl.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating calamares-default_nl.qm"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/branding && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/vortex-installer/src/branding/default/lang/calamares-default_nl.ts -qm /home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_nl.qm
 
 branding-translation-default: src/branding/CMakeFiles/branding-translation-default
 branding-translation-default: src/branding/calamares-default_ar.qm
@@ -108,10 +108,10 @@ src/branding/CMakeFiles/branding-translation-default.dir/build: branding-transla
 .PHONY : src/branding/CMakeFiles/branding-translation-default.dir/build
 
 src/branding/CMakeFiles/branding-translation-default.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/branding && $(CMAKE_COMMAND) -P CMakeFiles/branding-translation-default.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/branding && $(CMAKE_COMMAND) -P CMakeFiles/branding-translation-default.dir/cmake_clean.cmake
 .PHONY : src/branding/CMakeFiles/branding-translation-default.dir/clean
 
 src/branding/CMakeFiles/branding-translation-default.dir/depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/branding /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/branding /home/arun/VortexLinux/calamares/build/src/branding/CMakeFiles/branding-translation-default.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/branding /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/branding /home/arun/VortexLinux/vortex-installer/build/src/branding/CMakeFiles/branding-translation-default.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/branding/CMakeFiles/branding-translation-default.dir/depend
 

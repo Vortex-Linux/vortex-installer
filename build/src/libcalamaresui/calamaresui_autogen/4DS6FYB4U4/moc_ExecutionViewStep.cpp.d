@@ -1,11 +1,11 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_ExecutionViewStep.cpp: /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ExecutionViewStep.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/LogWidget.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_ExecutionViewStep.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ExecutionViewStep.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/LogWidget.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

@@ -1,17 +1,17 @@
-/home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_LocaleViewStep.cpp: /home/arun/VortexLinux/calamares/src/modules/locale/LocaleViewStep.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Handler.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Interface.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TimeZone.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
-  /home/arun/VortexLinux/calamares/src/modules/locale/Config.h \
-  /home/arun/VortexLinux/calamares/src/modules/locale/LocaleConfiguration.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_LocaleViewStep.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/locale/LocaleViewStep.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Handler.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Interface.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TimeZone.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/locale/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/locale/LocaleConfiguration.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

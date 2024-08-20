@@ -1,10 +1,10 @@
 src/modules/preservefiles/CMakeFiles/calamares_job_preservefiles.dir/PreserveFiles.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/preservefiles/PreserveFiles.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/PreserveFiles.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/preservefiles/PreserveFiles.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/PreserveFiles.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -296,8 +296,8 @@ src/modules/preservefiles/CMakeFiles/calamares_job_preservefiles.dir/PreserveFil
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qshareddata.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qcontiguouscache.h \
@@ -316,11 +316,11 @@ src/modules/preservefiles/CMakeFiles/calamares_job_preservefiles.dir/PreserveFil
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
  /usr/include/qt6/QtCore/qdebug.h /usr/include/qt6/QtCore/q23utility.h \
  /usr/include/qt6/QtCore/qobject.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/modules/preservefiles/Item.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Permissions.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresVersion.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Item.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Permissions.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresVersion.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
@@ -328,22 +328,22 @@ src/modules/preservefiles/CMakeFiles/calamares_job_preservefiles.dir/PreserveFil
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/compat/Variant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/CommandList.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Variant.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/CommandList.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/StringExpander.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/StringExpander.h \
  /usr/include/KF6/KCoreAddons/KMacroExpander \
  /usr/include/KF6/KCoreAddons/kmacroexpander.h \
  /usr/include/qt6/QtCore/QChar /usr/include/qt6/QtCore/qchar.h \
  /usr/include/KF6/KCoreAddons/kcoreaddons_export.h \
  /usr/include/KF6/KCoreAddons/kcoreaddons_version.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
  /usr/include/qt6/QtCore/QPair /usr/include/qt6/QtCore/qpair.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Units.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Units.h \
  /usr/include/qt6/QtCore/QIntegerForSize /usr/include/qt6/QtCore/qtypes.h \
  /usr/include/qt6/QtCore/QFile /usr/include/qt6/QtCore/qfile.h \
  /usr/include/qt6/QtCore/qfiledevice.h \

@@ -1,8 +1,8 @@
 src/modules/fsresizer/CMakeFiles/calamares_job_fsresizer.dir/calamares_job_fsresizer_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/fsresizer/calamares_job_fsresizer_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/fsresizer/calamares_job_fsresizer_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/fsresizer/calamares_job_fsresizer_autogen/EWIEGA46WW/moc_ResizeFSJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/fsresizer/calamares_job_fsresizer_autogen/EWIEGA46WW/../../../../../../src/modules/fsresizer/ResizeFSJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/fsresizer/calamares_job_fsresizer_autogen/EWIEGA46WW/moc_ResizeFSJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/fsresizer/calamares_job_fsresizer_autogen/EWIEGA46WW/../../../../../../src/modules/fsresizer/ResizeFSJob.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \
@@ -309,23 +309,23 @@ src/modules/fsresizer/CMakeFiles/calamares_job_fsresizer.dir/calamares_job_fsres
  /usr/include/qt6/QtCore/qvarlengtharray.h \
  /usr/include/qt6/QtCore/q23utility.h /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/QVariant \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionSize.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Units.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionSize.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Units.h \
  /usr/include/qt6/QtCore/QIntegerForSize /usr/include/qt6/QtCore/qtypes.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
  /usr/include/qt6/QtCore/qplugin.h /usr/include/qt6/QtCore/qpointer.h \
  /usr/include/qt6/QtCore/qjsonobject.h \
  /usr/include/qt6/QtCore/qjsonvalue.h \

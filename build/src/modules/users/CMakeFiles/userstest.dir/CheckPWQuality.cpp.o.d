@@ -1,7 +1,7 @@
 src/modules/users/CMakeFiles/userstest.dir/CheckPWQuality.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/users/CheckPWQuality.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/users/CheckPWQuality.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/users/CheckPWQuality.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/users/CheckPWQuality.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -308,9 +308,9 @@ src/modules/users/CMakeFiles/userstest.dir/CheckPWQuality.cpp.o: \
  /usr/include/qt6/QtCore/qobject_impl.h \
  /usr/include/qt6/QtCore/qbindingstorage.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/compat/Variant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Variant.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \

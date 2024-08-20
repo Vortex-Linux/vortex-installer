@@ -1,9 +1,9 @@
 src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/PackageModel.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/packagechooser/PackageModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/PackageModel.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/packagechooser/PackageModel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/PackageModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QLocale /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/qvariant.h /usr/include/qt6/QtCore/qatomic.h \
  /usr/include/qt6/QtCore/qbasicatomic.h \
@@ -310,7 +310,7 @@ src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/Pa
  /usr/include/qt6/QtCore/qbindingstorage.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/qvariant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
@@ -328,19 +328,19 @@ src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/Pa
  /usr/include/qt6/QtGui/qtransform.h /usr/include/qt6/QtGui/qpolygon.h \
  /usr/include/qt6/QtGui/qregion.h /usr/include/qt6/QtCore/qline.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/Branding.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/Branding.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h /usr/include/qt6/QtCore/QUrl \
  /usr/include/qt6/QtCore/qurl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Variant.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Variant.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \

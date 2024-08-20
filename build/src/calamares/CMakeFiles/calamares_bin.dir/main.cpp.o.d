@@ -1,7 +1,7 @@
 src/calamares/CMakeFiles/calamares_bin.dir/main.cpp.o: \
- /home/arun/VortexLinux/calamares/src/calamares/main.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/calamares/main.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/calamares/CalamaresApplication.h \
+ /home/arun/VortexLinux/vortex-installer/src/calamares/CalamaresApplication.h \
  /usr/include/qt6/QtWidgets/QApplication \
  /usr/include/qt6/QtWidgets/qapplication.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -333,18 +333,18 @@ src/calamares/CMakeFiles/calamares_bin.dir/main.cpp.o: \
  /usr/include/qt6/QtGui/qinputmethod.h /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/qvariant.h \
  /usr/include/qt6/QtGui/qguiapplication_platform.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Dirs.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Dirs.h \
  /usr/include/qt6/QtCore/QDir /usr/include/qt6/QtCore/qdir.h \
  /usr/include/qt6/QtCore/qfile.h /usr/include/qt6/QtCore/qfiledevice.h \
  /usr/include/qt6/QtCore/qiodevice.h /usr/include/c++/14.2.1/filesystem \
@@ -374,16 +374,16 @@ src/calamares/CMakeFiles/calamares_bin.dir/main.cpp.o: \
  /usr/include/c++/14.2.1/bits/fs_ops.h \
  /usr/include/qt6/QtCore/qfileinfo.h /usr/include/qt6/QtCore/qdatetime.h \
  /usr/include/qt6/QtCore/qcalendar.h /usr/include/qt6/QtCore/qtimezone.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
  /usr/include/qt6/QtCore/QLocale /usr/include/qt6/QtCore/qlocale.h \
- /home/arun/VortexLinux/calamares/3rdparty/kdsingleapplication/kdsingleapplication.h \
+ /home/arun/VortexLinux/vortex-installer/3rdparty/kdsingleapplication/kdsingleapplication.h \
  /usr/include/qt6/QtCore/QObject \
- /home/arun/VortexLinux/calamares/3rdparty/kdsingleapplication/kdsingleapplication_lib.h \
+ /home/arun/VortexLinux/vortex-installer/3rdparty/kdsingleapplication/kdsingleapplication_lib.h \
  /usr/include/qt6/QtCore/QtGlobal /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/KF6/KCoreAddons/KAboutData \
  /usr/include/KF6/KCoreAddons/kaboutdata.h \

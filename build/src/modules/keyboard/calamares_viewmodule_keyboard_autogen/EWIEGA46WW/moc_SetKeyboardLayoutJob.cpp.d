@@ -1,8 +1,8 @@
-/home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_SetKeyboardLayoutJob.cpp: /home/arun/VortexLinux/calamares/src/modules/keyboard/SetKeyboardLayoutJob.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/modules/keyboard/AdditionalLayoutInfo.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_SetKeyboardLayoutJob.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/SetKeyboardLayoutJob.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/AdditionalLayoutInfo.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

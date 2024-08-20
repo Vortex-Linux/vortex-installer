@@ -1,8 +1,8 @@
-/home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_Config.cpp: /home/arun/VortexLinux/calamares/src/modules/plasmalnf/Config.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/modules/plasmalnf/ThemeInfo.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_Config.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/plasmalnf/Config.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/plasmalnf/ThemeInfo.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

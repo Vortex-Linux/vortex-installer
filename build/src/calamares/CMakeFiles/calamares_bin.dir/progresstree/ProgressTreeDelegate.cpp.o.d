@@ -1,7 +1,7 @@
 src/calamares/CMakeFiles/calamares_bin.dir/progresstree/ProgressTreeDelegate.cpp.o: \
- /home/arun/VortexLinux/calamares/src/calamares/progresstree/ProgressTreeDelegate.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/calamares/progresstree/ProgressTreeDelegate.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/calamares/progresstree/ProgressTreeDelegate.h \
+ /home/arun/VortexLinux/vortex-installer/src/calamares/progresstree/ProgressTreeDelegate.h \
  /usr/include/qt6/QtWidgets/QStyledItemDelegate \
  /usr/include/qt6/QtWidgets/qstyleditemdelegate.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -340,11 +340,11 @@ src/calamares/CMakeFiles/calamares_bin.dir/progresstree/ProgressTreeDelegate.cpp
  /usr/include/qt6/QtWidgets/qrubberband.h \
  /usr/include/qt6/QtWidgets/qframe.h \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/Branding.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/Branding.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/QMap /usr/include/qt6/QtCore/qmap.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
@@ -353,7 +353,7 @@ src/calamares/CMakeFiles/calamares_bin.dir/progresstree/ProgressTreeDelegate.cpp
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h /usr/include/qt6/QtCore/QUrl \
  /usr/include/qt6/QtCore/qurl.h \
- /home/arun/VortexLinux/calamares/src/calamares/CalamaresApplication.h \
+ /home/arun/VortexLinux/vortex-installer/src/calamares/CalamaresApplication.h \
  /usr/include/qt6/QtWidgets/QApplication \
  /usr/include/qt6/QtWidgets/qapplication.h \
  /usr/include/qt6/QtCore/qcoreapplication.h \
@@ -366,18 +366,18 @@ src/calamares/CMakeFiles/calamares_bin.dir/progresstree/ProgressTreeDelegate.cpp
  /usr/include/qt6/QtGui/qguiapplication.h \
  /usr/include/qt6/QtGui/qinputmethod.h \
  /usr/include/qt6/QtGui/qguiapplication_platform.h \
- /home/arun/VortexLinux/calamares/src/calamares/CalamaresWindow.h \
+ /home/arun/VortexLinux/vortex-installer/src/calamares/CalamaresWindow.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/ViewManager.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/ViewManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
@@ -386,6 +386,6 @@ src/calamares/CMakeFiles/calamares_bin.dir/progresstree/ProgressTreeDelegate.cpp
  /usr/include/qt6/QtWidgets/qabstractbutton.h \
  /usr/include/qt6/QtWidgets/QStackedWidget \
  /usr/include/qt6/QtWidgets/qstackedwidget.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Gui.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Gui.h \
  /usr/include/qt6/QtGui/QPainter /usr/include/qt6/QtGui/qpainter.h \
  /usr/include/qt6/QtGui/qtextoption.h /usr/include/qt6/QtGui/qpen.h

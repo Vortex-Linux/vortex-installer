@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/calamares.dir/utils/Logger.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qcontainerfwd.h \
  /usr/include/qt6/QtCore/qtconfigmacros.h \
@@ -309,15 +309,15 @@ src/libcalamares/CMakeFiles/calamares.dir/utils/Logger.cpp.o: \
  /usr/include/qt6/QtCore/qdebug.h /usr/include/qt6/QtCore/q23utility.h \
  /usr/include/qt6/QtCore/qobject.h /usr/include/qt6/QtCore/qobject_impl.h \
  /usr/include/qt6/QtCore/qbindingstorage.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresVersionX.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresVersion.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/compat/Mutex.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresVersionX.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresVersion.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Mutex.h \
  /usr/include/qt6/QtCore/QMutexLocker /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
  /usr/include/qt6/QtCore/qtsan_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/compat/Variant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Dirs.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Variant.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Dirs.h \
  /usr/include/qt6/QtCore/QDir /usr/include/qt6/QtCore/qdir.h \
  /usr/include/qt6/QtCore/qfile.h /usr/include/qt6/QtCore/qfiledevice.h \
  /usr/include/qt6/QtCore/qiodevice.h /usr/include/c++/14.2.1/filesystem \

@@ -1,11 +1,11 @@
 src/libcalamares/CMakeFiles/calamares.dir/Settings.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/Settings.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qcontainerfwd.h \
  /usr/include/qt6/QtCore/qtconfigmacros.h \
@@ -312,12 +312,12 @@ src/libcalamares/CMakeFiles/calamares.dir/Settings.cpp.o: \
  /usr/include/qt6/QtCore/qbindingstorage.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/compat/Variant.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Variant.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
  /usr/include/qt6/QtCore/qdebug.h /usr/include/qt6/QtCore/q23utility.h \
  /usr/include/qt6/QtCore/qobject.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Dirs.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Dirs.h \
  /usr/include/qt6/QtCore/QDir /usr/include/qt6/QtCore/qdir.h \
  /usr/include/qt6/QtCore/qfile.h /usr/include/qt6/QtCore/qfiledevice.h \
  /usr/include/qt6/QtCore/qiodevice.h /usr/include/c++/14.2.1/filesystem \
@@ -348,10 +348,10 @@ src/libcalamares/CMakeFiles/calamares.dir/Settings.cpp.o: \
  /usr/include/qt6/QtCore/qfileinfo.h /usr/include/qt6/QtCore/qdatetime.h \
  /usr/include/qt6/QtCore/qcalendar.h /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/qvariant.h /usr/include/qt6/QtCore/qtimezone.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
  /usr/include/qt6/QtCore/QVariantList \
  /usr/include/qt6/QtCore/qvariantlist.h /usr/include/qt6/QtCore/QList \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/QVariantMap \

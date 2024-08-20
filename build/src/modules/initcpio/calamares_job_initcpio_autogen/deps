@@ -1,14 +1,14 @@
 calamares_job_initcpio_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/build/src/modules/initcpio/calamares_job_initcpio_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-	/home/arun/VortexLinux/calamares/src/modules/initcpio/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/initcpio/InitcpioJob.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/initcpio/InitcpioJob.h \
-	/home/arun/VortexLinux/calamares/src/modules/initcpio/initcpio.conf \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/initcpio/calamares_job_initcpio_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/initcpio/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/initcpio/InitcpioJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/initcpio/InitcpioJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/initcpio/initcpio.conf \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \

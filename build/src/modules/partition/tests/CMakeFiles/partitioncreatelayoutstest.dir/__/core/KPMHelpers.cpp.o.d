@@ -1,9 +1,9 @@
 src/modules/partition/tests/CMakeFiles/partitioncreatelayoutstest.dir/__/core/KPMHelpers.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/KPMHelpers.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/KPMHelpers.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../core/KPMHelpers.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../Config.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../core/KPMHelpers.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -325,19 +325,19 @@ src/modules/partition/tests/CMakeFiles/partitioncreatelayoutstest.dir/__/core/KP
  /usr/include/qt6/QtCore/q23utility.h /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/QSet /usr/include/qt6/QtCore/qset.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/kpmcore/core/partitiontable.h \
  /usr/include/kpmcore/ops/operation.h /usr/include/kpmcore/util/report.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../core/PartitionInfo.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../core/PartitionInfo.h \
  /usr/include/qt6/QtCore/QHash /usr/include/qt6/QtCore/qhash.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionIterator.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionIterator.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/String.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/String.h \
  /usr/include/kpmcore/backend/corebackendmanager.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
  /usr/include/kpmcore/core/device.h \

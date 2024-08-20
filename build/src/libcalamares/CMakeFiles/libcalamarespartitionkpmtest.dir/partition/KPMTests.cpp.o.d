@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/libcalamarespartitionkpmtest.dir/partition/KPMTests.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMTests.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMTests.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qcontainerfwd.h \
  /usr/include/qt6/QtCore/qtconfigmacros.h \
@@ -309,11 +309,11 @@ src/libcalamares/CMakeFiles/libcalamarespartitionkpmtest.dir/partition/KPMTests.
  /usr/include/qt6/QtCore/qdebug.h /usr/include/qt6/QtCore/q23utility.h \
  /usr/include/qt6/QtCore/qobject.h /usr/include/qt6/QtCore/qobject_impl.h \
  /usr/include/qt6/QtCore/qbindingstorage.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/FileSystem.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/FileSystem.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/kpmcore/fs/filesystem.h \
@@ -816,6 +816,6 @@ src/libcalamares/CMakeFiles/libcalamarespartitionkpmtest.dir/partition/KPMTests.
  /usr/include/qt6/QtTest/qtesteventloop.h \
  /usr/include/qt6/QtTest/qtestsystem.h \
  /usr/include/qt6/QtTest/qttestversion.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamarespartitionkpmtest_autogen/include/KPMTests.moc \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamarespartitionkpmtest_autogen/include/KPMTests.moc \
  /usr/include/qt6/QtCore/qtmochelpers.h

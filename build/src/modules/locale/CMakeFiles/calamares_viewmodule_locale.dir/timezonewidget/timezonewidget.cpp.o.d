@@ -1,9 +1,9 @@
 src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/timezonewidget/timezonewidget.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/timezonewidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/timezonewidget.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TimeZone.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TimeZone.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -317,12 +317,12 @@ src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/timezonewidget/tim
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/qregularexpression.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/timezonewidget.h \
- /home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/TimeZoneImage.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/timezonewidget.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/TimeZoneImage.h \
  /usr/include/qt6/QtGui/QImage /usr/include/qt6/QtGui/qimage.h \
  /usr/include/qt6/QtGui/qtguiglobal.h \
  /usr/include/qt6/QtGui/qtgui-config.h \

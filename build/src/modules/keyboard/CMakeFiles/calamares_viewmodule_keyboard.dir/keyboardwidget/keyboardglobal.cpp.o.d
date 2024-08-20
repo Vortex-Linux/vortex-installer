@@ -1,7 +1,7 @@
 src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/keyboardwidget/keyboardglobal.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardglobal.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardglobal.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardglobal.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardglobal.h \
  /usr/include/qt6/QtCore/QMap /usr/include/qt6/QtCore/qmap.h \
  /usr/include/qt6/QtCore/qiterator.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -274,8 +274,8 @@ src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/keyboardwidget
  /usr/include/c++/14.2.1/bits/stl_map.h \
  /usr/include/c++/14.2.1/bits/stl_multimap.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qiodevicebase.h \

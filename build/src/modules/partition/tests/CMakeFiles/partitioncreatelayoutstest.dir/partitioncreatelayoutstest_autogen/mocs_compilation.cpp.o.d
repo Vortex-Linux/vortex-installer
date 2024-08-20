@@ -1,8 +1,8 @@
 src/modules/partition/tests/CMakeFiles/partitioncreatelayoutstest.dir/partitioncreatelayoutstest_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/X5UMKPNBA7/moc_DeviceModel.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/X5UMKPNBA7/../../../../../../../src/modules/partition/core/DeviceModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/X5UMKPNBA7/moc_DeviceModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/X5UMKPNBA7/../../../../../../../src/modules/partition/core/DeviceModel.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/qhash.h /usr/include/qt6/QtCore/qalgorithms.h \
@@ -310,9 +310,9 @@ src/modules/partition/tests/CMakeFiles/partitioncreatelayoutstest.dir/partitionc
  /usr/include/qt6/QtCore/qlist.h /usr/include/qt6/QtCore/QScopedPointer \
  /usr/include/qt6/QtCore/qscopedpointer.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/EWIEGA46WW/moc_CreateLayoutsTests.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/EWIEGA46WW/../../../../../../../src/modules/partition/tests/CreateLayoutsTests.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMHelper.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/EWIEGA46WW/moc_CreateLayoutsTests.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/EWIEGA46WW/../../../../../../../src/modules/partition/tests/CreateLayoutsTests.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMHelper.h \
  /usr/include/kpmcore/backend/corebackend.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \
  /usr/include/kpmcore/fs/filesystem.h /usr/include/qt6/QtCore/QVariant \

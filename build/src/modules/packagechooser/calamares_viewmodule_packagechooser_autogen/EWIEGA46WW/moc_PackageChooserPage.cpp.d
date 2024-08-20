@@ -1,12 +1,12 @@
-/home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/moc_PackageChooserPage.cpp: /home/arun/VortexLinux/calamares/src/modules/packagechooser/PackageChooserPage.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/modules/packagechooser/Config.h \
-  /home/arun/VortexLinux/calamares/src/modules/packagechooser/PackageModel.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/moc_PackageChooserPage.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/PackageChooserPage.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/PackageModel.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

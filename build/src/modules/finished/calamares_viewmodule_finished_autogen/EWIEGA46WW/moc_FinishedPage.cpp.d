@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/modules/finished/calamares_viewmodule_finished_autogen/EWIEGA46WW/moc_FinishedPage.cpp: /home/arun/VortexLinux/calamares/src/modules/finished/FinishedPage.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/finished/calamares_viewmodule_finished_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/finished/calamares_viewmodule_finished_autogen/EWIEGA46WW/moc_FinishedPage.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedPage.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/finished/calamares_viewmodule_finished_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

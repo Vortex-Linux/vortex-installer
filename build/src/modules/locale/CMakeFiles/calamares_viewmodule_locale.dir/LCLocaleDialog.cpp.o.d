@@ -1,7 +1,7 @@
 src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/LCLocaleDialog.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/locale/LCLocaleDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/locale/LCLocaleDialog.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/locale/LCLocaleDialog.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/locale/LCLocaleDialog.h \
  /usr/include/qt6/QtWidgets/QDialog /usr/include/qt6/QtWidgets/qdialog.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \

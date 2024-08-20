@@ -1,8 +1,8 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/K3GKKSBDS6/moc_PythonJob.cpp: /home/arun/VortexLinux/calamares/src/libcalamares/python/PythonJob.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/K3GKKSBDS6/moc_PythonJob.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamares/python/PythonJob.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

@@ -1,7 +1,7 @@
 src/modules/partition/tests/CMakeFiles/partitionclearmountsjobtest.dir/ClearMountsJobTests.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/ClearMountsJobTests.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/ClearMountsJobTests.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/ClearMountsJobTests.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/ClearMountsJobTests.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \
@@ -289,8 +289,8 @@ src/modules/partition/tests/CMakeFiles/partitionclearmountsjobtest.dir/ClearMoun
  /usr/include/qt6/QtCore/qbindingstorage.h /usr/include/c++/14.2.1/chrono \
  /usr/include/c++/14.2.1/bits/chrono.h /usr/include/c++/14.2.1/ratio \
  /usr/include/c++/14.2.1/ctime \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qcontiguouscache.h \

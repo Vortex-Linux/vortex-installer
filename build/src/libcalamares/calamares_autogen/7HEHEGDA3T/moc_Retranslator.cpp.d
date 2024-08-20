@@ -1,8 +1,8 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/7HEHEGDA3T/moc_Retranslator.cpp: /home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/7HEHEGDA3T/moc_Retranslator.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

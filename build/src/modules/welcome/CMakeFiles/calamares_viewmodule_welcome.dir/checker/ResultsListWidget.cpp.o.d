@@ -1,9 +1,9 @@
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultsListWidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultsListWidget.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultsListWidget.h \
- /home/arun/VortexLinux/calamares/src/modules/welcome/Config.h \
- /home/arun/VortexLinux/calamares/src/modules/welcome/checker/GeneralRequirements.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultsListWidget.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/GeneralRequirements.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \
@@ -292,14 +292,14 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsL
  /usr/include/c++/14.2.1/bits/chrono.h /usr/include/c++/14.2.1/ratio \
  /usr/include/c++/14.2.1/ctime /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qcontiguouscache.h \
@@ -325,8 +325,8 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsL
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsModel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
@@ -359,7 +359,7 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsL
  /usr/include/qt6/QtGui/qfontmetrics.h /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultDelegate.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultDelegate.h \
  /usr/include/qt6/QtWidgets/QStyledItemDelegate \
  /usr/include/qt6/QtWidgets/qstyleditemdelegate.h \
  /usr/include/qt6/QtWidgets/qabstractitemdelegate.h \
@@ -373,26 +373,26 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsL
  /usr/include/qt6/QtWidgets/qtabwidget.h \
  /usr/include/qt6/QtWidgets/qrubberband.h \
  /usr/include/qt6/QtWidgets/qframe.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/Branding.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/Branding.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QMap /usr/include/qt6/QtCore/qmap.h \
  /usr/include/qt6/QtGui/QPixmap /usr/include/qt6/QtGui/qpixmap.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Gui.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/FixedAspectRatioLabel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Gui.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/FixedAspectRatioLabel.h \
  /usr/include/qt6/QtWidgets/QLabel /usr/include/qt6/QtWidgets/qlabel.h \
  /usr/include/qt6/QtGui/qpicture.h /usr/include/qt6/QtCore/qiodevice.h \
  /usr/include/qt6/QtGui/qtextdocument.h /usr/include/qt6/QtCore/qurl.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/WaitingWidget.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/waitingspinnerwidget.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/WaitingWidget.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/waitingspinnerwidget.h \
  /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtGui/qcolor.h \
  /usr/include/qt6/QtCore/QTimer /usr/include/qt6/QtCore/qtimer.h \
  /usr/include/qt6/QtCore/qbasictimer.h \

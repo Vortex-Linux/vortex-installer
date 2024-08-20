@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Utility rule file for luksbootkeyfiletest_autogen.
 
@@ -70,9 +70,9 @@ src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen: src/modules/
 
 src/modules/luksbootkeyfile/luksbootkeyfiletest_autogen/timestamp: /usr/lib/qt6/moc
 src/modules/luksbootkeyfile/luksbootkeyfiletest_autogen/timestamp: src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target luksbootkeyfiletest"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/luksbootkeyfile && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/modules/luksbootkeyfile && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/modules/luksbootkeyfile/luksbootkeyfiletest_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target luksbootkeyfiletest"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/luksbootkeyfile && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/luksbootkeyfile && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/modules/luksbootkeyfile/luksbootkeyfiletest_autogen/timestamp
 
 luksbootkeyfiletest_autogen: src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen
 luksbootkeyfiletest_autogen: src/modules/luksbootkeyfile/luksbootkeyfiletest_autogen/timestamp
@@ -84,10 +84,10 @@ src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/build: lu
 .PHONY : src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/build
 
 src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/modules/luksbootkeyfile && $(CMAKE_COMMAND) -P CMakeFiles/luksbootkeyfiletest_autogen.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/luksbootkeyfile && $(CMAKE_COMMAND) -P CMakeFiles/luksbootkeyfiletest_autogen.dir/cmake_clean.cmake
 .PHONY : src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/clean
 
 src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/modules/luksbootkeyfile /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/modules/luksbootkeyfile /home/arun/VortexLinux/calamares/build/src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/modules/luksbootkeyfile /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/modules/luksbootkeyfile /home/arun/VortexLinux/vortex-installer/build/src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/modules/luksbootkeyfile/CMakeFiles/luksbootkeyfiletest_autogen.dir/depend
 

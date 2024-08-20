@@ -1,6 +1,6 @@
-/home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/EWIEGA46WW/moc_CreateLayoutsTests.cpp: /home/arun/VortexLinux/calamares/src/modules/partition/tests/CreateLayoutsTests.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMHelper.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/EWIEGA46WW/moc_CreateLayoutsTests.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/CreateLayoutsTests.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitioncreatelayoutstest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMHelper.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

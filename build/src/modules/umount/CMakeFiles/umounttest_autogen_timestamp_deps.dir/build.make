@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Utility rule file for umounttest_autogen_timestamp_deps.
 
@@ -74,10 +74,10 @@ src/modules/umount/CMakeFiles/umounttest_autogen_timestamp_deps.dir/build: umoun
 .PHONY : src/modules/umount/CMakeFiles/umounttest_autogen_timestamp_deps.dir/build
 
 src/modules/umount/CMakeFiles/umounttest_autogen_timestamp_deps.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/modules/umount && $(CMAKE_COMMAND) -P CMakeFiles/umounttest_autogen_timestamp_deps.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/umount && $(CMAKE_COMMAND) -P CMakeFiles/umounttest_autogen_timestamp_deps.dir/cmake_clean.cmake
 .PHONY : src/modules/umount/CMakeFiles/umounttest_autogen_timestamp_deps.dir/clean
 
 src/modules/umount/CMakeFiles/umounttest_autogen_timestamp_deps.dir/depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/modules/umount /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/modules/umount /home/arun/VortexLinux/calamares/build/src/modules/umount/CMakeFiles/umounttest_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/modules/umount /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/modules/umount /home/arun/VortexLinux/vortex-installer/build/src/modules/umount/CMakeFiles/umounttest_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/modules/umount/CMakeFiles/umounttest_autogen_timestamp_deps.dir/depend
 

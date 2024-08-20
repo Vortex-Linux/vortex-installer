@@ -1,10 +1,10 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/include/TestPaste.moc: /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/TestPaste.cpp \
-  /home/arun/VortexLinux/calamares/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/network/Manager.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Paste.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/include/TestPaste.moc: /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/TestPaste.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Manager.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Paste.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

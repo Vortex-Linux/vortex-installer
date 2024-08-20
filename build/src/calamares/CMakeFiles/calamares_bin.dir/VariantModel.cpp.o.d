@@ -1,7 +1,7 @@
 src/calamares/CMakeFiles/calamares_bin.dir/VariantModel.cpp.o: \
- /home/arun/VortexLinux/calamares/src/calamares/VariantModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/calamares/VariantModel.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/calamares/VariantModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/calamares/VariantModel.h \
  /usr/include/qt6/QtCore/QAbstractItemModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/qhash.h /usr/include/qt6/QtCore/qalgorithms.h \
@@ -311,5 +311,5 @@ src/calamares/CMakeFiles/calamares_bin.dir/VariantModel.cpp.o: \
  /usr/include/qt6/QtCore/qvariant.h /usr/include/qt6/QtCore/QString \
  /usr/include/qt6/QtCore/qstring.h /usr/include/qt6/QtCore/QVector \
  /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/compat/Variant.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Variant.h \
  /usr/include/qt6/QtCore/QVariant

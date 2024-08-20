@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/libcalamaresnetworktest.dir/libcalamaresnetworktest_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresnetworktest_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresnetworktest_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresnetworktest_autogen/5SSUPNRDSB/moc_Tests.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresnetworktest_autogen/5SSUPNRDSB/../../../../../src/libcalamares/network/Tests.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresnetworktest_autogen/5SSUPNRDSB/moc_Tests.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresnetworktest_autogen/5SSUPNRDSB/../../../../../src/libcalamares/network/Tests.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \

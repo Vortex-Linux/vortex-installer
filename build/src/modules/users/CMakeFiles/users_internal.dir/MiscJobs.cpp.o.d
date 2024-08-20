@@ -1,9 +1,9 @@
 src/modules/users/CMakeFiles/users_internal.dir/MiscJobs.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/users/MiscJobs.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/users/MiscJobs.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/users/MiscJobs.h \
- /home/arun/VortexLinux/calamares/src/modules/users/Config.h \
- /home/arun/VortexLinux/calamares/src/modules/users/CheckPWQuality.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/users/MiscJobs.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/users/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/users/CheckPWQuality.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -310,32 +310,32 @@ src/modules/users/CMakeFiles/users_internal.dir/MiscJobs.cpp.o: \
  /usr/include/qt6/QtCore/qobject_impl.h \
  /usr/include/qt6/QtCore/qbindingstorage.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
  /usr/include/qt6/QtCore/qtsan_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Permissions.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Permissions.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
  /usr/include/qt6/QtCore/QPair /usr/include/qt6/QtCore/qpair.h \
  /usr/include/qt6/QtCore/QDir /usr/include/qt6/QtCore/qdir.h \
  /usr/include/qt6/QtCore/qfile.h /usr/include/qt6/QtCore/qfiledevice.h \

@@ -1,11 +1,11 @@
-/home/arun/VortexLinux/calamares/build/src/modules/machineid/machineidtest_autogen/EWIEGA46WW/moc_MachineIdJob.cpp: /home/arun/VortexLinux/calamares/src/modules/machineid/MachineIdJob.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/machineid/machineidtest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-  /home/arun/VortexLinux/calamares/src/modules/machineid/Workers.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/machineid/machineidtest_autogen/EWIEGA46WW/moc_MachineIdJob.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/machineid/MachineIdJob.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/machineid/machineidtest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/machineid/Workers.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

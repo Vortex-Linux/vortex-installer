@@ -1,6 +1,6 @@
-/home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/moc_kdsingleapplication.cpp: /home/arun/VortexLinux/calamares/3rdparty/kdsingleapplication/kdsingleapplication.h \
-  /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/3rdparty/kdsingleapplication/kdsingleapplication_lib.h \
+/home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/moc_kdsingleapplication.cpp: /home/arun/VortexLinux/vortex-installer/3rdparty/kdsingleapplication/kdsingleapplication.h \
+  /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/3rdparty/kdsingleapplication/kdsingleapplication_lib.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/asm/errno.h \

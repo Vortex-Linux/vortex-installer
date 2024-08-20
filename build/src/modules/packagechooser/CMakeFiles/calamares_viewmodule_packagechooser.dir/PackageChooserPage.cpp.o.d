@@ -1,11 +1,11 @@
 src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/PackageChooserPage.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/packagechooser/PackageChooserPage.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/PackageChooserPage.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/packagechooser/PackageChooserPage.h \
- /home/arun/VortexLinux/calamares/src/modules/packagechooser/Config.h \
- /home/arun/VortexLinux/calamares/src/modules/packagechooser/PackageModel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/PackageChooserPage.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/PackageModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QLocale /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/qvariant.h /usr/include/qt6/QtCore/qatomic.h \
  /usr/include/qt6/QtCore/qbasicatomic.h \
@@ -312,7 +312,7 @@ src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/Pa
  /usr/include/qt6/QtCore/qbindingstorage.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/qvariant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
@@ -330,13 +330,13 @@ src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/Pa
  /usr/include/qt6/QtGui/qtransform.h /usr/include/qt6/QtGui/qpolygon.h \
  /usr/include/qt6/QtGui/qregion.h /usr/include/qt6/QtCore/qline.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QAbstractItemModel \
@@ -351,7 +351,7 @@ src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/Pa
  /usr/include/qt6/QtGui/qfontmetrics.h /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/include/ui_page_package.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/include/ui_page_package.h \
  /usr/include/qt6/QtWidgets/QApplication \
  /usr/include/qt6/QtWidgets/qapplication.h \
  /usr/include/qt6/QtCore/qcoreapplication.h \
@@ -392,12 +392,12 @@ src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/Pa
  /usr/include/qt6/QtWidgets/qrubberband.h \
  /usr/include/qt6/QtWidgets/QVBoxLayout \
  /usr/include/qt6/QtWidgets/QWidget \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/FixedAspectRatioLabel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/FixedAspectRatioLabel.h \
  /usr/include/qt6/QtWidgets/QLabel \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Gui.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Gui.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h

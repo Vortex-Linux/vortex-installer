@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/YAHPEHSOKU/moc_keyboardpreview.cpp: /home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardpreview.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/YAHPEHSOKU/moc_keyboardpreview.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardpreview.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

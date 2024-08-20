@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/depend.make
@@ -72,65 +72,65 @@ include src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/flags.
 src/modules/finished/calamares_viewmodule_finished_autogen/timestamp: /usr/lib/qt6/moc
 src/modules/finished/calamares_viewmodule_finished_autogen/timestamp: /usr/lib/qt6/uic
 src/modules/finished/calamares_viewmodule_finished_autogen/timestamp: src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target calamares_viewmodule_finished"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/modules/finished/CMakeFiles/calamares_viewmodule_finished_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/modules/finished/calamares_viewmodule_finished_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target calamares_viewmodule_finished"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/modules/finished/CMakeFiles/calamares_viewmodule_finished_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/modules/finished/calamares_viewmodule_finished_autogen/timestamp
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o: src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/flags.make
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o: src/modules/finished/calamares_viewmodule_finished_autogen/mocs_compilation.cpp
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o: src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o -MF CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/calamares/build/src/modules/finished/calamares_viewmodule_finished_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o -MF CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/modules/finished/calamares_viewmodule_finished_autogen/mocs_compilation.cpp
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/modules/finished/calamares_viewmodule_finished_autogen/mocs_compilation.cpp > CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/modules/finished/calamares_viewmodule_finished_autogen/mocs_compilation.cpp > CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.i
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/modules/finished/calamares_viewmodule_finished_autogen/mocs_compilation.cpp -o CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/modules/finished/calamares_viewmodule_finished_autogen/mocs_compilation.cpp -o CMakeFiles/calamares_viewmodule_finished.dir/calamares_viewmodule_finished_autogen/mocs_compilation.cpp.s
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o: src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/flags.make
-src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o: /home/arun/VortexLinux/calamares/src/modules/finished/Config.cpp
+src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/finished/Config.cpp
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o: src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o -MF CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o.d -o CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/finished/Config.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o -MF CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o.d -o CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/finished/Config.cpp
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/finished/Config.cpp > CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/finished/Config.cpp > CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.i
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/finished/Config.cpp -o CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/finished/Config.cpp -o CMakeFiles/calamares_viewmodule_finished.dir/Config.cpp.s
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o: src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/flags.make
-src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o: /home/arun/VortexLinux/calamares/src/modules/finished/FinishedViewStep.cpp
+src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedViewStep.cpp
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o: src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o -MF CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o.d -o CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/finished/FinishedViewStep.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o -MF CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o.d -o CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedViewStep.cpp
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/finished/FinishedViewStep.cpp > CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedViewStep.cpp > CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.i
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/finished/FinishedViewStep.cpp -o CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedViewStep.cpp -o CMakeFiles/calamares_viewmodule_finished.dir/FinishedViewStep.cpp.s
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o: src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/flags.make
-src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o: /home/arun/VortexLinux/calamares/src/modules/finished/FinishedPage.cpp
+src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedPage.cpp
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o: src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o -MF CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o.d -o CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/finished/FinishedPage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o -MF CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o.d -o CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedPage.cpp
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/finished/FinishedPage.cpp > CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedPage.cpp > CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.i
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/finished/FinishedPage.cpp -o CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedPage.cpp -o CMakeFiles/calamares_viewmodule_finished.dir/FinishedPage.cpp.s
 
 # Object files for target calamares_viewmodule_finished
 calamares_viewmodule_finished_OBJECTS = \
@@ -150,7 +150,7 @@ src/modules/finished/libcalamares_viewmodule_finished.so: src/modules/finished/C
 src/modules/finished/libcalamares_viewmodule_finished.so: libcalamaresui.so.3.3.9
 src/modules/finished/libcalamares_viewmodule_finished.so: libcalamares.so.3.3.9
 src/modules/finished/libcalamares_viewmodule_finished.so: /usr/lib/libyaml-cpp.so
-src/modules/finished/libcalamares_viewmodule_finished.so: /usr/lib/libKF6CoreAddons.so.6.4.0
+src/modules/finished/libcalamares_viewmodule_finished.so: /usr/lib/libKF6CoreAddons.so.6.5.0
 src/modules/finished/libcalamares_viewmodule_finished.so: /usr/lib/libQt6DBus.so.6.7.2
 src/modules/finished/libcalamares_viewmodule_finished.so: /usr/lib/libQt6Svg.so.6.7.2
 src/modules/finished/libcalamares_viewmodule_finished.so: /usr/lib/libQt6QuickWidgets.so.6.7.2
@@ -166,18 +166,18 @@ src/modules/finished/libcalamares_viewmodule_finished.so: /usr/lib/libQt6Core.so
 src/modules/finished/libcalamares_viewmodule_finished.so: /usr/lib/libGLX.so
 src/modules/finished/libcalamares_viewmodule_finished.so: /usr/lib/libOpenGL.so
 src/modules/finished/libcalamares_viewmodule_finished.so: src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX shared library libcalamares_viewmodule_finished.so"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calamares_viewmodule_finished.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX shared library libcalamares_viewmodule_finished.so"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calamares_viewmodule_finished.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/build: src/modules/finished/libcalamares_viewmodule_finished.so
 .PHONY : src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/build
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/modules/finished && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_finished.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/finished && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_finished.dir/cmake_clean.cmake
 .PHONY : src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/clean
 
 src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/depend: src/modules/finished/calamares_viewmodule_finished_autogen/timestamp
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/modules/finished /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/modules/finished /home/arun/VortexLinux/calamares/build/src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/modules/finished /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/modules/finished /home/arun/VortexLinux/vortex-installer/build/src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/modules/finished/CMakeFiles/calamares_viewmodule_finished.dir/depend
 

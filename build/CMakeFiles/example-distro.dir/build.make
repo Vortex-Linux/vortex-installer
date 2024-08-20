@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Utility rule file for example-distro.
 
@@ -69,9 +69,9 @@ include CMakeFiles/example-distro.dir/progress.make
 CMakeFiles/example-distro: example.sqfs
 
 example.sqfs:
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating example.sqfs"
-	/sbin/mksquashfs /home/arun/VortexLinux/calamares/data/example-root/ /home/arun/VortexLinux/calamares/build/example.sqfs -all-root
-	/sbin/mksquashfs /sbin /bin /lib /lib64 /home/arun/VortexLinux/calamares/build/example.sqfs -all-root
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating example.sqfs"
+	/sbin/mksquashfs /home/arun/VortexLinux/vortex-installer/data/example-root/ /home/arun/VortexLinux/vortex-installer/build/example.sqfs -all-root
+	/sbin/mksquashfs /sbin /bin /lib /lib64 /home/arun/VortexLinux/vortex-installer/build/example.sqfs -all-root
 
 example-distro: CMakeFiles/example-distro
 example-distro: example.sqfs
@@ -87,6 +87,6 @@ CMakeFiles/example-distro.dir/clean:
 .PHONY : CMakeFiles/example-distro.dir/clean
 
 CMakeFiles/example-distro.dir/depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/CMakeFiles/example-distro.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/CMakeFiles/example-distro.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/example-distro.dir/depend
 

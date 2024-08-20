@@ -1,10 +1,10 @@
 src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/partitionautomounttest_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionautomounttest_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionautomounttest_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionautomounttest_autogen/PFFQJ22XCN/moc_AutoMountManagementJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionautomounttest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/AutoMountManagementJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionautomounttest_autogen/PFFQJ22XCN/moc_AutoMountManagementJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionautomounttest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/AutoMountManagementJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -296,6 +296,6 @@ src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/partitionautom
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qshareddata.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/AutoMount.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/AutoMount.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/qtmochelpers.h

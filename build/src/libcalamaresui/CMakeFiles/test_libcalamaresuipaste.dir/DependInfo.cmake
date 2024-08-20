@@ -9,9 +9,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp" "custom" "src/libcalamaresui/test_libcalamaresuipaste_autogen/deps"
-  "/home/arun/VortexLinux/calamares/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/mocs_compilation.cpp" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o" "gcc" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Paste.cpp" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o" "gcc" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/libcalamaresui/utils/TestPaste.cpp" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o" "gcc" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/mocs_compilation.cpp" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o" "gcc" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Paste.cpp" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o" "gcc" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/TestPaste.cpp" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o" "gcc" "src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

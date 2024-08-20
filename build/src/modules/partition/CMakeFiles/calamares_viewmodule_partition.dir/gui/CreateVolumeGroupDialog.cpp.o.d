@@ -1,8 +1,8 @@
 src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/CreateVolumeGroupDialog.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/CreateVolumeGroupDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/CreateVolumeGroupDialog.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/CreateVolumeGroupDialog.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/VolumeGroupBaseDialog.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/CreateVolumeGroupDialog.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/VolumeGroupBaseDialog.h \
  /usr/include/kpmcore/core/partition.h \
  /usr/include/kpmcore/core/partitionnode.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \

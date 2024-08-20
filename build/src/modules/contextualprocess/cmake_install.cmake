@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/src/modules/contextualprocess
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/src/modules/contextualprocess
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,12 +49,12 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/contextualprocess/libcalamares_job_contextualprocess.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/contextualprocess" TYPE SHARED_LIBRARY FILES "/home/arun/VortexLinux/calamares/build/src/modules/contextualprocess/libcalamares_job_contextualprocess.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/contextualprocess" TYPE SHARED_LIBRARY FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/contextualprocess/libcalamares_job_contextualprocess.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/contextualprocess/libcalamares_job_contextualprocess.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/contextualprocess/libcalamares_job_contextualprocess.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/contextualprocess/libcalamares_job_contextualprocess.so"
-         OLD_RPATH "/home/arun/VortexLinux/calamares/build:"
+         OLD_RPATH "/home/arun/VortexLinux/vortex-installer/build:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/sbin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/contextualprocess/libcalamares_job_contextualprocess.so")
@@ -66,6 +66,6 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/contextualprocess" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/contextualprocess/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/contextualprocess" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/contextualprocess/module.desc")
 endif()
 

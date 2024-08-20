@@ -1,8 +1,8 @@
 src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/KeyboardLayoutModel.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardLayoutModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardLayoutModel.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardLayoutModel.h \
- /home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardglobal.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardLayoutModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardglobal.h \
  /usr/include/qt6/QtCore/QMap /usr/include/qt6/QtCore/qmap.h \
  /usr/include/qt6/QtCore/qiterator.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -313,16 +313,16 @@ src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/KeyboardLayout
  /usr/include/qt6/QtCore/q23utility.h /usr/include/qt6/QtCore/QMetaType \
  /usr/include/qt6/QtCore/qmetatype.h /usr/include/qt6/QtCore/QObject \
  /usr/include/qt6/QtCore/qobject.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/RAII.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/RAII.h \
  /usr/include/qt6/QtCore/QSignalBlocker \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
  /usr/include/qt6/QtCore/QLocale /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/QTranslator \
  /usr/include/qt6/QtCore/qtranslator.h

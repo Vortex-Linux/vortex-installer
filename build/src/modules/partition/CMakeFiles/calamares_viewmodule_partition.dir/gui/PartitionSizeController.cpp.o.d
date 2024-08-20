@@ -1,7 +1,7 @@
 src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/PartitionSizeController.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/PartitionSizeController.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/PartitionSizeController.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/PartitionSizeController.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/PartitionSizeController.h \
  /usr/include/kpmcore/core/partition.h \
  /usr/include/kpmcore/core/partitionnode.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \
@@ -314,10 +314,10 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/Partitio
  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
  /usr/include/bits/uio_lim.h /usr/include/qt6/QtCore/QScopedPointer \
  /usr/include/qt6/QtCore/qscopedpointer.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/ColorUtils.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/KPMHelpers.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/Config.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/ColorUtils.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/KPMHelpers.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/kpmcore/fs/filesystem.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/qvariant.h /usr/include/qt6/QtCore/qdebug.h \
@@ -330,13 +330,13 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/Partitio
  /usr/include/qt6/QtCore/q23utility.h /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/QSet /usr/include/qt6/QtCore/qset.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/kpmcore/core/partitiontable.h \
  /usr/include/kpmcore/ops/operation.h /usr/include/kpmcore/util/report.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Units.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Units.h \
  /usr/include/qt6/QtCore/QIntegerForSize /usr/include/qt6/QtCore/qtypes.h \
  /usr/include/qt6/QtWidgets/QSpinBox \
  /usr/include/qt6/QtWidgets/qspinbox.h \

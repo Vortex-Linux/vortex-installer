@@ -1,11 +1,11 @@
 src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o: \
- /home/arun/VortexLinux/calamares/src/calamares/testmain.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/calamares/testmain.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/Branding.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/Branding.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -321,14 +321,14 @@ src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o: \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h /usr/include/qt6/QtCore/QUrl \
  /usr/include/qt6/QtCore/qurl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qcontiguouscache.h \
@@ -338,21 +338,21 @@ src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o: \
  /usr/include/qt6/QtCore/qvarlengtharray.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
  /usr/include/qt6/QtCore/qdebug.h /usr/include/qt6/QtCore/qobject.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
  /usr/include/qt6/QtCore/qtsan_impl.h /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/ViewManager.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/ViewManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
@@ -374,18 +374,18 @@ src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o: \
  /usr/include/qt6/QtWidgets/QStackedWidget \
  /usr/include/qt6/QtWidgets/qstackedwidget.h \
  /usr/include/qt6/QtWidgets/qframe.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Module.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Descriptor.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/modulesystem/ModuleManager.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/modulesystem/ViewModule.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Module.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Descriptor.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/modulesystem/ModuleManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/modulesystem/ViewModule.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
  /usr/include/qt6/QtCore/QLocale /usr/include/qt6/QtCore/qlocale.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
  /usr/include/qt6/QtCore/QPair /usr/include/qt6/QtCore/qpair.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
  /usr/include/qt6/QtCore/QVariantList \
  /usr/include/qt6/QtCore/qvariantlist.h /usr/include/qt6/QtCore/QList \
  /usr/include/yaml-cpp/yaml.h /usr/include/yaml-cpp/parser.h \
@@ -432,9 +432,9 @@ src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o: \
  /usr/include/c++/14.2.1/bits/indirect_array.h \
  /usr/include/yaml-cpp/node/detail/impl.h \
  /usr/include/yaml-cpp/node/parse.h /usr/include/yaml-cpp/node/emit.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ExecutionViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/LogWidget.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ExecutionViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/LogWidget.h \
  /usr/include/qt6/QtWidgets/QPlainTextEdit \
  /usr/include/qt6/QtWidgets/qplaintextedit.h \
  /usr/include/qt6/QtWidgets/qtextedit.h \
@@ -471,8 +471,8 @@ src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o: \
  /usr/include/c++/14.2.1/bits/atomic_futex.h \
  /usr/include/c++/14.2.1/bits/std_thread.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/python/PythonJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Qml.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/python/PythonJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Qml.h \
  /usr/include/qt6/QtCore/QDir /usr/include/qt6/QtCore/qdir.h \
  /usr/include/qt6/QtCore/qfile.h /usr/include/qt6/QtCore/qfiledevice.h \
  /usr/include/c++/14.2.1/filesystem /usr/include/c++/14.2.1/bits/fs_fwd.h \

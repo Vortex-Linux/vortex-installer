@@ -1,10 +1,10 @@
 src/modules/netinstall/CMakeFiles/calamares_viewmodule_netinstall.dir/calamares_viewmodule_netinstall_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_Config.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/Config.h \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/PackageModel.h \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/PackageTreeItem.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_Config.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/Config.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/PackageModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/PackageTreeItem.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -330,25 +330,25 @@ src/modules/netinstall/CMakeFiles/calamares_viewmodule_netinstall.dir/calamares_
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QLocale /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/QMap /usr/include/qt6/QtCore/qmap.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/QString \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_LoaderQueue.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/LoaderQueue.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_LoaderQueue.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/LoaderQueue.h \
  /usr/include/qt6/QtCore/QQueue /usr/include/qt6/QtCore/qqueue.h \
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/QVariantList \
  /usr/include/qt6/QtCore/qvariantlist.h /usr/include/qt6/QtCore/QList \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_NetInstallPage.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/NetInstallPage.h \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/Config.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_NetInstallPage.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/NetInstallPage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/Config.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtWidgets/qtwidgets-config.h \
@@ -358,15 +358,15 @@ src/modules/netinstall/CMakeFiles/calamares_viewmodule_netinstall.dir/calamares_
  /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_NetInstallViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/NetInstallViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_NetInstallViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/NetInstallViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
  /usr/include/qt6/QtCore/qplugin.h /usr/include/qt6/QtCore/qpointer.h \
@@ -378,5 +378,5 @@ src/modules/netinstall/CMakeFiles/calamares_viewmodule_netinstall.dir/calamares_
  /usr/include/qt6/QtCore/qregularexpression.h \
  /usr/include/qt6/QtCore/qurl.h /usr/include/qt6/QtCore/quuid.h \
  /usr/include/qt6/QtCore/q20algorithm.h \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_PackageModel.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/PackageModel.h
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_PackageModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/../../../../../../src/modules/netinstall/PackageModel.h

@@ -1,9 +1,9 @@
 src/libcalamares/CMakeFiles/calamares.dir/JobQueue.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -295,8 +295,8 @@ src/libcalamares/CMakeFiles/calamares.dir/JobQueue.cpp.o: \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qshareddata.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
@@ -320,10 +320,10 @@ src/libcalamares/CMakeFiles/calamares.dir/JobQueue.cpp.o: \
  /usr/include/qt6/QtCore/qvarlengtharray.h \
  /usr/include/qt6/QtCore/q23utility.h /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/libcalamares/compat/Mutex.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Mutex.h \
  /usr/include/qt6/QtCore/QMutexLocker \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtDBus/QDBusConnection \
  /usr/include/qt6/QtDBus/qdbusconnection.h \
@@ -348,6 +348,6 @@ src/libcalamares/CMakeFiles/calamares.dir/JobQueue.cpp.o: \
  /usr/include/c++/14.2.1/condition_variable \
  /usr/include/c++/14.2.1/bits/atomic_futex.h \
  /usr/include/c++/14.2.1/bits/std_thread.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/include/JobQueue.moc \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/include/JobQueue.moc \
  /usr/include/qt6/QtCore/qtmochelpers.h

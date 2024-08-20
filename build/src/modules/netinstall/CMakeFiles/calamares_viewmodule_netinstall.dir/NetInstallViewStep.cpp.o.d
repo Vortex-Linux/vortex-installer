@@ -1,10 +1,10 @@
 src/modules/netinstall/CMakeFiles/calamares_viewmodule_netinstall.dir/NetInstallViewStep.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/NetInstallViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/NetInstallViewStep.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/NetInstallViewStep.h \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/Config.h \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.h \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageTreeItem.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/NetInstallViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageTreeItem.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -330,25 +330,25 @@ src/modules/netinstall/CMakeFiles/calamares_viewmodule_netinstall.dir/NetInstall
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QLocale /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/QMap /usr/include/qt6/QtCore/qmap.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/NetInstallPage.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/NetInstallPage.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtWidgets/qtwidgets-config.h \

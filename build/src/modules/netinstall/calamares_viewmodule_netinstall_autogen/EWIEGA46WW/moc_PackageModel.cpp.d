@@ -1,6 +1,6 @@
-/home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_PackageModel.cpp: /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageTreeItem.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_PackageModel.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageTreeItem.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

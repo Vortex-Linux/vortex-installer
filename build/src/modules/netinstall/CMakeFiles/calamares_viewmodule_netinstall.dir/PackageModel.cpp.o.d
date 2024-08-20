@@ -1,8 +1,8 @@
 src/modules/netinstall/CMakeFiles/calamares_viewmodule_netinstall.dir/PackageModel.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.h \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageTreeItem.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageTreeItem.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -328,18 +328,18 @@ src/modules/netinstall/CMakeFiles/calamares_viewmodule_netinstall.dir/PackageMod
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/compat/Variant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Variant.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Variant.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Variant.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
  /usr/include/qt6/QtCore/QVariantList \

@@ -1,7 +1,7 @@
 src/libcalamaresui/CMakeFiles/calamaresui.dir/utils/ImageRegistry.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/ImageRegistry.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/ImageRegistry.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/ImageRegistry.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/ImageRegistry.h \
  /usr/include/qt6/QtGui/QPixmap /usr/include/qt6/QtGui/qpixmap.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -289,8 +289,8 @@ src/libcalamaresui/CMakeFiles/calamaresui.dir/utils/ImageRegistry.cpp.o: \
  /usr/include/qt6/QtGui/qregion.h /usr/include/qt6/QtCore/qdatastream.h \
  /usr/include/qt6/QtCore/qscopedpointer.h \
  /usr/include/qt6/QtCore/qiodevicebase.h /usr/include/qt6/QtCore/qline.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Gui.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Gui.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qmetatype.h /usr/include/qt6/QtCore/qcompare.h \
  /usr/include/qt6/QtCore/qcomparehelpers.h \

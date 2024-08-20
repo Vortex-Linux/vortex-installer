@@ -1,6 +1,6 @@
-/home/arun/VortexLinux/calamares/build/src/modules/finished/calamares_viewmodule_finished_autogen/EWIEGA46WW/moc_Config.cpp: /home/arun/VortexLinux/calamares/src/modules/finished/Config.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/finished/calamares_viewmodule_finished_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/finished/calamares_viewmodule_finished_autogen/EWIEGA46WW/moc_Config.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/finished/Config.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/finished/calamares_viewmodule_finished_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

@@ -1,5 +1,5 @@
 lang/CMakeFiles/txload.dir/txload.cpp.o: \
- /home/arun/VortexLinux/calamares/lang/txload.cpp \
+ /home/arun/VortexLinux/vortex-installer/lang/txload.cpp \
  /usr/include/stdc-predef.h /usr/include/qt6/QtCore/QCoreApplication \
  /usr/include/qt6/QtCore/qcoreapplication.h \
  /usr/include/qt6/QtCore/qglobal.h /usr/include/c++/14.2.1/type_traits \

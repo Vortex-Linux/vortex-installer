@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/calamares.dir/network/Manager.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/network/Manager.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Manager.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/network/Manager.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Manager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QByteArray /usr/include/qt6/QtCore/qbytearray.h \
  /usr/include/qt6/QtCore/qrefcount.h /usr/include/qt6/QtCore/qatomic.h \
  /usr/include/qt6/QtCore/qbasicatomic.h \
@@ -307,12 +307,12 @@ src/libcalamares/CMakeFiles/calamares.dir/network/Manager.cpp.o: \
  /usr/include/qt6/QtCore/qbindingstorage.h /usr/include/qt6/QtCore/QUrl \
  /usr/include/qt6/QtCore/qurl.h /usr/include/qt6/QtCore/QVector \
  /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/compat/Mutex.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Mutex.h \
  /usr/include/qt6/QtCore/QMutexLocker /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
  /usr/include/qt6/QtCore/qtsan_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
@@ -362,6 +362,6 @@ src/libcalamares/CMakeFiles/calamares.dir/network/Manager.cpp.o: \
  /usr/include/c++/14.2.1/bits/atomic_futex.h \
  /usr/include/c++/14.2.1/bits/std_thread.h /usr/include/qt6/QtCore/QTimer \
  /usr/include/qt6/QtCore/qtimer.h /usr/include/qt6/QtCore/qbasictimer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/include/Manager.moc \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/include/Manager.moc \
  /usr/include/qt6/QtCore/qtmochelpers.h

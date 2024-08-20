@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/depend.make
@@ -71,51 +71,51 @@ include src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/flags.make
 
 src/libcalamares/libcalamarespartitiontest_autogen/timestamp: /usr/lib/qt6/moc
 src/libcalamares/libcalamarespartitiontest_autogen/timestamp: src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target libcalamarespartitiontest"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/libcalamares/CMakeFiles/libcalamarespartitiontest_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamarespartitiontest_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target libcalamarespartitiontest"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CMakeFiles/libcalamarespartitiontest_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamarespartitiontest_autogen/timestamp
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o: src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/flags.make
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o: src/libcalamares/libcalamarespartitiontest_autogen/mocs_compilation.cpp
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o: src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o -MF CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamarespartitiontest_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o -MF CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamarespartitiontest_autogen/mocs_compilation.cpp
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamarespartitiontest_autogen/mocs_compilation.cpp > CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamarespartitiontest_autogen/mocs_compilation.cpp > CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.i
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamarespartitiontest_autogen/mocs_compilation.cpp -o CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamarespartitiontest_autogen/mocs_compilation.cpp -o CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.s
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o: src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/flags.make
-src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o: /home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.cpp
+src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o: /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.cpp
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o: src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o -MF CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o.d -o CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o -c /home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o -MF CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o.d -o CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.cpp
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.cpp > CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.cpp > CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.i
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.cpp -o CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.cpp -o CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.s
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o: src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/flags.make
-src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o: /home/arun/VortexLinux/calamares/src/libcalamares/partition/Tests.cpp
+src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o: /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Tests.cpp
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o: src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o -MF CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o.d -o CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o -c /home/arun/VortexLinux/calamares/src/libcalamares/partition/Tests.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o -MF CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o.d -o CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Tests.cpp
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/libcalamares/partition/Tests.cpp > CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Tests.cpp > CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.i
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/libcalamares/partition/Tests.cpp -o CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Tests.cpp -o CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.s
 
 # Object files for target libcalamarespartitiontest
 libcalamarespartitiontest_OBJECTS = \
@@ -135,28 +135,28 @@ libcalamarespartitiontest: /usr/lib/libQt6Test.so.6.7.2
 libcalamarespartitiontest: /usr/lib/libyaml-cpp.so
 libcalamarespartitiontest: /usr/lib/libQt6Network.so.6.7.2
 libcalamarespartitiontest: /usr/lib/libkpmcore.so.24.05.2
-libcalamarespartitiontest: /usr/lib/libKF6CoreAddons.so.6.4.0
+libcalamarespartitiontest: /usr/lib/libKF6CoreAddons.so.6.5.0
 libcalamarespartitiontest: /usr/lib/libQt6DBus.so.6.7.2
-libcalamarespartitiontest: /usr/lib/libKF6I18n.so.6.4.0
-libcalamarespartitiontest: /usr/lib/libKF6WidgetsAddons.so.6.4.1
+libcalamarespartitiontest: /usr/lib/libKF6I18n.so.6.5.0
+libcalamarespartitiontest: /usr/lib/libKF6WidgetsAddons.so.6.5.0
 libcalamarespartitiontest: /usr/lib/libQt6Widgets.so.6.7.2
 libcalamarespartitiontest: /usr/lib/libQt6Gui.so.6.7.2
 libcalamarespartitiontest: /usr/lib/libGLX.so
 libcalamarespartitiontest: /usr/lib/libOpenGL.so
 libcalamarespartitiontest: /usr/lib/libQt6Core.so.6.7.2
 libcalamarespartitiontest: src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../../libcalamarespartitiontest"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libcalamarespartitiontest.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../../libcalamarespartitiontest"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libcalamarespartitiontest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/build: libcalamarespartitiontest
 .PHONY : src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/build
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && $(CMAKE_COMMAND) -P CMakeFiles/libcalamarespartitiontest.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && $(CMAKE_COMMAND) -P CMakeFiles/libcalamarespartitiontest.dir/cmake_clean.cmake
 .PHONY : src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/clean
 
 src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/depend: src/libcalamares/libcalamarespartitiontest_autogen/timestamp
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/libcalamares /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/libcalamares /home/arun/VortexLinux/calamares/build/src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/libcalamares /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/libcalamares /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/depend
 

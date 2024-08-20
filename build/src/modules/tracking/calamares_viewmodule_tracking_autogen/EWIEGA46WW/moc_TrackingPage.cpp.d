@@ -1,7 +1,7 @@
-/home/arun/VortexLinux/calamares/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/moc_TrackingPage.cpp: /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingPage.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingType.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/moc_TrackingPage.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingPage.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingType.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

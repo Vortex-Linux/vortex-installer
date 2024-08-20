@@ -1,18 +1,18 @@
-/home/arun/VortexLinux/calamares/build/src/modules/users/usershostnametest_autogen/include/TestSetHostNameJob.moc: /home/arun/VortexLinux/calamares/src/modules/users/TestSetHostNameJob.cpp \
-  /home/arun/VortexLinux/calamares/build/src/modules/users/usershostnametest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-  /home/arun/VortexLinux/calamares/src/modules/users/CheckPWQuality.h \
-  /home/arun/VortexLinux/calamares/src/modules/users/Config.h \
-  /home/arun/VortexLinux/calamares/src/modules/users/SetHostNameJob.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/users/usershostnametest_autogen/include/TestSetHostNameJob.moc: /home/arun/VortexLinux/vortex-installer/src/modules/users/TestSetHostNameJob.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/users/usershostnametest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/users/CheckPWQuality.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/users/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/users/SetHostNameJob.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

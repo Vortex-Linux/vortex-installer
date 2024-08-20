@@ -1,9 +1,9 @@
 src/modules/partition/tests/CMakeFiles/partitionjobtest.dir/__/jobs/PartitionJob.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/jobs/PartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/PartitionJob.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/jobs/PartitionJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/PartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -295,5 +295,5 @@ src/modules/partition/tests/CMakeFiles/partitionjobtest.dir/__/jobs/PartitionJob
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qshareddata.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h

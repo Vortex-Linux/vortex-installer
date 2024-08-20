@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Utility rule file for kdsingleapplication_autogen.
 
@@ -70,9 +70,9 @@ include 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/
 
 3rdparty/kdsingleapplication/kdsingleapplication_autogen/timestamp: /usr/lib/qt6/moc
 3rdparty/kdsingleapplication/kdsingleapplication_autogen/timestamp: 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target kdsingleapplication"
-	cd /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target kdsingleapplication"
+	cd /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/timestamp
 
 kdsingleapplication_autogen: 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen
 kdsingleapplication_autogen: 3rdparty/kdsingleapplication/kdsingleapplication_autogen/timestamp
@@ -84,10 +84,10 @@ kdsingleapplication_autogen: 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapp
 .PHONY : 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/build
 
 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication && $(CMAKE_COMMAND) -P CMakeFiles/kdsingleapplication_autogen.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication && $(CMAKE_COMMAND) -P CMakeFiles/kdsingleapplication_autogen.dir/cmake_clean.cmake
 .PHONY : 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/clean
 
 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/3rdparty/kdsingleapplication /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/3rdparty/kdsingleapplication /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication_autogen.dir/depend
 

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/depend.make
@@ -72,158 +72,158 @@ include src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.ma
 src/modules/welcome/calamares_viewmodule_welcome_autogen/timestamp: /usr/lib/qt6/moc
 src/modules/welcome/calamares_viewmodule_welcome_autogen/timestamp: /usr/lib/qt6/uic
 src/modules/welcome/calamares_viewmodule_welcome_autogen/timestamp: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target calamares_viewmodule_welcome"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target calamares_viewmodule_welcome"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/timestamp
 
-src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp: /home/arun/VortexLinux/calamares/src/modules/welcome/welcome.qrc
+src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/welcome.qrc
 src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome_autogen.dir/AutoRcc_welcome_EWIEGA46WW_Info.json
-src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp: /home/arun/VortexLinux/calamares/src/modules/welcome/language-icon-128px.png
-src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp: /home/arun/VortexLinux/calamares/src/modules/welcome/language-icon-48px.png
+src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/language-icon-128px.png
+src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/language-icon-48px.png
 src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp: /usr/lib/qt6/rcc
 src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp: /usr/lib/qt6/rcc
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic RCC for welcome.qrc"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /usr/bin/cmake -E cmake_autorcc /home/arun/VortexLinux/calamares/build/src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome_autogen.dir/AutoRcc_welcome_EWIEGA46WW_Info.json Debug
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic RCC for welcome.qrc"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /usr/bin/cmake -E cmake_autorcc /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome_autogen.dir/AutoRcc_welcome_EWIEGA46WW_Info.json Debug
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.make
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o: src/modules/welcome/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.i
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.s
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.make
-src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o: /home/arun/VortexLinux/calamares/src/modules/welcome/checker/CheckerContainer.cpp
+src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/CheckerContainer.cpp
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/welcome/checker/CheckerContainer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/CheckerContainer.cpp
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/welcome/checker/CheckerContainer.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/CheckerContainer.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.i
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/welcome/checker/CheckerContainer.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/CheckerContainer.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/CheckerContainer.cpp.s
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.make
-src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o: /home/arun/VortexLinux/calamares/src/modules/welcome/checker/GeneralRequirements.cpp
+src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/GeneralRequirements.cpp
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/welcome/checker/GeneralRequirements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/GeneralRequirements.cpp
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/welcome/checker/GeneralRequirements.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/GeneralRequirements.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.i
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/welcome/checker/GeneralRequirements.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/GeneralRequirements.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/GeneralRequirements.cpp.s
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.make
-src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o: /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultDelegate.cpp
+src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultDelegate.cpp
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultDelegate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultDelegate.cpp
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultDelegate.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultDelegate.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.i
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultDelegate.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultDelegate.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.s
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.make
-src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o: /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultsListWidget.cpp
+src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultsListWidget.cpp
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultsListWidget.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultsListWidget.cpp
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultsListWidget.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultsListWidget.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.i
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultsListWidget.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultsListWidget.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultsListWidget.cpp.s
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.make
-src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o: /home/arun/VortexLinux/calamares/src/modules/welcome/checker/partman_devices.c
+src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/partman_devices.c
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o -c /home/arun/VortexLinux/calamares/src/modules/welcome/checker/partman_devices.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o -c /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/partman_devices.c
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/welcome/checker/partman_devices.c > CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/partman_devices.c > CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.i
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/welcome/checker/partman_devices.c -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/partman_devices.c -o CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.s
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.make
-src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o: /home/arun/VortexLinux/calamares/src/modules/welcome/WelcomeViewStep.cpp
+src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomeViewStep.cpp
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/welcome/WelcomeViewStep.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomeViewStep.cpp
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/welcome/WelcomeViewStep.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomeViewStep.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.i
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/welcome/WelcomeViewStep.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomeViewStep.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/WelcomeViewStep.cpp.s
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.make
-src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o: /home/arun/VortexLinux/calamares/src/modules/welcome/Config.cpp
+src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.cpp
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/welcome/Config.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.cpp
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/welcome/Config.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.i
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/welcome/Config.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/Config.cpp.s
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.make
-src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o: /home/arun/VortexLinux/calamares/src/modules/welcome/WelcomePage.cpp
+src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomePage.cpp
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/welcome/WelcomePage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomePage.cpp
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/welcome/WelcomePage.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomePage.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.i
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/welcome/WelcomePage.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomePage.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/WelcomePage.cpp.s
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/flags.make
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o: src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o -c /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o -MF CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o.d -o CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp > CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.i
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp -o CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp.s
 
 # Object files for target calamares_viewmodule_welcome
 calamares_viewmodule_welcome_OBJECTS = \
@@ -256,7 +256,7 @@ src/modules/welcome/libcalamares_viewmodule_welcome.so: /usr/lib/libparted.so
 src/modules/welcome/libcalamares_viewmodule_welcome.so: libcalamaresui.so.3.3.9
 src/modules/welcome/libcalamares_viewmodule_welcome.so: libcalamares.so.3.3.9
 src/modules/welcome/libcalamares_viewmodule_welcome.so: /usr/lib/libyaml-cpp.so
-src/modules/welcome/libcalamares_viewmodule_welcome.so: /usr/lib/libKF6CoreAddons.so.6.4.0
+src/modules/welcome/libcalamares_viewmodule_welcome.so: /usr/lib/libKF6CoreAddons.so.6.5.0
 src/modules/welcome/libcalamares_viewmodule_welcome.so: /usr/lib/libQt6DBus.so.6.7.2
 src/modules/welcome/libcalamares_viewmodule_welcome.so: /usr/lib/libQt6Svg.so.6.7.2
 src/modules/welcome/libcalamares_viewmodule_welcome.so: /usr/lib/libQt6QuickWidgets.so.6.7.2
@@ -272,19 +272,19 @@ src/modules/welcome/libcalamares_viewmodule_welcome.so: /usr/lib/libQt6Core.so.6
 src/modules/welcome/libcalamares_viewmodule_welcome.so: /usr/lib/libGLX.so
 src/modules/welcome/libcalamares_viewmodule_welcome.so: /usr/lib/libOpenGL.so
 src/modules/welcome/libcalamares_viewmodule_welcome.so: src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX shared library libcalamares_viewmodule_welcome.so"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calamares_viewmodule_welcome.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX shared library libcalamares_viewmodule_welcome.so"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calamares_viewmodule_welcome.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/build: src/modules/welcome/libcalamares_viewmodule_welcome.so
 .PHONY : src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/build
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/modules/welcome && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_welcome.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_welcome.dir/cmake_clean.cmake
 .PHONY : src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/clean
 
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/depend: src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/qrc_welcome.cpp
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/depend: src/modules/welcome/calamares_viewmodule_welcome_autogen/timestamp
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/modules/welcome /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/modules/welcome /home/arun/VortexLinux/calamares/build/src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/modules/welcome /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/depend
 

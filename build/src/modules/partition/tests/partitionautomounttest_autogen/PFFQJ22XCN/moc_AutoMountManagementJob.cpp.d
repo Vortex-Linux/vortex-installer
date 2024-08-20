@@ -1,8 +1,8 @@
-/home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionautomounttest_autogen/PFFQJ22XCN/moc_AutoMountManagementJob.cpp: /home/arun/VortexLinux/calamares/src/modules/partition/jobs/AutoMountManagementJob.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionautomounttest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/AutoMount.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionautomounttest_autogen/PFFQJ22XCN/moc_AutoMountManagementJob.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/AutoMountManagementJob.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionautomounttest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/AutoMount.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

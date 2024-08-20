@@ -1,11 +1,11 @@
 src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/calamares_viewmodule_packagechooser_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/moc_Config.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/../../../../../../src/modules/packagechooser/Config.h \
- /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/../../../../../../src/modules/packagechooser/PackageModel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/moc_Config.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/../../../../../../src/modules/packagechooser/Config.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/../../../../../../src/modules/packagechooser/PackageModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QLocale /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/qvariant.h /usr/include/qt6/QtCore/qatomic.h \
  /usr/include/qt6/QtCore/qbasicatomic.h \
@@ -312,7 +312,7 @@ src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/ca
  /usr/include/qt6/QtCore/qbindingstorage.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/qvariant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
@@ -330,19 +330,19 @@ src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/ca
  /usr/include/qt6/QtGui/qtransform.h /usr/include/qt6/QtGui/qpolygon.h \
  /usr/include/qt6/QtGui/qregion.h /usr/include/qt6/QtCore/qline.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/moc_PackageChooserPage.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/../../../../../../src/modules/packagechooser/PackageChooserPage.h \
- /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/../../../../../../src/modules/packagechooser/Config.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/moc_PackageChooserPage.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/../../../../../../src/modules/packagechooser/PackageChooserPage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/../../../../../../src/modules/packagechooser/Config.h \
  /usr/include/qt6/QtCore/QAbstractItemModel \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -355,15 +355,15 @@ src/modules/packagechooser/CMakeFiles/calamares_viewmodule_packagechooser.dir/ca
  /usr/include/qt6/QtGui/qfontmetrics.h /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/moc_PackageChooserViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/../../../../../../src/modules/packagechooser/PackageChooserViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/moc_PackageChooserViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/calamares_viewmodule_packagechooser_autogen/EWIEGA46WW/../../../../../../src/modules/packagechooser/PackageChooserViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
  /usr/include/qt6/QtCore/qplugin.h /usr/include/qt6/QtCore/qpointer.h \

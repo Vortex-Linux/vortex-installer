@@ -1,6 +1,6 @@
-/home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_KeyboardLayoutModel.cpp: /home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardLayoutModel.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardglobal.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_KeyboardLayoutModel.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardLayoutModel.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardglobal.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

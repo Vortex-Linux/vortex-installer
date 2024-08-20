@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Tests.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Tests.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Global.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Global.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QMap /usr/include/qt6/QtCore/qmap.h \
  /usr/include/qt6/QtCore/qiterator.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -313,8 +313,8 @@ src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o: \
  /usr/include/qt6/QtCore/qobject_impl.h \
  /usr/include/qt6/QtCore/qbindingstorage.h \
  /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TimeZone.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TimeZone.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/qvariant.h /usr/include/qt6/QtCore/QObject \
@@ -325,24 +325,24 @@ src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o: \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/qregularexpression.h \
  /usr/include/qt6/QtCore/QVariant \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
  /usr/include/qt6/QtCore/QLocale /usr/include/qt6/QtCore/qlocale.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h /usr/include/qt6/QtCore/QVector \
  /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresVersion.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresVersion.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
  /usr/include/qt6/QtCore/qtsan_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
  /usr/include/qt6/QtTest/QtTest /usr/include/qt6/QtTest/QtTestDepends \
  /usr/include/qt6/QtCore/QtCore /usr/include/qt6/QtCore/QtCoreDepends \
  /usr/include/qt6/QtCore/qglobal.h /usr/include/qt6/QtCore/q20algorithm.h \
@@ -771,6 +771,6 @@ src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o: \
  /usr/include/qt6/QtTest/qtesteventloop.h \
  /usr/include/qt6/QtTest/qtestsystem.h \
  /usr/include/qt6/QtTest/qttestversion.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamareslocaletest_autogen/include/Tests.moc \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamareslocaletest_autogen/include/Tests.moc \
  /usr/include/qt6/QtCore/qtmochelpers.h

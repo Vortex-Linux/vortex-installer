@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Utility rule file for test_libcalamaresuipaste_autogen.
 
@@ -70,9 +70,9 @@ src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen: src/libcalamares
 
 src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp: /usr/lib/qt6/moc
 src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp: src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target test_libcalamaresuipaste"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target test_libcalamaresuipaste"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp
 
 test_libcalamaresuipaste_autogen: src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen
 test_libcalamaresuipaste_autogen: src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp
@@ -84,10 +84,10 @@ src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/build: test_l
 .PHONY : src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/build
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && $(CMAKE_COMMAND) -P CMakeFiles/test_libcalamaresuipaste_autogen.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && $(CMAKE_COMMAND) -P CMakeFiles/test_libcalamaresuipaste_autogen.dir/cmake_clean.cmake
 .PHONY : src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/clean
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/libcalamaresui /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/libcalamaresui /home/arun/VortexLinux/calamares/build/src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/libcalamaresui /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/depend
 

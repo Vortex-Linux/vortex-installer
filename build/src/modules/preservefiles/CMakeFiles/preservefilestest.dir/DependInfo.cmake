@@ -9,9 +9,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/preservefiles/preservefilestest_autogen/timestamp" "custom" "src/modules/preservefiles/preservefilestest_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/preservefiles/Item.cpp" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o" "gcc" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/modules/preservefiles/Tests.cpp" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o" "gcc" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/preservefiles/preservefilestest_autogen/mocs_compilation.cpp" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Item.cpp" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o" "gcc" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Tests.cpp" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o" "gcc" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles/preservefilestest_autogen/mocs_compilation.cpp" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,6 +1,6 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_Slideshow.cpp: /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/Slideshow.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_Slideshow.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/Slideshow.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

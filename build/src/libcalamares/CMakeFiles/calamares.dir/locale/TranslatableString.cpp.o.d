@@ -1,7 +1,7 @@
 src/libcalamares/CMakeFiles/calamares.dir/locale/TranslatableString.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \

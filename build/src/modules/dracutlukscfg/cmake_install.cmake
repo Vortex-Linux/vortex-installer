@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/src/modules/dracutlukscfg
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/src/modules/dracutlukscfg
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,12 +49,12 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracutlukscfg/libcalamares_job_dracutlukscfg.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracutlukscfg" TYPE SHARED_LIBRARY FILES "/home/arun/VortexLinux/calamares/build/src/modules/dracutlukscfg/libcalamares_job_dracutlukscfg.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracutlukscfg" TYPE SHARED_LIBRARY FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/dracutlukscfg/libcalamares_job_dracutlukscfg.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracutlukscfg/libcalamares_job_dracutlukscfg.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracutlukscfg/libcalamares_job_dracutlukscfg.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracutlukscfg/libcalamares_job_dracutlukscfg.so"
-         OLD_RPATH "/home/arun/VortexLinux/calamares/build:"
+         OLD_RPATH "/home/arun/VortexLinux/vortex-installer/build:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/sbin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracutlukscfg/libcalamares_job_dracutlukscfg.so")
@@ -66,6 +66,6 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracutlukscfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/dracutlukscfg/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracutlukscfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/dracutlukscfg/module.desc")
 endif()
 

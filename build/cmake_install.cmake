@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares
+# Install script for directory: /home/arun/VortexLinux/vortex-installer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,29 +44,29 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/lang/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/lang/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/3rdparty/pybind11/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/3rdparty/pybind11/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/Calamares/CalamaresTargets.cmake")
     file(DIFFERENT _cmake_export_file_changed FILES
          "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/Calamares/CalamaresTargets.cmake"
-         "/home/arun/VortexLinux/calamares/build/CMakeFiles/Export/6666751cd3ab54d4a57a046f5b186768/CalamaresTargets.cmake")
+         "/home/arun/VortexLinux/vortex-installer/build/CMakeFiles/Export/6666751cd3ab54d4a57a046f5b186768/CalamaresTargets.cmake")
     if(_cmake_export_file_changed)
       file(GLOB _cmake_old_config_files "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/Calamares/CalamaresTargets-*.cmake")
       if(_cmake_old_config_files)
@@ -79,26 +79,26 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
     endif()
     unset(_cmake_export_file_changed)
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/Calamares" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/CMakeFiles/Export/6666751cd3ab54d4a57a046f5b186768/CalamaresTargets.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/Calamares" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/CMakeFiles/Export/6666751cd3ab54d4a57a046f5b186768/CalamaresTargets.cmake")
   if(CMAKE_INSTALL_CONFIG_NAME MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/Calamares" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/CMakeFiles/Export/6666751cd3ab54d4a57a046f5b186768/CalamaresTargets-debug.cmake")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/Calamares" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/CMakeFiles/Export/6666751cd3ab54d4a57a046f5b186768/CalamaresTargets-debug.cmake")
   endif()
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/Calamares" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/build/CalamaresConfig.cmake"
-    "/home/arun/VortexLinux/calamares/build/CalamaresConfigVersion.cmake"
-    "/home/arun/VortexLinux/calamares/CMakeModules/CalamaresAddBrandingSubdirectory.cmake"
-    "/home/arun/VortexLinux/calamares/CMakeModules/CalamaresAddLibrary.cmake"
-    "/home/arun/VortexLinux/calamares/CMakeModules/CalamaresAddModuleSubdirectory.cmake"
-    "/home/arun/VortexLinux/calamares/CMakeModules/CalamaresAddPlugin.cmake"
-    "/home/arun/VortexLinux/calamares/CMakeModules/CalamaresAddTest.cmake"
-    "/home/arun/VortexLinux/calamares/CMakeModules/CalamaresAddTranslations.cmake"
-    "/home/arun/VortexLinux/calamares/CMakeModules/CalamaresAutomoc.cmake"
-    "/home/arun/VortexLinux/calamares/CMakeModules/CalamaresCheckModuleSelection.cmake"
-    "/home/arun/VortexLinux/calamares/CMakeModules/CMakeColors.cmake"
-    "/home/arun/VortexLinux/calamares/CMakeModules/FindYAMLCPP.cmake"
+    "/home/arun/VortexLinux/vortex-installer/build/CalamaresConfig.cmake"
+    "/home/arun/VortexLinux/vortex-installer/build/CalamaresConfigVersion.cmake"
+    "/home/arun/VortexLinux/vortex-installer/CMakeModules/CalamaresAddBrandingSubdirectory.cmake"
+    "/home/arun/VortexLinux/vortex-installer/CMakeModules/CalamaresAddLibrary.cmake"
+    "/home/arun/VortexLinux/vortex-installer/CMakeModules/CalamaresAddModuleSubdirectory.cmake"
+    "/home/arun/VortexLinux/vortex-installer/CMakeModules/CalamaresAddPlugin.cmake"
+    "/home/arun/VortexLinux/vortex-installer/CMakeModules/CalamaresAddTest.cmake"
+    "/home/arun/VortexLinux/vortex-installer/CMakeModules/CalamaresAddTranslations.cmake"
+    "/home/arun/VortexLinux/vortex-installer/CMakeModules/CalamaresAutomoc.cmake"
+    "/home/arun/VortexLinux/vortex-installer/CMakeModules/CalamaresCheckModuleSelection.cmake"
+    "/home/arun/VortexLinux/vortex-installer/CMakeModules/CMakeColors.cmake"
+    "/home/arun/VortexLinux/vortex-installer/CMakeModules/FindYAMLCPP.cmake"
     )
 endif()
 
@@ -111,15 +111,15 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/usr/share/polkit-1/actions" TYPE FILE FILES "/home/arun/VortexLinux/calamares/com.github.calamares.calamares.policy")
+  file(INSTALL DESTINATION "/usr/share/polkit-1/actions" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/com.github.calamares.calamares.policy")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/applications" TYPE FILE FILES "/home/arun/VortexLinux/calamares/calamares.desktop")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/applications" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/calamares.desktop")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/man/man8" TYPE FILE FILES "/home/arun/VortexLinux/calamares/man/calamares.8")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/man/man8" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/man/calamares.8")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -137,6 +137,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/home/arun/VortexLinux/calamares/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/arun/VortexLinux/vortex-installer/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

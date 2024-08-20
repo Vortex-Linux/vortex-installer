@@ -1,20 +1,20 @@
-/home/arun/VortexLinux/calamares/build/src/modules/welcomeq/calamares_viewmodule_welcomeq_autogen/EWIEGA46WW/moc_WelcomeQmlViewStep.cpp: /home/arun/VortexLinux/calamares/src/modules/welcomeq/WelcomeQmlViewStep.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/welcomeq/calamares_viewmodule_welcomeq_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsModel.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Qml.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/QmlViewStep.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
-  /home/arun/VortexLinux/calamares/src/modules/welcome/Config.h \
-  /home/arun/VortexLinux/calamares/src/modules/welcome/checker/GeneralRequirements.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/welcomeq/calamares_viewmodule_welcomeq_autogen/EWIEGA46WW/moc_WelcomeQmlViewStep.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/welcomeq/WelcomeQmlViewStep.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/welcomeq/calamares_viewmodule_welcomeq_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Qml.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/QmlViewStep.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/GeneralRequirements.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

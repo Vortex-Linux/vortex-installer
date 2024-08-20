@@ -1,20 +1,28 @@
 calamares_viewmodule_finished_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/build/src/modules/finished/calamares_viewmodule_finished_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-	/home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
-	/home/arun/VortexLinux/calamares/src/modules/finished/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/finished/Config.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/finished/Config.h \
-	/home/arun/VortexLinux/calamares/src/modules/finished/FinishedPage.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/finished/FinishedPage.h \
-	/home/arun/VortexLinux/calamares/src/modules/finished/FinishedViewStep.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/finished/FinishedViewStep.h \
-	/home/arun/VortexLinux/calamares/src/modules/finished/finished.conf \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/finished/calamares_viewmodule_finished_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/finished/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/finished/Config.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/finished/Config.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedPage.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedPage.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedViewStep.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedViewStep.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/finished/finished.conf \
+	/lib/cmake/Qt6/Qt6Config.cmake \
+	/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/lib/cmake/Qt6/Qt6Targets.cmake \
+	/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -426,13 +434,6 @@ calamares_viewmodule_finished_autogen/timestamp: \
 	/usr/include/sys/types.h \
 	/usr/include/time.h \
 	/usr/include/wchar.h \
-	/usr/lib/cmake/Qt6/Qt6Config.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6/Qt6Dependencies.cmake \
-	/usr/lib/cmake/Qt6/Qt6Targets.cmake \
-	/usr/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
 	/usr/lib/cmake/Qt6/QtFeature.cmake \
 	/usr/lib/cmake/Qt6/QtFeatureCommon.cmake \
 	/usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
@@ -453,5 +454,5 @@ calamares_viewmodule_finished_autogen/timestamp: \
 	/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake \
 	/usr/share/cmake/Modules/CheckCXXCompilerFlag.cmake \
 	/usr/share/cmake/Modules/GNUInstallDirs.cmake \
-	/home/arun/VortexLinux/calamares/src/modules/finished/FinishedPage.ui \
+	/home/arun/VortexLinux/vortex-installer/src/modules/finished/FinishedPage.ui \
 	/usr/bin/cmake

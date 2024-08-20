@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/libcalamares/CMakeFiles/test_geoip.dir/depend.make
@@ -71,65 +71,65 @@ include src/libcalamares/CMakeFiles/test_geoip.dir/flags.make
 
 src/libcalamares/test_geoip_autogen/timestamp: /usr/lib/qt6/moc
 src/libcalamares/test_geoip_autogen/timestamp: src/libcalamares/CMakeFiles/test_geoip.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target test_geoip"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/libcalamares/CMakeFiles/test_geoip_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/libcalamares/test_geoip_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target test_geoip"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CMakeFiles/test_geoip_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/test_geoip_autogen/timestamp
 
 src/libcalamares/CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o: src/libcalamares/CMakeFiles/test_geoip.dir/flags.make
 src/libcalamares/CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o: src/libcalamares/test_geoip_autogen/mocs_compilation.cpp
 src/libcalamares/CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o: src/libcalamares/CMakeFiles/test_geoip.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/libcalamares/CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o -MF CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/calamares/build/src/libcalamares/test_geoip_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/libcalamares/CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o -MF CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/test_geoip_autogen/mocs_compilation.cpp
 
 src/libcalamares/CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/libcalamares/test_geoip_autogen/mocs_compilation.cpp > CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/test_geoip_autogen/mocs_compilation.cpp > CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.i
 
 src/libcalamares/CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/libcalamares/test_geoip_autogen/mocs_compilation.cpp -o CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/test_geoip_autogen/mocs_compilation.cpp -o CMakeFiles/test_geoip.dir/test_geoip_autogen/mocs_compilation.cpp.s
 
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o: src/libcalamares/CMakeFiles/test_geoip.dir/flags.make
-src/libcalamares/CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o: /home/arun/VortexLinux/calamares/src/libcalamares/geoip/test_geoip.cpp
+src/libcalamares/CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o: /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/test_geoip.cpp
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o: src/libcalamares/CMakeFiles/test_geoip.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/libcalamares/CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o -MF CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o.d -o CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o -c /home/arun/VortexLinux/calamares/src/libcalamares/geoip/test_geoip.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/libcalamares/CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o -MF CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o.d -o CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/test_geoip.cpp
 
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/libcalamares/geoip/test_geoip.cpp > CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/test_geoip.cpp > CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.i
 
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/libcalamares/geoip/test_geoip.cpp -o CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/test_geoip.cpp -o CMakeFiles/test_geoip.dir/geoip/test_geoip.cpp.s
 
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o: src/libcalamares/CMakeFiles/test_geoip.dir/flags.make
-src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o: /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPFixed.cpp
+src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o: /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPFixed.cpp
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o: src/libcalamares/CMakeFiles/test_geoip.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o -MF CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o.d -o CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o -c /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPFixed.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o -MF CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o.d -o CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPFixed.cpp
 
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPFixed.cpp > CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPFixed.cpp > CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.i
 
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPFixed.cpp -o CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPFixed.cpp -o CMakeFiles/test_geoip.dir/geoip/GeoIPFixed.cpp.s
 
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o: src/libcalamares/CMakeFiles/test_geoip.dir/flags.make
-src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o: /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPJSON.cpp
+src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o: /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPJSON.cpp
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o: src/libcalamares/CMakeFiles/test_geoip.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o -MF CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o.d -o CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o -c /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPJSON.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o -MF CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o.d -o CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPJSON.cpp
 
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPJSON.cpp > CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPJSON.cpp > CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.i
 
 src/libcalamares/CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPJSON.cpp -o CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPJSON.cpp -o CMakeFiles/test_geoip.dir/geoip/GeoIPJSON.cpp.s
 
 # Object files for target test_geoip
 test_geoip_OBJECTS = \
@@ -149,21 +149,21 @@ test_geoip: src/libcalamares/CMakeFiles/test_geoip.dir/build.make
 test_geoip: libcalamares.so.3.3.9
 test_geoip: /usr/lib/libQt6Network.so.6.7.2
 test_geoip: /usr/lib/libyaml-cpp.so
-test_geoip: /usr/lib/libKF6CoreAddons.so.6.4.0
+test_geoip: /usr/lib/libKF6CoreAddons.so.6.5.0
 test_geoip: /usr/lib/libQt6Core.so.6.7.2
 test_geoip: src/libcalamares/CMakeFiles/test_geoip.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable ../../test_geoip"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test_geoip.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable ../../test_geoip"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test_geoip.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/libcalamares/CMakeFiles/test_geoip.dir/build: test_geoip
 .PHONY : src/libcalamares/CMakeFiles/test_geoip.dir/build
 
 src/libcalamares/CMakeFiles/test_geoip.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && $(CMAKE_COMMAND) -P CMakeFiles/test_geoip.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && $(CMAKE_COMMAND) -P CMakeFiles/test_geoip.dir/cmake_clean.cmake
 .PHONY : src/libcalamares/CMakeFiles/test_geoip.dir/clean
 
 src/libcalamares/CMakeFiles/test_geoip.dir/depend: src/libcalamares/test_geoip_autogen/timestamp
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/libcalamares /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/libcalamares /home/arun/VortexLinux/calamares/build/src/libcalamares/CMakeFiles/test_geoip.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/libcalamares /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/libcalamares /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CMakeFiles/test_geoip.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/libcalamares/CMakeFiles/test_geoip.dir/depend
 

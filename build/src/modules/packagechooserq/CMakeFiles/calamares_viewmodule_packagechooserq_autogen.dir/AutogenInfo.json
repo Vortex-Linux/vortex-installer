@@ -1,19 +1,19 @@
 {
-	"BUILD_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/packagechooserq/calamares_viewmodule_packagechooserq_autogen",
-	"CMAKE_BINARY_DIR" : "/home/arun/VortexLinux/calamares/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/packagechooserq",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/arun/VortexLinux/calamares/src/modules/packagechooserq",
+	"BUILD_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooserq/calamares_viewmodule_packagechooserq_autogen",
+	"CMAKE_BINARY_DIR" : "/home/arun/VortexLinux/vortex-installer/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooserq",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/arun/VortexLinux/vortex-installer/src/modules/packagechooserq",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/arun/VortexLinux/calamares/src/modules/packagechooserq/CMakeLists.txt",
-		"/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
-		"/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
-		"/usr/lib/cmake/Qt6/Qt6Config.cmake",
-		"/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
-		"/usr/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
-		"/usr/lib/cmake/Qt6/Qt6Targets.cmake",
-		"/usr/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"/home/arun/VortexLinux/vortex-installer/src/modules/packagechooserq/CMakeLists.txt",
+		"/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/lib/cmake/Qt6/Qt6Config.cmake",
+		"/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/lib/cmake/Qt6/Qt6Targets.cmake",
+		"/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
 		"/usr/lib/cmake/Qt6/QtFeature.cmake",
 		"/usr/share/cmake/Modules/CheckCXXCompilerFlag.cmake",
 		"/usr/lib/cmake/Qt6/QtFeatureCommon.cmake",
@@ -30,40 +30,39 @@
 		"/usr/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
 		"/usr/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
 		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
-		"/usr/lib/cmake/Qt6/Qt6Dependencies.cmake",
-		"/home/arun/VortexLinux/calamares/CMakeModules/AppStreamHelper.cmake",
+		"/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"/home/arun/VortexLinux/vortex-installer/CMakeModules/AppStreamHelper.cmake",
 		"/usr/share/cmake/Modules/GNUInstallDirs.cmake",
-		"/home/arun/VortexLinux/calamares/src/modules/packagechooserq/packagechooserq.conf",
-		"/home/arun/VortexLinux/calamares/src/modules/packagechooserq/packagechooserq-qt6.qrc"
+		"/home/arun/VortexLinux/vortex-installer/src/modules/packagechooserq/packagechooserq-qt6.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/arun/VortexLinux/calamares",
+	"CMAKE_SOURCE_DIR" : "/home/arun/VortexLinux/vortex-installer",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/packagechooserq/calamares_viewmodule_packagechooserq_autogen/deps",
+	"DEP_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooserq/calamares_viewmodule_packagechooserq_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "calamares_viewmodule_packagechooserq_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/packagechooser/Config.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/Config.h",
 			"Mu",
 			"LUPZNNIJFZ/moc_Config.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/packagechooser/PackageModel.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/PackageModel.h",
 			"Mu",
 			"LUPZNNIJFZ/moc_PackageModel.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/packagechooserq/PackageChooserQmlViewStep.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/packagechooserq/PackageChooserQmlViewStep.h",
 			"Mu",
 			"EWIEGA46WW/moc_PackageChooserQmlViewStep.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/packagechooserq/calamares_viewmodule_packagechooserq_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/packagechooserq/calamares_viewmodule_packagechooserq_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooserq/calamares_viewmodule_packagechooserq_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooserq/calamares_viewmodule_packagechooserq_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"KCOREADDONS_LIB",
@@ -103,12 +102,12 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/arun/VortexLinux/calamares/src/libcalamares",
-		"/home/arun/VortexLinux/calamares/build/src/libcalamares",
-		"/home/arun/VortexLinux/calamares/src/libcalamaresui",
-		"/home/arun/VortexLinux/calamares/src/modules/packagechooserq",
-		"/home/arun/VortexLinux/calamares/build/src/modules/packagechooserq",
-		"/home/arun/VortexLinux/calamares/src/modules/packagechooser",
+		"/home/arun/VortexLinux/vortex-installer/src/libcalamares",
+		"/home/arun/VortexLinux/vortex-installer/build/src/libcalamares",
+		"/home/arun/VortexLinux/vortex-installer/src/libcalamaresui",
+		"/home/arun/VortexLinux/vortex-installer/src/modules/packagechooserq",
+		"/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooserq",
+		"/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser",
 		"/usr/include/qt6/QtCore",
 		"/usr/include/qt6",
 		"/usr/lib/qt6/mkspecs/linux-g++",
@@ -158,31 +157,31 @@
 		"-c",
 		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/packagechooserq/calamares_viewmodule_packagechooserq_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooserq/calamares_viewmodule_packagechooserq_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/packagechooserq/CMakeFiles/calamares_viewmodule_packagechooserq_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooserq/CMakeFiles/calamares_viewmodule_packagechooserq_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 7,
-	"SETTINGS_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/packagechooserq/CMakeFiles/calamares_viewmodule_packagechooserq_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooserq/CMakeFiles/calamares_viewmodule_packagechooserq_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/packagechooser/Config.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/Config.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/packagechooser/PackageModel.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/PackageModel.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/packagechooserq/PackageChooserQmlViewStep.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/packagechooserq/PackageChooserQmlViewStep.cpp",
 			"Mu",
 			null
 		]

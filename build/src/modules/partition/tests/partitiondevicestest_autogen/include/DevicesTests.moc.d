@@ -1,10 +1,10 @@
-/home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitiondevicestest_autogen/include/DevicesTests.moc: /home/arun/VortexLinux/calamares/src/modules/partition/tests/DevicesTests.cpp \
-  /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitiondevicestest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/core/DeviceList.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitiondevicestest_autogen/include/DevicesTests.moc: /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/DevicesTests.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitiondevicestest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/DeviceList.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/modules/netinstall/netinstalltest_autogen/EWIEGA46WW/moc_LoaderQueue.cpp: /home/arun/VortexLinux/calamares/src/modules/netinstall/LoaderQueue.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/netinstall/netinstalltest_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/netinstalltest_autogen/EWIEGA46WW/moc_LoaderQueue.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/LoaderQueue.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/netinstalltest_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

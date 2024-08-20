@@ -1,9 +1,9 @@
 src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/calamares_viewmodule_keyboard_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_Config.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/Config.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/AdditionalLayoutInfo.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_Config.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/Config.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/AdditionalLayoutInfo.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -262,8 +262,8 @@ src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/calamares_view
  /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qstringconverter.h \
  /usr/include/qt6/QtCore/qstringconverter_base.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qhashfunctions.h /usr/include/c++/14.2.1/numeric \
  /usr/include/c++/14.2.1/bits/stl_numeric.h \
@@ -299,8 +299,8 @@ src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/calamares_view
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qshareddata.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/KeyboardLayoutModel.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/keyboardwidget/keyboardglobal.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/KeyboardLayoutModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/keyboardwidget/keyboardglobal.h \
  /usr/include/qt6/QtCore/QMap /usr/include/qt6/QtCore/qmap.h \
  /usr/include/qt6/QtCore/qshareddata_impl.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
@@ -323,10 +323,10 @@ src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/calamares_view
  /usr/include/qt6/QtCore/qtimer.h /usr/include/qt6/QtCore/qbasictimer.h \
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_KeyboardLayoutModel.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/KeyboardLayoutModel.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_KeyboardPage.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/KeyboardPage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_KeyboardLayoutModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/KeyboardLayoutModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_KeyboardPage.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/KeyboardPage.h \
  /usr/include/qt6/QtWidgets/QListWidgetItem \
  /usr/include/qt6/QtWidgets/qlistwidget.h \
  /usr/include/qt6/QtWidgets/qlistview.h \
@@ -368,14 +368,14 @@ src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/calamares_view
  /usr/include/qt6/QtWidgets/qtabwidget.h \
  /usr/include/qt6/QtWidgets/qrubberband.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_KeyboardViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/KeyboardViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_KeyboardViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/KeyboardViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
  /usr/include/qt6/QtCore/qplugin.h /usr/include/qt6/QtCore/qpointer.h \
  /usr/include/qt6/QtCore/qjsonobject.h \
@@ -384,10 +384,10 @@ src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/calamares_view
  /usr/include/qt6/QtCore/qcalendar.h \
  /usr/include/qt6/QtCore/qcborcommon.h /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/quuid.h /usr/include/qt6/QtCore/q20algorithm.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_SetKeyboardLayoutJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/SetKeyboardLayoutJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/YAHPEHSOKU/moc_keyboardpreview.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/YAHPEHSOKU/../../../../../../src/modules/keyboard/keyboardwidget/keyboardpreview.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/moc_SetKeyboardLayoutJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/EWIEGA46WW/../../../../../../src/modules/keyboard/SetKeyboardLayoutJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/YAHPEHSOKU/moc_keyboardpreview.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/YAHPEHSOKU/../../../../../../src/modules/keyboard/keyboardwidget/keyboardpreview.h \
  /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtGui/qcolor.h \
  /usr/include/qt6/QtGui/QFont /usr/include/qt6/QtGui/qfont.h \
  /usr/include/qt6/QtGui/QPainter /usr/include/qt6/QtGui/qpainter.h \

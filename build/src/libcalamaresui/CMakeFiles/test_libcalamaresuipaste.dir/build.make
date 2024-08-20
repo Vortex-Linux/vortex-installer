@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/depend.make
@@ -71,51 +71,51 @@ include src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/flags.make
 
 src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp: /usr/lib/qt6/moc
 src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp: src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target test_libcalamaresuipaste"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target test_libcalamaresuipaste"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o: src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/flags.make
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o: src/libcalamaresui/test_libcalamaresuipaste_autogen/mocs_compilation.cpp
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o: src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o -MF CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/calamares/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o -MF CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/mocs_compilation.cpp
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/mocs_compilation.cpp > CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/mocs_compilation.cpp > CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.i
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/mocs_compilation.cpp -o CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/test_libcalamaresuipaste_autogen/mocs_compilation.cpp -o CMakeFiles/test_libcalamaresuipaste.dir/test_libcalamaresuipaste_autogen/mocs_compilation.cpp.s
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o: src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/flags.make
-src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o: /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/TestPaste.cpp
+src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o: /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/TestPaste.cpp
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o: src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o -MF CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o.d -o CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o -c /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/TestPaste.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o -MF CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o.d -o CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/TestPaste.cpp
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/TestPaste.cpp > CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/TestPaste.cpp > CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.i
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/TestPaste.cpp -o CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/TestPaste.cpp -o CMakeFiles/test_libcalamaresuipaste.dir/utils/TestPaste.cpp.s
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o: src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/flags.make
-src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o: /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Paste.cpp
+src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o: /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Paste.cpp
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o: src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o -MF CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o.d -o CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o -c /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Paste.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o -MF CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o.d -o CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Paste.cpp
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Paste.cpp > CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Paste.cpp > CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.i
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Paste.cpp -o CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Paste.cpp -o CMakeFiles/test_libcalamaresuipaste.dir/utils/Paste.cpp.s
 
 # Object files for target test_libcalamaresuipaste
 test_libcalamaresuipaste_OBJECTS = \
@@ -134,7 +134,7 @@ test_libcalamaresuipaste: libcalamaresui.so.3.3.9
 test_libcalamaresuipaste: /usr/lib/libQt6Test.so.6.7.2
 test_libcalamaresuipaste: libcalamares.so.3.3.9
 test_libcalamaresuipaste: /usr/lib/libyaml-cpp.so
-test_libcalamaresuipaste: /usr/lib/libKF6CoreAddons.so.6.4.0
+test_libcalamaresuipaste: /usr/lib/libKF6CoreAddons.so.6.5.0
 test_libcalamaresuipaste: /usr/lib/libQt6Svg.so.6.7.2
 test_libcalamaresuipaste: /usr/lib/libQt6QuickWidgets.so.6.7.2
 test_libcalamaresuipaste: /usr/lib/libQt6Quick.so.6.7.2
@@ -149,18 +149,18 @@ test_libcalamaresuipaste: /usr/lib/libGLX.so
 test_libcalamaresuipaste: /usr/lib/libOpenGL.so
 test_libcalamaresuipaste: /usr/lib/libQt6Core.so.6.7.2
 test_libcalamaresuipaste: src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../../test_libcalamaresuipaste"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test_libcalamaresuipaste.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../../test_libcalamaresuipaste"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test_libcalamaresuipaste.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/build: test_libcalamaresuipaste
 .PHONY : src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/build
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamaresui && $(CMAKE_COMMAND) -P CMakeFiles/test_libcalamaresuipaste.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui && $(CMAKE_COMMAND) -P CMakeFiles/test_libcalamaresuipaste.dir/cmake_clean.cmake
 .PHONY : src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/clean
 
 src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/depend: src/libcalamaresui/test_libcalamaresuipaste_autogen/timestamp
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/libcalamaresui /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/libcalamaresui /home/arun/VortexLinux/calamares/build/src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/libcalamaresui /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/libcalamaresui/CMakeFiles/test_libcalamaresuipaste.dir/depend
 

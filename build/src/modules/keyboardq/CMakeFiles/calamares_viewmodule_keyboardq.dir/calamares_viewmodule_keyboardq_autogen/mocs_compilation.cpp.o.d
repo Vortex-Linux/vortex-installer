@@ -1,9 +1,9 @@
 src/modules/keyboardq/CMakeFiles/calamares_viewmodule_keyboardq.dir/calamares_viewmodule_keyboardq_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/moc_Config.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/Config.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/AdditionalLayoutInfo.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/moc_Config.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/Config.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/AdditionalLayoutInfo.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -262,8 +262,8 @@ src/modules/keyboardq/CMakeFiles/calamares_viewmodule_keyboardq.dir/calamares_vi
  /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qstringconverter.h \
  /usr/include/qt6/QtCore/qstringconverter_base.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qhashfunctions.h /usr/include/c++/14.2.1/numeric \
  /usr/include/c++/14.2.1/bits/stl_numeric.h \
@@ -299,8 +299,8 @@ src/modules/keyboardq/CMakeFiles/calamares_viewmodule_keyboardq.dir/calamares_vi
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qshareddata.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/KeyboardLayoutModel.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/keyboardwidget/keyboardglobal.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/KeyboardLayoutModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/keyboardwidget/keyboardglobal.h \
  /usr/include/qt6/QtCore/QMap /usr/include/qt6/QtCore/qmap.h \
  /usr/include/qt6/QtCore/qshareddata_impl.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
@@ -323,20 +323,20 @@ src/modules/keyboardq/CMakeFiles/calamares_viewmodule_keyboardq.dir/calamares_vi
  /usr/include/qt6/QtCore/qtimer.h /usr/include/qt6/QtCore/qbasictimer.h \
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/moc_KeyboardLayoutModel.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/KeyboardLayoutModel.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/moc_SetKeyboardLayoutJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/SetKeyboardLayoutJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/EWIEGA46WW/moc_KeyboardQmlViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/EWIEGA46WW/../../../../../../src/modules/keyboardq/KeyboardQmlViewStep.h \
- /home/arun/VortexLinux/calamares/src/modules/keyboardq/../keyboard/Config.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/QmlViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Qml.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/moc_KeyboardLayoutModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/KeyboardLayoutModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/moc_SetKeyboardLayoutJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/CPJL7IPSRB/../../../../../../src/modules/keyboard/SetKeyboardLayoutJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/EWIEGA46WW/moc_KeyboardQmlViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/EWIEGA46WW/../../../../../../src/modules/keyboardq/KeyboardQmlViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/keyboardq/../keyboard/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/QmlViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Qml.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QDir /usr/include/qt6/QtCore/qdir.h \
  /usr/include/qt6/QtCore/qfile.h /usr/include/qt6/QtCore/qfiledevice.h \
  /usr/include/qt6/QtCore/qiodevice.h /usr/include/c++/14.2.1/filesystem \
@@ -367,8 +367,8 @@ src/modules/keyboardq/CMakeFiles/calamares_viewmodule_keyboardq.dir/calamares_vi
  /usr/include/qt6/QtCore/qfileinfo.h /usr/include/qt6/QtCore/qdatetime.h \
  /usr/include/qt6/QtCore/qcalendar.h /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/qtimezone.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
  /usr/include/qt6/QtCore/qmargins.h /usr/include/qt6/QtCore/qplugin.h \
  /usr/include/qt6/QtCore/qpointer.h /usr/include/qt6/QtCore/qjsonobject.h \

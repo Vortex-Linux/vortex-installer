@@ -1,7 +1,7 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/EWIEGA46WW/moc_ProcessJob.cpp: /home/arun/VortexLinux/calamares/src/libcalamares/ProcessJob.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/EWIEGA46WW/moc_ProcessJob.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamares/ProcessJob.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

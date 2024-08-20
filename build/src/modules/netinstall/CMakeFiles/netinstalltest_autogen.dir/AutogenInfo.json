@@ -1,52 +1,51 @@
 {
-	"BUILD_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/netinstall/netinstalltest_autogen",
-	"CMAKE_BINARY_DIR" : "/home/arun/VortexLinux/calamares/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/netinstall",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/arun/VortexLinux/calamares/src/modules/netinstall",
+	"BUILD_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/netinstalltest_autogen",
+	"CMAKE_BINARY_DIR" : "/home/arun/VortexLinux/vortex-installer/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/arun/VortexLinux/vortex-installer/src/modules/netinstall",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/arun/VortexLinux/calamares/src/modules/netinstall/CMakeLists.txt",
-		"/usr/share/cmake/Modules/GNUInstallDirs.cmake",
-		"/home/arun/VortexLinux/calamares/src/modules/netinstall/netinstall.conf"
+		"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/CMakeLists.txt",
+		"/usr/share/cmake/Modules/GNUInstallDirs.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/arun/VortexLinux/calamares",
+	"CMAKE_SOURCE_DIR" : "/home/arun/VortexLinux/vortex-installer",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/netinstall/netinstalltest_autogen/deps",
+	"DEP_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/netinstalltest_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "netinstalltest_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/netinstall/Config.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Config.h",
 			"Mu",
 			"EWIEGA46WW/moc_Config.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/netinstall/LoaderQueue.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/LoaderQueue.h",
 			"Mu",
 			"EWIEGA46WW/moc_LoaderQueue.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.h",
 			"Mu",
 			"EWIEGA46WW/moc_PackageModel.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/netinstall/PackageTreeItem.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageTreeItem.h",
 			"Mu",
 			"EWIEGA46WW/moc_PackageTreeItem.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/netinstall/netinstalltest_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/netinstall/netinstalltest_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/netinstalltest_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/netinstalltest_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
-		"BUILD_AS_TEST=\"/home/arun/VortexLinux/calamares/src/modules/netinstall\"",
+		"BUILD_AS_TEST=\"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall\"",
 		"KCOREADDONS_LIB",
 		"QT_CORE_LIB",
 		"QT_DISABLE_DEPRECATED_BEFORE=0x060400",
@@ -56,8 +55,8 @@
 		"QT_SHARED",
 		"QT_SHAREDPOINTER_TRACK_POINTERS",
 		"QT_STRICT_ITERATORS",
-		"QT_TESTCASE_BUILDDIR=\"/home/arun/VortexLinux/calamares/build/src/modules/netinstall\"",
-		"QT_TESTCASE_SOURCEDIR=\"/home/arun/VortexLinux/calamares/src/modules/netinstall\"",
+		"QT_TESTCASE_BUILDDIR=\"/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall\"",
+		"QT_TESTCASE_SOURCEDIR=\"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall\"",
 		"QT_TESTLIB_LIB"
 	],
 	"MOC_DEPEND_FILTERS" : 
@@ -77,11 +76,11 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/arun/VortexLinux/calamares/src/libcalamares",
-		"/home/arun/VortexLinux/calamares/build/src/libcalamares",
-		"/home/arun/VortexLinux/calamares/src/libcalamaresui",
-		"/home/arun/VortexLinux/calamares/src/modules/netinstall",
-		"/home/arun/VortexLinux/calamares/build/src/modules/netinstall",
+		"/home/arun/VortexLinux/vortex-installer/src/libcalamares",
+		"/home/arun/VortexLinux/vortex-installer/build/src/libcalamares",
+		"/home/arun/VortexLinux/vortex-installer/src/libcalamaresui",
+		"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall",
+		"/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall",
 		"/usr/include/qt6/QtCore",
 		"/usr/include/qt6",
 		"/usr/lib/qt6/mkspecs/linux-g++",
@@ -123,44 +122,44 @@
 		"-c",
 		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/netinstall/netinstalltest_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/netinstalltest_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : 
 	[
-		"/home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/mocs_compilation.cpp"
+		"/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/mocs_compilation.cpp"
 	],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/netinstall/CMakeFiles/netinstalltest_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/CMakeFiles/netinstalltest_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 7,
-	"SETTINGS_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/netinstall/CMakeFiles/netinstalltest_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/CMakeFiles/netinstalltest_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/netinstall/Config.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Config.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/netinstall/LoaderQueue.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/LoaderQueue.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/netinstall/PackageTreeItem.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageTreeItem.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/netinstall/Tests.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Tests.cpp",
 			"Mu",
 			null
 		]

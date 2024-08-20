@@ -1,7 +1,7 @@
 src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/VolumeGroupBaseDialog.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/VolumeGroupBaseDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/VolumeGroupBaseDialog.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/VolumeGroupBaseDialog.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/VolumeGroupBaseDialog.h \
  /usr/include/kpmcore/core/partition.h \
  /usr/include/kpmcore/core/partitionnode.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \
@@ -339,7 +339,7 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/VolumeGr
  /usr/include/qt6/QtGui/qfontmetrics.h /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/include/ui_VolumeGroupBaseDialog.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/include/ui_VolumeGroupBaseDialog.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
  /usr/include/qt6/QtWidgets/QAbstractButton \
  /usr/include/qt6/QtWidgets/qabstractbutton.h \
@@ -394,9 +394,9 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/VolumeGr
  /usr/include/qt6/QtCore/qitemselectionmodel.h \
  /usr/include/qt6/QtWidgets/QSpinBox \
  /usr/include/qt6/QtWidgets/qspinbox.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/SizeUtils.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/SizeUtils.h \
  /usr/include/kpmcore/util/capacity.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/ListPhysicalVolumeWidgetItem.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/ListPhysicalVolumeWidgetItem.h \
  /usr/include/qt6/QtWidgets/QListWidgetItem \
  /usr/include/qt6/QtWidgets/QComboBox \
  /usr/include/qt6/QtWidgets/QDialogButtonBox \

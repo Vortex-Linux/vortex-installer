@@ -1,56 +1,55 @@
 {
-	"BUILD_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen",
-	"CMAKE_BINARY_DIR" : "/home/arun/VortexLinux/calamares/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/keyboardq",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/arun/VortexLinux/calamares/src/modules/keyboardq",
+	"BUILD_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen",
+	"CMAKE_BINARY_DIR" : "/home/arun/VortexLinux/vortex-installer/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/arun/VortexLinux/vortex-installer/src/modules/keyboardq",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/arun/VortexLinux/calamares/src/modules/keyboardq/CMakeLists.txt",
+		"/home/arun/VortexLinux/vortex-installer/src/modules/keyboardq/CMakeLists.txt",
 		"/usr/share/cmake/Modules/GNUInstallDirs.cmake",
-		"/home/arun/VortexLinux/calamares/src/modules/keyboardq/keyboardq.conf",
-		"/home/arun/VortexLinux/calamares/src/modules/keyboardq/keyboardq-qt6.qrc"
+		"/home/arun/VortexLinux/vortex-installer/src/modules/keyboardq/keyboardq-qt6.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/arun/VortexLinux/calamares",
+	"CMAKE_SOURCE_DIR" : "/home/arun/VortexLinux/vortex-installer",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/deps",
+	"DEP_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "calamares_viewmodule_keyboardq_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/keyboard/Config.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/Config.h",
 			"Mu",
 			"CPJL7IPSRB/moc_Config.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardLayoutModel.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardLayoutModel.h",
 			"Mu",
 			"CPJL7IPSRB/moc_KeyboardLayoutModel.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/keyboard/SetKeyboardLayoutJob.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/SetKeyboardLayoutJob.h",
 			"Mu",
 			"CPJL7IPSRB/moc_SetKeyboardLayoutJob.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardglobal.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardglobal.h",
 			"Mu",
 			"QNOWLQGCU3/moc_keyboardglobal.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/keyboardq/KeyboardQmlViewStep.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/keyboardq/KeyboardQmlViewStep.h",
 			"Mu",
 			"EWIEGA46WW/moc_KeyboardQmlViewStep.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"KCOREADDONS_LIB",
@@ -91,12 +90,12 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/arun/VortexLinux/calamares/src/libcalamares",
-		"/home/arun/VortexLinux/calamares/build/src/libcalamares",
-		"/home/arun/VortexLinux/calamares/src/libcalamaresui",
-		"/home/arun/VortexLinux/calamares/src/modules/keyboard",
-		"/home/arun/VortexLinux/calamares/src/modules/keyboardq",
-		"/home/arun/VortexLinux/calamares/build/src/modules/keyboardq",
+		"/home/arun/VortexLinux/vortex-installer/src/libcalamares",
+		"/home/arun/VortexLinux/vortex-installer/build/src/libcalamares",
+		"/home/arun/VortexLinux/vortex-installer/src/libcalamaresui",
+		"/home/arun/VortexLinux/vortex-installer/src/modules/keyboard",
+		"/home/arun/VortexLinux/vortex-installer/src/modules/keyboardq",
+		"/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq",
 		"/usr/include/qt6/QtCore",
 		"/usr/include/qt6",
 		"/usr/lib/qt6/mkspecs/linux-g++",
@@ -147,41 +146,41 @@
 		"-c",
 		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/calamares_viewmodule_keyboardq_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/keyboardq/CMakeFiles/calamares_viewmodule_keyboardq_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/CMakeFiles/calamares_viewmodule_keyboardq_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 7,
-	"SETTINGS_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/keyboardq/CMakeFiles/calamares_viewmodule_keyboardq_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/CMakeFiles/calamares_viewmodule_keyboardq_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/keyboard/Config.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/Config.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardLayoutModel.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardLayoutModel.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/keyboard/SetKeyboardLayoutJob.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/SetKeyboardLayoutJob.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardglobal.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardglobal.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/keyboardq/KeyboardQmlViewStep.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/keyboardq/KeyboardQmlViewStep.cpp",
 			"Mu",
 			null
 		]

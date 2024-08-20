@@ -1,16 +1,16 @@
-/home/arun/VortexLinux/calamares/build/src/modules/netinstall/netinstalltest_autogen/include/Tests.moc: /home/arun/VortexLinux/calamares/src/modules/netinstall/Tests.cpp \
-  /home/arun/VortexLinux/calamares/build/src/modules/netinstall/netinstalltest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Variant.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-  /home/arun/VortexLinux/calamares/src/modules/netinstall/Config.h \
-  /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.h \
-  /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageTreeItem.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/netinstalltest_autogen/include/Tests.moc: /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Tests.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/netinstalltest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Variant.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageTreeItem.h \
   /usr/include/KF6/KCoreAddons/KMacroExpander \
   /usr/include/KF6/KCoreAddons/kcoreaddons_export.h \
   /usr/include/KF6/KCoreAddons/kcoreaddons_version.h \

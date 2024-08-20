@@ -1,16 +1,16 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamarespartitiontest_autogen/include/Tests.moc: /home/arun/VortexLinux/calamares/src/libcalamares/partition/Tests.cpp \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamarespartitiontest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionSize.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Units.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamarespartitiontest_autogen/include/Tests.moc: /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Tests.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamarespartitiontest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionSize.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Units.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

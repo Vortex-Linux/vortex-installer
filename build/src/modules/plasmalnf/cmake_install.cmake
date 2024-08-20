@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/src/modules/plasmalnf
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/src/modules/plasmalnf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,12 +49,12 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plasmalnf" TYPE SHARED_LIBRARY FILES "/home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plasmalnf" TYPE SHARED_LIBRARY FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so"
-         OLD_RPATH "/home/arun/VortexLinux/calamares/build:"
+         OLD_RPATH "/home/arun/VortexLinux/vortex-installer/build:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/sbin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so")
@@ -66,6 +66,6 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plasmalnf" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plasmalnf" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/module.desc")
 endif()
 

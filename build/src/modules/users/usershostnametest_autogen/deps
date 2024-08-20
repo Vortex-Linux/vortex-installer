@@ -1,25 +1,33 @@
 usershostnametest_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/CMakeModules/FindCrypt.cmake \
-	/home/arun/VortexLinux/calamares/CMakeModules/FindLibPWQuality.cmake \
-	/home/arun/VortexLinux/calamares/build/src/modules/users/usershostnametest_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-	/home/arun/VortexLinux/calamares/src/modules/users/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/users/CheckPWQuality.h \
-	/home/arun/VortexLinux/calamares/src/modules/users/Config.h \
-	/home/arun/VortexLinux/calamares/src/modules/users/SetHostNameJob.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/users/SetHostNameJob.h \
-	/home/arun/VortexLinux/calamares/src/modules/users/TestSetHostNameJob.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/users/users.conf \
-	/home/arun/VortexLinux/calamares/src/modules/users/users.qrc \
+	/home/arun/VortexLinux/vortex-installer/CMakeModules/FindCrypt.cmake \
+	/home/arun/VortexLinux/vortex-installer/CMakeModules/FindLibPWQuality.cmake \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/users/usershostnametest_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/users/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/users/CheckPWQuality.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/users/Config.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/users/SetHostNameJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/users/SetHostNameJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/users/TestSetHostNameJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/users/users.conf \
+	/home/arun/VortexLinux/vortex-installer/src/modules/users/users.qrc \
+	/lib/cmake/Qt6/Qt6Config.cmake \
+	/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/lib/cmake/Qt6/Qt6Targets.cmake \
+	/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -681,13 +689,6 @@ usershostnametest_autogen/timestamp: \
 	/usr/include/yaml-cpp/stlemitter.h \
 	/usr/include/yaml-cpp/traits.h \
 	/usr/include/yaml-cpp/yaml.h \
-	/usr/lib/cmake/Qt6/Qt6Config.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6/Qt6Dependencies.cmake \
-	/usr/lib/cmake/Qt6/Qt6Targets.cmake \
-	/usr/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
 	/usr/lib/cmake/Qt6/QtFeature.cmake \
 	/usr/lib/cmake/Qt6/QtFeatureCommon.cmake \
 	/usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \

@@ -1,7 +1,7 @@
 src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/timezonewidget/TimeZoneImage.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/TimeZoneImage.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/TimeZoneImage.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/TimeZoneImage.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/TimeZoneImage.h \
  /usr/include/qt6/QtGui/QImage /usr/include/qt6/QtGui/qimage.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -289,8 +289,8 @@ src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/timezonewidget/Tim
  /usr/include/qt6/QtCore/qscopedpointer.h \
  /usr/include/qt6/QtCore/qiodevicebase.h /usr/include/qt6/QtCore/qline.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qcontiguouscache.h \

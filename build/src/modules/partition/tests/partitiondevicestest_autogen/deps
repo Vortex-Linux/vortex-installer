@@ -1,13 +1,21 @@
 partitiondevicestest_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitiondevicestest_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-	/home/arun/VortexLinux/calamares/src/modules/partition/core/DeviceList.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/partition/core/DeviceList.h \
-	/home/arun/VortexLinux/calamares/src/modules/partition/tests/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/partition/tests/DevicesTests.cpp \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitiondevicestest_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/core/DeviceList.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/core/DeviceList.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/DevicesTests.cpp \
+	/lib/cmake/Qt6/Qt6Config.cmake \
+	/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/lib/cmake/Qt6/Qt6Targets.cmake \
+	/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -679,13 +687,6 @@ partitiondevicestest_autogen/timestamp: \
 	/usr/include/time.h \
 	/usr/include/unistd.h \
 	/usr/include/wchar.h \
-	/usr/lib/cmake/Qt6/Qt6Config.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6/Qt6Dependencies.cmake \
-	/usr/lib/cmake/Qt6/Qt6Targets.cmake \
-	/usr/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
 	/usr/lib/cmake/Qt6/QtFeature.cmake \
 	/usr/lib/cmake/Qt6/QtFeatureCommon.cmake \
 	/usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \

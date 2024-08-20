@@ -1,7 +1,7 @@
 src/modules/partition/tests/CMakeFiles/partitionconfigtest.dir/__/core/OsproberEntry.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/OsproberEntry.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/OsproberEntry.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/OsproberEntry.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/OsproberEntry.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \

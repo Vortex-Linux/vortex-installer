@@ -1,7 +1,7 @@
 src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/EditExistingPartitionDialog.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/EditExistingPartitionDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/EditExistingPartitionDialog.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/EditExistingPartitionDialog.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/EditExistingPartitionDialog.h \
  /usr/include/kpmcore/core/partitiontable.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \
  /usr/include/kpmcore/core/partitionnode.h \
@@ -338,7 +338,7 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/EditExis
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
  /usr/include/qt6/QtCore/QScopedPointer \
  /usr/include/qt6/QtCore/qscopedpointer.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/include/ui_EditExistingPartitionDialog.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/include/ui_EditExistingPartitionDialog.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
  /usr/include/qt6/QtWidgets/QAbstractButton \
  /usr/include/qt6/QtWidgets/qabstractbutton.h \
@@ -407,60 +407,60 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/EditExis
  /usr/include/qt6/QtCore/QPointer /usr/include/qt6/QtCore/qpointer.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/QLabel \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/EncryptWidget.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/EncryptWidget.h \
  /usr/include/kpmcore/fs/filesystem.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/ColorUtils.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/KPMHelpers.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/Config.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/ColorUtils.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/KPMHelpers.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/kpmcore/core/partition.h /usr/include/qt6/QtCore/QSet \
  /usr/include/qt6/QtCore/qset.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/kpmcore/ops/operation.h /usr/include/kpmcore/util/report.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/PartUtils.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/OsproberEntry.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Units.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartUtils.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/OsproberEntry.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Units.h \
  /usr/include/qt6/QtCore/QIntegerForSize /usr/include/qt6/QtCore/qtypes.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionCoreModule.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionLayout.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionSize.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionCoreModule.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionLayout.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionSize.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionModel.h \
  /usr/include/qt6/QtCore/QAbstractItemModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qtsan_impl.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/jobs/PartitionJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/PartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
  /usr/include/kpmcore/core/lvmdevice.h /usr/include/kpmcore/core/device.h \
  /usr/include/kpmcore/core/volumemanagerdevice.h \
  /usr/include/qt6/QtCore/QHash /usr/include/qt6/QtCore/qhash.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionInfo.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/PartitionDialogHelpers.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/PartitionSizeController.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionInfo.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/PartitionDialogHelpers.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/PartitionSizeController.h \
  /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtGui/qcolor.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/FileSystem.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/TranslationFix.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/FileSystem.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/TranslationFix.h \
  /usr/include/kpmcore/core/device.h \
  /usr/include/kpmcore/fs/filesystemfactory.h \
  /usr/include/kpmcore/fs/filesystem.h /usr/include/qt6/QtCore/QMap \

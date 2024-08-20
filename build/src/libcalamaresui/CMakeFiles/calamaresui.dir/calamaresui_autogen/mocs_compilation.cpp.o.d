@@ -1,12 +1,12 @@
 src/libcalamaresui/CMakeFiles/calamaresui.dir/calamaresui_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/moc_Branding.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/../../../../../src/libcalamaresui/Branding.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/moc_Branding.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/../../../../../src/libcalamaresui/Branding.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -322,16 +322,16 @@ src/libcalamaresui/CMakeFiles/calamaresui.dir/calamaresui_autogen/mocs_compilati
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h /usr/include/qt6/QtCore/QUrl \
  /usr/include/qt6/QtCore/qurl.h /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/moc_ViewManager.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/../../../../../src/libcalamaresui/ViewManager.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/../../../../../src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/moc_ViewManager.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/../../../../../src/libcalamaresui/ViewManager.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/../../../../../src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qcontiguouscache.h \
@@ -339,7 +339,7 @@ src/libcalamaresui/CMakeFiles/calamaresui.dir/calamaresui_autogen/mocs_compilati
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/qset.h \
  /usr/include/qt6/QtCore/qhash.h \
  /usr/include/qt6/QtCore/qvarlengtharray.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
@@ -361,21 +361,21 @@ src/libcalamaresui/CMakeFiles/calamaresui.dir/calamaresui_autogen/mocs_compilati
  /usr/include/qt6/QtWidgets/QStackedWidget \
  /usr/include/qt6/QtWidgets/qstackedwidget.h \
  /usr/include/qt6/QtWidgets/qframe.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/RUACCQ4MTV/moc_ModuleManager.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/RUACCQ4MTV/../../../../../src/libcalamaresui/modulesystem/ModuleManager.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Descriptor.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/RUACCQ4MTV/moc_ModuleManager.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/RUACCQ4MTV/../../../../../src/libcalamaresui/modulesystem/ModuleManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Descriptor.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
  /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_BlankViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/BlankViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_ExecutionViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/ExecutionViewStep.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/LogWidget.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_BlankViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/BlankViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_ExecutionViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/ExecutionViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/LogWidget.h \
  /usr/include/qt6/QtWidgets/QPlainTextEdit \
  /usr/include/qt6/QtWidgets/qplaintextedit.h \
  /usr/include/qt6/QtWidgets/qtextedit.h \
@@ -414,9 +414,9 @@ src/libcalamaresui/CMakeFiles/calamaresui.dir/calamaresui_autogen/mocs_compilati
  /usr/include/c++/14.2.1/bits/atomic_futex.h \
  /usr/include/c++/14.2.1/bits/std_thread.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_QmlViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/QmlViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Qml.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_QmlViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/QmlViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Qml.h \
  /usr/include/qt6/QtCore/QDir /usr/include/qt6/QtCore/qdir.h \
  /usr/include/qt6/QtCore/qfile.h /usr/include/qt6/QtCore/qfiledevice.h \
  /usr/include/c++/14.2.1/filesystem /usr/include/c++/14.2.1/bits/fs_fwd.h \
@@ -445,33 +445,33 @@ src/libcalamaresui/CMakeFiles/calamaresui.dir/calamaresui_autogen/mocs_compilati
  /usr/include/c++/14.2.1/bits/fs_ops.h \
  /usr/include/qt6/QtCore/qfileinfo.h /usr/include/qt6/QtCore/qdatetime.h \
  /usr/include/qt6/QtCore/qcalendar.h /usr/include/qt6/QtCore/qtimezone.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_Slideshow.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/Slideshow.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_Slideshow.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/Slideshow.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qtsan_impl.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_ViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_ClickableLabel.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/ClickableLabel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/moc_ViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/4DS6FYB4U4/../../../../../src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_ClickableLabel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/ClickableLabel.h \
  /usr/include/qt6/QtCore/QElapsedTimer \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
  /usr/include/qt6/QtWidgets/QLabel /usr/include/qt6/QtWidgets/qlabel.h \
  /usr/include/qt6/QtGui/qpicture.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_ErrorDialog.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/ErrorDialog.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_ErrorDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/ErrorDialog.h \
  /usr/include/qt6/QtWidgets/QDialog /usr/include/qt6/QtWidgets/qdialog.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_FixedAspectRatioLabel.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/FixedAspectRatioLabel.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_LogWidget.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/LogWidget.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_PrettyRadioButton.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/PrettyRadioButton.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_FixedAspectRatioLabel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/FixedAspectRatioLabel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_LogWidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/LogWidget.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_PrettyRadioButton.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/PrettyRadioButton.h \
  /usr/include/qt6/QtWidgets/QRadioButton \
  /usr/include/qt6/QtWidgets/qradiobutton.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_WaitingWidget.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/WaitingWidget.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/waitingspinnerwidget.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_WaitingWidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/../../../../../src/libcalamaresui/widgets/WaitingWidget.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/waitingspinnerwidget.h \
  /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtGui/qcolor.h \
  /usr/include/qt6/QtCore/QTimer /usr/include/qt6/QtCore/qtimer.h \
  /usr/include/qt6/QtCore/qbasictimer.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_waitingspinnerwidget.cpp
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_waitingspinnerwidget.cpp

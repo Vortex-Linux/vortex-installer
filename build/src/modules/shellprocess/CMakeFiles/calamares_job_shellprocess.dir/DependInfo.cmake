@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/shellprocess/calamares_job_shellprocess_autogen/timestamp" "custom" "src/modules/shellprocess/calamares_job_shellprocess_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/shellprocess/ShellProcessJob.cpp" "src/modules/shellprocess/CMakeFiles/calamares_job_shellprocess.dir/ShellProcessJob.cpp.o" "gcc" "src/modules/shellprocess/CMakeFiles/calamares_job_shellprocess.dir/ShellProcessJob.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/shellprocess/calamares_job_shellprocess_autogen/mocs_compilation.cpp" "src/modules/shellprocess/CMakeFiles/calamares_job_shellprocess.dir/calamares_job_shellprocess_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/shellprocess/CMakeFiles/calamares_job_shellprocess.dir/calamares_job_shellprocess_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/shellprocess/ShellProcessJob.cpp" "src/modules/shellprocess/CMakeFiles/calamares_job_shellprocess.dir/ShellProcessJob.cpp.o" "gcc" "src/modules/shellprocess/CMakeFiles/calamares_job_shellprocess.dir/ShellProcessJob.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/shellprocess/calamares_job_shellprocess_autogen/mocs_compilation.cpp" "src/modules/shellprocess/CMakeFiles/calamares_job_shellprocess.dir/calamares_job_shellprocess_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/shellprocess/CMakeFiles/calamares_job_shellprocess.dir/calamares_job_shellprocess_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

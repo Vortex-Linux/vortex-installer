@@ -9,9 +9,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/partition/tests/partitiondevicestest_autogen/timestamp" "custom" "src/modules/partition/tests/partitiondevicestest_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/partition/tests/DevicesTests.cpp" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/DevicesTests.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/DevicesTests.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/modules/partition/core/DeviceList.cpp" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/__/core/DeviceList.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/__/core/DeviceList.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitiondevicestest_autogen/mocs_compilation.cpp" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/partitiondevicestest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/partitiondevicestest_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/DevicesTests.cpp" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/DevicesTests.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/DevicesTests.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/partition/core/DeviceList.cpp" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/__/core/DeviceList.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/__/core/DeviceList.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitiondevicestest_autogen/mocs_compilation.cpp" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/partitiondevicestest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/partitiondevicestest_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,7 +1,7 @@
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDelegate.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultDelegate.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultDelegate.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultDelegate.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultDelegate.h \
  /usr/include/qt6/QtWidgets/QStyledItemDelegate \
  /usr/include/qt6/QtWidgets/qstyleditemdelegate.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -340,9 +340,9 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDe
  /usr/include/qt6/QtWidgets/qrubberband.h \
  /usr/include/qt6/QtWidgets/qframe.h \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsModel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
@@ -352,7 +352,7 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/ResultDe
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
  /usr/include/qt6/QtCore/qtsan_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Gui.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Gui.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtGui/QPixmap /usr/include/qt6/QtGui/qpixmap.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \

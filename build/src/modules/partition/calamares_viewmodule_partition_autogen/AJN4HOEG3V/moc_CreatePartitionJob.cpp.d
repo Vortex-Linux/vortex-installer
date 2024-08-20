@@ -1,9 +1,9 @@
-/home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_CreatePartitionJob.cpp: /home/arun/VortexLinux/calamares/src/modules/partition/jobs/CreatePartitionJob.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/jobs/PartitionJob.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_CreatePartitionJob.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/CreatePartitionJob.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/PartitionJob.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

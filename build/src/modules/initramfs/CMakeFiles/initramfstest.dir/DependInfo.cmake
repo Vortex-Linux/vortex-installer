@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/initramfs/initramfstest_autogen/timestamp" "custom" "src/modules/initramfs/initramfstest_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/initramfs/Tests.cpp" "src/modules/initramfs/CMakeFiles/initramfstest.dir/Tests.cpp.o" "gcc" "src/modules/initramfs/CMakeFiles/initramfstest.dir/Tests.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/initramfs/initramfstest_autogen/mocs_compilation.cpp" "src/modules/initramfs/CMakeFiles/initramfstest.dir/initramfstest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/initramfs/CMakeFiles/initramfstest.dir/initramfstest_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/initramfs/Tests.cpp" "src/modules/initramfs/CMakeFiles/initramfstest.dir/Tests.cpp.o" "gcc" "src/modules/initramfs/CMakeFiles/initramfstest.dir/Tests.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/initramfs/initramfstest_autogen/mocs_compilation.cpp" "src/modules/initramfs/CMakeFiles/initramfstest.dir/initramfstest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/initramfs/CMakeFiles/initramfstest.dir/initramfstest_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

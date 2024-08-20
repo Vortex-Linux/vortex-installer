@@ -1,9 +1,9 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/moc_Branding.cpp: /home/arun/VortexLinux/calamares/src/libcalamaresui/Branding.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/EWIEGA46WW/moc_Branding.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/Branding.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

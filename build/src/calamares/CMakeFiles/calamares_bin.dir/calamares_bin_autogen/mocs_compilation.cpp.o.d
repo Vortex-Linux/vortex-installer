@@ -1,8 +1,8 @@
 src/calamares/CMakeFiles/calamares_bin.dir/calamares_bin_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/moc_CalamaresApplication.cpp \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/../../../../../src/calamares/CalamaresApplication.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/moc_CalamaresApplication.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/../../../../../src/calamares/CalamaresApplication.h \
  /usr/include/qt6/QtWidgets/QApplication \
  /usr/include/qt6/QtWidgets/qapplication.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -335,8 +335,8 @@ src/calamares/CMakeFiles/calamares_bin.dir/calamares_bin_autogen/mocs_compilatio
  /usr/include/qt6/QtCore/qvariant.h \
  /usr/include/qt6/QtGui/qguiapplication_platform.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/moc_CalamaresWindow.cpp \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/../../../../../src/calamares/CalamaresWindow.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/moc_CalamaresWindow.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/../../../../../src/calamares/CalamaresWindow.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtGui/qaction.h /usr/include/qt6/QtGui/qkeysequence.h \
  /usr/include/qt6/QtGui/qicon.h /usr/include/qt6/QtGui/qpalette.h \
@@ -344,9 +344,9 @@ src/calamares/CMakeFiles/calamares_bin.dir/calamares_bin_autogen/mocs_compilatio
  /usr/include/qt6/QtCore/qendian.h /usr/include/qt6/QtGui/qfontmetrics.h \
  /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/moc_DebugWindow.cpp \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/../../../../../src/calamares/DebugWindow.h \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/../../../../../src/calamares/VariantModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/moc_DebugWindow.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/../../../../../src/calamares/DebugWindow.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/../../../../../src/calamares/VariantModel.h \
  /usr/include/qt6/QtCore/QAbstractItemModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/QVariantMap \
@@ -356,10 +356,10 @@ src/calamares/CMakeFiles/calamares_bin.dir/calamares_bin_autogen/mocs_compilatio
  /usr/include/qt6/QtCore/qstring.h /usr/include/qt6/QtCore/QVector \
  /usr/include/qt6/QtCore/qvector.h /usr/include/qt6/QtCore/QPointer \
  /usr/include/qt6/QtCore/qpointer.h /usr/include/qt6/QtCore/QVariant \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/moc_VariantModel.cpp \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/../../../../../src/calamares/VariantModel.h \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/WXGPQCWAY7/moc_ProgressTreeView.cpp \
- /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/WXGPQCWAY7/../../../../../src/calamares/progresstree/ProgressTreeView.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/moc_VariantModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/../../../../../src/calamares/VariantModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/WXGPQCWAY7/moc_ProgressTreeView.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/WXGPQCWAY7/../../../../../src/calamares/progresstree/ProgressTreeView.h \
  /usr/include/qt6/QtWidgets/QListView \
  /usr/include/qt6/QtWidgets/qlistview.h \
  /usr/include/qt6/QtWidgets/qabstractitemview.h \

@@ -1,8 +1,8 @@
 src/libcalamaresui/CMakeFiles/calamaresui.dir/widgets/waitingspinnerwidget.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/waitingspinnerwidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/waitingspinnerwidget.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/waitingspinnerwidget.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/waitingspinnerwidget.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtGui/qcolor.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \

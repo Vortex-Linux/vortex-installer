@@ -1,9 +1,9 @@
 src/modules/partition/tests/CMakeFiles/partitionconfigtest.dir/partitionconfigtest_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionconfigtest_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionconfigtest_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionconfigtest_autogen/GJ4YHME5YR/moc_Config.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionconfigtest_autogen/GJ4YHME5YR/../../../../../../../src/modules/partition/Config.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionconfigtest_autogen/GJ4YHME5YR/moc_Config.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionconfigtest_autogen/GJ4YHME5YR/../../../../../../../src/modules/partition/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -326,8 +326,8 @@ src/modules/partition/tests/CMakeFiles/partitionconfigtest.dir/partitionconfigte
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/QSet /usr/include/qt6/QtCore/qset.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionconfigtest_autogen/X5UMKPNBA7/moc_DeviceModel.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionconfigtest_autogen/X5UMKPNBA7/../../../../../../../src/modules/partition/core/DeviceModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionconfigtest_autogen/X5UMKPNBA7/moc_DeviceModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionconfigtest_autogen/X5UMKPNBA7/../../../../../../../src/modules/partition/core/DeviceModel.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/qvariant.h \

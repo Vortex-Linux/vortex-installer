@@ -1,7 +1,7 @@
 src/libcalamares/CMakeFiles/libcalamaresgeoiptest.dir/geoip/GeoIPTests.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPTests.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPTests.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPTests.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPTests.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \
@@ -289,9 +289,9 @@ src/libcalamares/CMakeFiles/libcalamaresgeoiptest.dir/geoip/GeoIPTests.cpp.o: \
  /usr/include/qt6/QtCore/qbindingstorage.h /usr/include/c++/14.2.1/chrono \
  /usr/include/c++/14.2.1/bits/chrono.h /usr/include/c++/14.2.1/ratio \
  /usr/include/c++/14.2.1/ctime \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPFixed.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Interface.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPFixed.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Interface.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qcontiguouscache.h \
@@ -310,8 +310,8 @@ src/libcalamares/CMakeFiles/libcalamaresgeoiptest.dir/geoip/GeoIPTests.cpp.o: \
  /usr/include/qt6/QtCore/qvarlengtharray.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPJSON.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Handler.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPJSON.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Handler.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QVariant \
@@ -342,7 +342,7 @@ src/libcalamares/CMakeFiles/libcalamaresgeoiptest.dir/geoip/GeoIPTests.cpp.o: \
  /usr/include/qt6/QtCore/qrunnable.h /usr/include/qt6/QtCore/qexception.h \
  /usr/include/qt6/QtCore/qpromise.h \
  /usr/include/qt6/QtConcurrent/qtconcurrentstoredfunctioncall.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/network/Manager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Manager.h \
  /usr/include/qt6/QtCore/QByteArray /usr/include/qt6/QtCore/qbytearray.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
  /usr/include/qt6/QtTest/QtTest /usr/include/qt6/QtTest/QtTestDepends \

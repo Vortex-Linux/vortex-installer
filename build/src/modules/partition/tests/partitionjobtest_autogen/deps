@@ -1,27 +1,35 @@
 partitionjobtest_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMHelper.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
-	/home/arun/VortexLinux/calamares/src/modules/partition/core/KPMHelpers.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/partition/core/KPMHelpers.h \
-	/home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionInfo.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionInfo.h \
-	/home/arun/VortexLinux/calamares/src/modules/partition/jobs/CreatePartitionJob.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/partition/jobs/CreatePartitionJob.h \
-	/home/arun/VortexLinux/calamares/src/modules/partition/jobs/CreatePartitionTableJob.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/partition/jobs/CreatePartitionTableJob.h \
-	/home/arun/VortexLinux/calamares/src/modules/partition/jobs/DeletePartitionJob.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/partition/jobs/DeletePartitionJob.h \
-	/home/arun/VortexLinux/calamares/src/modules/partition/jobs/PartitionJob.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/partition/jobs/PartitionJob.h \
-	/home/arun/VortexLinux/calamares/src/modules/partition/jobs/ResizePartitionJob.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/partition/jobs/ResizePartitionJob.h \
-	/home/arun/VortexLinux/calamares/src/modules/partition/tests/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/partition/tests/PartitionJobTests.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/partition/tests/PartitionJobTests.h \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMHelper.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/core/KPMHelpers.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/core/KPMHelpers.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionInfo.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionInfo.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/CreatePartitionJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/CreatePartitionJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/CreatePartitionTableJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/CreatePartitionTableJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/DeletePartitionJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/DeletePartitionJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/PartitionJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/PartitionJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/ResizePartitionJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/ResizePartitionJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/PartitionJobTests.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/PartitionJobTests.h \
+	/lib/cmake/Qt6/Qt6Config.cmake \
+	/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/lib/cmake/Qt6/Qt6Targets.cmake \
+	/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -417,13 +425,6 @@ partitionjobtest_autogen/timestamp: \
 	/usr/include/sys/types.h \
 	/usr/include/time.h \
 	/usr/include/wchar.h \
-	/usr/lib/cmake/Qt6/Qt6Config.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6/Qt6Dependencies.cmake \
-	/usr/lib/cmake/Qt6/Qt6Targets.cmake \
-	/usr/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
 	/usr/lib/cmake/Qt6/QtFeature.cmake \
 	/usr/lib/cmake/Qt6/QtFeatureCommon.cmake \
 	/usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \

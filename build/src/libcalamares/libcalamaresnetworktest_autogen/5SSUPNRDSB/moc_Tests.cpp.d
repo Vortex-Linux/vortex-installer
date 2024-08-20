@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresnetworktest_autogen/5SSUPNRDSB/moc_Tests.cpp: /home/arun/VortexLinux/calamares/src/libcalamares/network/Tests.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresnetworktest_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresnetworktest_autogen/5SSUPNRDSB/moc_Tests.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Tests.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresnetworktest_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

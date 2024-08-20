@@ -1,7 +1,7 @@
 src/modules/netinstall/CMakeFiles/calamares_viewmodule_netinstall.dir/groupstreeview.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/groupstreeview.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/groupstreeview.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/netinstall/groupstreeview.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/groupstreeview.h \
  /usr/include/qt6/QtWidgets/QTreeView \
  /usr/include/qt6/QtWidgets/qtreeview.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -342,8 +342,8 @@ src/modules/netinstall/CMakeFiles/calamares_viewmodule_netinstall.dir/groupstree
  /usr/include/qt6/QtWidgets/qstyle.h /usr/include/qt6/QtWidgets/qtabbar.h \
  /usr/include/qt6/QtWidgets/qtabwidget.h \
  /usr/include/qt6/QtWidgets/qrubberband.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \

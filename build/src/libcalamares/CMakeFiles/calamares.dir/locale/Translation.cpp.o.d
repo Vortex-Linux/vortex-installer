@@ -1,9 +1,9 @@
 src/libcalamares/CMakeFiles/calamares.dir/locale/Translation.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qcontainerfwd.h \
  /usr/include/qt6/QtCore/qtconfigmacros.h \

@@ -32,7 +32,7 @@ Presentation
 
         Image {
             id: background
-            source: "squid.png"
+            source: "vortexlinux-logo.png"
             width: 200; height: 200
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent

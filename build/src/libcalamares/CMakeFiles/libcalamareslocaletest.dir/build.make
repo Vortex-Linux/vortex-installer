@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/depend.make
@@ -71,60 +71,60 @@ include src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/flags.make
 
 src/libcalamares/qrc_localetest.cxx: src/libcalamares/localetest.qrc
 src/libcalamares/qrc_localetest.cxx: src/libcalamares/localetest_nl.qm
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating qrc_localetest.cxx"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /usr/lib/qt6/rcc --format-version 1 -name localetest -o /home/arun/VortexLinux/calamares/build/src/libcalamares/qrc_localetest.cxx /home/arun/VortexLinux/calamares/build/src/libcalamares/localetest.qrc
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating qrc_localetest.cxx"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /usr/lib/qt6/rcc --format-version 1 -name localetest -o /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/qrc_localetest.cxx /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/localetest.qrc
 
 src/libcalamares/libcalamareslocaletest_autogen/timestamp: /usr/lib/qt6/moc
 src/libcalamares/libcalamareslocaletest_autogen/timestamp: src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic MOC for target libcalamareslocaletest"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/libcalamares/CMakeFiles/libcalamareslocaletest_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamareslocaletest_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic MOC for target libcalamareslocaletest"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CMakeFiles/libcalamareslocaletest_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamareslocaletest_autogen/timestamp
 
-src/libcalamares/localetest_nl.qm: /home/arun/VortexLinux/calamares/src/libcalamares/testdata/localetest_nl.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating localetest_nl.qm"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/calamares/src/libcalamares/testdata/localetest_nl.ts -qm /home/arun/VortexLinux/calamares/build/src/libcalamares/localetest_nl.qm
+src/libcalamares/localetest_nl.qm: /home/arun/VortexLinux/vortex-installer/src/libcalamares/testdata/localetest_nl.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating localetest_nl.qm"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /usr/lib/qt6/bin/lrelease /home/arun/VortexLinux/vortex-installer/src/libcalamares/testdata/localetest_nl.ts -qm /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/localetest_nl.qm
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o: src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/flags.make
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o: src/libcalamares/libcalamareslocaletest_autogen/mocs_compilation.cpp
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o: src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o -MF CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamareslocaletest_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o -MF CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamareslocaletest_autogen/mocs_compilation.cpp
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamareslocaletest_autogen/mocs_compilation.cpp > CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamareslocaletest_autogen/mocs_compilation.cpp > CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.i
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamareslocaletest_autogen/mocs_compilation.cpp -o CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamareslocaletest_autogen/mocs_compilation.cpp -o CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.s
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o: src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/flags.make
-src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o: /home/arun/VortexLinux/calamares/src/libcalamares/locale/Tests.cpp
+src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o: /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Tests.cpp
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o: src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o -MF CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o.d -o CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o -c /home/arun/VortexLinux/calamares/src/libcalamares/locale/Tests.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o -MF CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o.d -o CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Tests.cpp
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/libcalamares/locale/Tests.cpp > CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Tests.cpp > CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.i
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/libcalamares/locale/Tests.cpp -o CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Tests.cpp -o CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.s
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o: src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/flags.make
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o: src/libcalamares/qrc_localetest.cxx
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o: src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o -MF CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o.d -o CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o -c /home/arun/VortexLinux/calamares/build/src/libcalamares/qrc_localetest.cxx
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o -MF CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o.d -o CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o -c /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/qrc_localetest.cxx
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/libcalamares/qrc_localetest.cxx > CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/qrc_localetest.cxx > CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.i
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/libcalamares/qrc_localetest.cxx -o CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/qrc_localetest.cxx -o CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.s
 
 # Object files for target libcalamareslocaletest
 libcalamareslocaletest_OBJECTS = \
@@ -143,23 +143,23 @@ libcalamareslocaletest: libcalamares.so.3.3.9
 libcalamareslocaletest: /usr/lib/libQt6Test.so.6.7.2
 libcalamareslocaletest: /usr/lib/libyaml-cpp.so
 libcalamareslocaletest: /usr/lib/libQt6Network.so.6.7.2
-libcalamareslocaletest: /usr/lib/libKF6CoreAddons.so.6.4.0
+libcalamareslocaletest: /usr/lib/libKF6CoreAddons.so.6.5.0
 libcalamareslocaletest: /usr/lib/libQt6Core.so.6.7.2
 libcalamareslocaletest: src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable ../../libcalamareslocaletest"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libcalamareslocaletest.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable ../../libcalamareslocaletest"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libcalamareslocaletest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/build: libcalamareslocaletest
 .PHONY : src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/build
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && $(CMAKE_COMMAND) -P CMakeFiles/libcalamareslocaletest.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && $(CMAKE_COMMAND) -P CMakeFiles/libcalamareslocaletest.dir/cmake_clean.cmake
 .PHONY : src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/clean
 
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/depend: src/libcalamares/libcalamareslocaletest_autogen/timestamp
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/depend: src/libcalamares/localetest_nl.qm
 src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/depend: src/libcalamares/qrc_localetest.cxx
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/libcalamares /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/libcalamares /home/arun/VortexLinux/calamares/build/src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/libcalamares /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/libcalamares /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/depend
 

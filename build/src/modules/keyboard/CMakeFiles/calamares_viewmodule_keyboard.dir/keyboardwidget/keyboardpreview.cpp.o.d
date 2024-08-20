@@ -1,7 +1,7 @@
 src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/keyboardwidget/keyboardpreview.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardpreview.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardpreview.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardpreview.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardpreview.h \
  /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtGui/qcolor.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -338,12 +338,12 @@ src/modules/keyboard/CMakeFiles/calamares_viewmodule_keyboard.dir/keyboardwidget
  /usr/include/qt6/QtGui/qpalette.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/String.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/String.h \
  /usr/include/qt6/QtCore/QProcess /usr/include/qt6/QtCore/qprocess.h \
  /usr/include/qt6/QtCore/qiodevice.h

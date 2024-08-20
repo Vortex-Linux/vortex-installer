@@ -1,8 +1,8 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/EWIEGA46WW/moc_Settings.cpp: /home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/EWIEGA46WW/moc_Settings.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

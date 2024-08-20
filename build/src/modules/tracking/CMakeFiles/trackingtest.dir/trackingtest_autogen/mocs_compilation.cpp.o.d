@@ -1,8 +1,8 @@
 src/modules/tracking/CMakeFiles/trackingtest.dir/trackingtest_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/tracking/trackingtest_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/trackingtest_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/tracking/trackingtest_autogen/EWIEGA46WW/moc_Config.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/tracking/trackingtest_autogen/EWIEGA46WW/../../../../../../src/modules/tracking/Config.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/trackingtest_autogen/EWIEGA46WW/moc_Config.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/trackingtest_autogen/EWIEGA46WW/../../../../../../src/modules/tracking/Config.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \

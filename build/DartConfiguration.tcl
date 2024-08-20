@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/arun/VortexLinux/calamares
-BuildDirectory: /home/arun/VortexLinux/calamares/build
+SourceDirectory: /home/arun/VortexLinux/vortex-installer
+BuildDirectory: /home/arun/VortexLinux/vortex-installer/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/home/arun/VortexLinux/calamares"
+ConfigureCommand: "/usr/bin/cmake" "/home/arun/VortexLinux/vortex-installer"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 

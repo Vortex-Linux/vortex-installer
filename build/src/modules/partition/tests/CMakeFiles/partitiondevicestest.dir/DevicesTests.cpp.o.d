@@ -1,7 +1,7 @@
 src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/DevicesTests.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/DevicesTests.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/DevicesTests.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../core/DeviceList.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../core/DeviceList.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -268,9 +268,9 @@ src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/DevicesTests.cpp
  /usr/include/qt6/QtCore/qalgorithms.h \
  /usr/include/qt6/QtCore/qstringmatcher.h /usr/include/qt6/QtCore/QString \
  /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qiodevicebase.h \
@@ -815,6 +815,6 @@ src/modules/partition/tests/CMakeFiles/partitiondevicestest.dir/DevicesTests.cpp
  /usr/include/bits/confname.h /usr/include/bits/getopt_posix.h \
  /usr/include/bits/getopt_core.h /usr/include/bits/unistd_ext.h \
  /usr/include/linux/close_range.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitiondevicestest_autogen/include/DevicesTests.moc \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitiondevicestest_autogen/include/DevicesTests.moc \
  /usr/include/qt6/QtCore/qtmochelpers.h

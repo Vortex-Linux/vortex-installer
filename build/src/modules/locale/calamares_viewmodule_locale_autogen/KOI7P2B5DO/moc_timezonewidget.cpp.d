@@ -1,9 +1,9 @@
-/home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/KOI7P2B5DO/moc_timezonewidget.cpp: /home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/timezonewidget.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TimeZone.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.h \
-  /home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/TimeZoneImage.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/KOI7P2B5DO/moc_timezonewidget.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/timezonewidget.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TimeZone.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/TimeZoneImage.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

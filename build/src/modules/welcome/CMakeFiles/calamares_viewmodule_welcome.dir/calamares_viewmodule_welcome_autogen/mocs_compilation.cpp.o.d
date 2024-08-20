@@ -1,9 +1,9 @@
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/moc_Config.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/../../../../../../src/modules/welcome/Config.h \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/../../../../../../src/modules/welcome/checker/GeneralRequirements.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/moc_Config.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/../../../../../../src/modules/welcome/Config.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/../../../../../../src/modules/welcome/checker/GeneralRequirements.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \
@@ -292,14 +292,14 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmo
  /usr/include/c++/14.2.1/bits/chrono.h /usr/include/c++/14.2.1/ratio \
  /usr/include/c++/14.2.1/ctime /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qcontiguouscache.h \
@@ -325,8 +325,8 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmo
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsModel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
@@ -338,8 +338,8 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmo
  /usr/include/qt6/QtCore/qregularexpression.h \
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/moc_WelcomePage.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/../../../../../../src/modules/welcome/WelcomePage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/moc_WelcomePage.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/../../../../../../src/modules/welcome/WelcomePage.h \
  /usr/include/qt6/QtWidgets/QStyledItemDelegate \
  /usr/include/qt6/QtWidgets/qstyleditemdelegate.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -375,13 +375,13 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmo
  /usr/include/qt6/QtWidgets/qrubberband.h \
  /usr/include/qt6/QtWidgets/qframe.h /usr/include/qt6/QtWidgets/QWidget \
  /usr/include/qt6/QtWidgets/qwidget.h \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/moc_WelcomeViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/../../../../../../src/modules/welcome/WelcomeViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/moc_WelcomeViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/../../../../../../src/modules/welcome/WelcomeViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
@@ -393,10 +393,10 @@ src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/calamares_viewmo
  /usr/include/qt6/QtCore/qcalendar.h \
  /usr/include/qt6/QtCore/qcborcommon.h /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/quuid.h /usr/include/qt6/QtCore/q20algorithm.h \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/moc_CheckerContainer.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/../../../../../../src/modules/welcome/checker/CheckerContainer.h \
- /home/arun/VortexLinux/calamares/src/modules/welcome/Config.h \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/moc_GeneralRequirements.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/../../../../../../src/modules/welcome/checker/GeneralRequirements.h \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/moc_ResultsListWidget.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/../../../../../../src/modules/welcome/checker/ResultsListWidget.h
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/moc_CheckerContainer.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/../../../../../../src/modules/welcome/checker/CheckerContainer.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/moc_GeneralRequirements.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/../../../../../../src/modules/welcome/checker/GeneralRequirements.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/moc_ResultsListWidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/JPFYYQWDSP/../../../../../../src/modules/welcome/checker/ResultsListWidget.h

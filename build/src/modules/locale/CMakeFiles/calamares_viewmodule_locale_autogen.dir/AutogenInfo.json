@@ -1,80 +1,79 @@
 {
-	"BUILD_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen",
-	"CMAKE_BINARY_DIR" : "/home/arun/VortexLinux/calamares/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/locale",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/arun/VortexLinux/calamares/src/modules/locale",
+	"BUILD_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen",
+	"CMAKE_BINARY_DIR" : "/home/arun/VortexLinux/vortex-installer/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/locale",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/arun/VortexLinux/vortex-installer/src/modules/locale",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/arun/VortexLinux/calamares/src/modules/locale/CMakeLists.txt",
+		"/home/arun/VortexLinux/vortex-installer/src/modules/locale/CMakeLists.txt",
 		"/usr/share/cmake/Modules/GNUInstallDirs.cmake",
-		"/home/arun/VortexLinux/calamares/src/modules/locale/locale.conf",
-		"/home/arun/VortexLinux/calamares/src/modules/locale/locale.qrc"
+		"/home/arun/VortexLinux/vortex-installer/src/modules/locale/locale.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/arun/VortexLinux/calamares",
+	"CMAKE_SOURCE_DIR" : "/home/arun/VortexLinux/vortex-installer",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/deps",
+	"DEP_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "calamares_viewmodule_locale_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/Config.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/Config.h",
 			"Mu",
 			"EWIEGA46WW/moc_Config.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/LCLocaleDialog.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/LCLocaleDialog.h",
 			"Mu",
 			"EWIEGA46WW/moc_LCLocaleDialog.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/LocaleConfiguration.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/LocaleConfiguration.h",
 			"Mu",
 			"EWIEGA46WW/moc_LocaleConfiguration.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/LocaleNames.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/LocaleNames.h",
 			"Mu",
 			"EWIEGA46WW/moc_LocaleNames.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/LocalePage.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/LocalePage.h",
 			"Mu",
 			"EWIEGA46WW/moc_LocalePage.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/LocaleViewStep.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/LocaleViewStep.h",
 			"Mu",
 			"EWIEGA46WW/moc_LocaleViewStep.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/SetTimezoneJob.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/SetTimezoneJob.h",
 			"Mu",
 			"EWIEGA46WW/moc_SetTimezoneJob.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/TimeZoneImage.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/TimeZoneImage.h",
 			"Mu",
 			"KOI7P2B5DO/moc_TimeZoneImage.cpp",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/timezonewidget.h",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/timezonewidget.h",
 			"Mu",
 			"KOI7P2B5DO/moc_timezonewidget.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"KCOREADDONS_LIB",
@@ -114,12 +113,12 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/arun/VortexLinux/calamares/src/libcalamares",
-		"/home/arun/VortexLinux/calamares/build/src/libcalamares",
-		"/home/arun/VortexLinux/calamares/src/libcalamaresui",
-		"/home/arun/VortexLinux/calamares/build/src/libcalamaresui",
-		"/home/arun/VortexLinux/calamares/src/modules/locale",
-		"/home/arun/VortexLinux/calamares/build/src/modules/locale",
+		"/home/arun/VortexLinux/vortex-installer/src/libcalamares",
+		"/home/arun/VortexLinux/vortex-installer/build/src/libcalamares",
+		"/home/arun/VortexLinux/vortex-installer/src/libcalamaresui",
+		"/home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui",
+		"/home/arun/VortexLinux/vortex-installer/src/modules/locale",
+		"/home/arun/VortexLinux/vortex-installer/build/src/modules/locale",
 		"/usr/include/qt6/QtCore",
 		"/usr/include/qt6",
 		"/usr/lib/qt6/mkspecs/linux-g++",
@@ -169,61 +168,61 @@
 		"-c",
 		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/locale/CMakeFiles/calamares_viewmodule_locale_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/CMakeFiles/calamares_viewmodule_locale_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 7,
-	"SETTINGS_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/locale/CMakeFiles/calamares_viewmodule_locale_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/CMakeFiles/calamares_viewmodule_locale_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/Config.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/Config.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/LCLocaleDialog.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/LCLocaleDialog.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/LocaleConfiguration.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/LocaleConfiguration.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/LocaleNames.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/LocaleNames.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/LocalePage.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/LocalePage.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/LocaleViewStep.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/LocaleViewStep.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/SetTimezoneJob.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/SetTimezoneJob.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/TimeZoneImage.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/TimeZoneImage.cpp",
 			"Mu",
 			null
 		],
 		[
-			"/home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/timezonewidget.cpp",
+			"/home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/timezonewidget.cpp",
 			"Mu",
 			null
 		]

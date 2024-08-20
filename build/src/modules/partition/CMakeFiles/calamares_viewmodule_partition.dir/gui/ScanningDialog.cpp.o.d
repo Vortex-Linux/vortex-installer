@@ -1,7 +1,7 @@
 src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/ScanningDialog.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/ScanningDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/ScanningDialog.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/ScanningDialog.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/ScanningDialog.h \
  /usr/include/qt6/QtWidgets/QDialog /usr/include/qt6/QtWidgets/qdialog.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \
@@ -343,8 +343,8 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/Scanning
  /usr/include/c++/14.2.1/bits/std_thread.h \
  /usr/include/qt6/QtCore/qrunnable.h /usr/include/qt6/QtCore/qexception.h \
  /usr/include/qt6/QtCore/qpromise.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/waitingspinnerwidget.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/waitingspinnerwidget.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtGui/qcolor.h \
  /usr/include/qt6/QtCore/QTimer /usr/include/qt6/QtCore/qtimer.h \
  /usr/include/qt6/QtCore/qbasictimer.h /usr/include/qt6/QtWidgets/QWidget \

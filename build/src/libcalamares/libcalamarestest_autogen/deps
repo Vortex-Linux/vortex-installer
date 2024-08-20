@@ -1,22 +1,22 @@
 libcalamarestest_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/CMakeModules/KPMcoreHelper.cmake \
-	/home/arun/VortexLinux/calamares/CMakeModules/i18n.qrc.in \
-	/home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamarestest_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CalamaresConfig.h.in \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CalamaresVersion.h.in \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CalamaresVersionX.h.in \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Tests.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/compat/Variant.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
+	/home/arun/VortexLinux/vortex-installer/CMakeModules/KPMcoreHelper.cmake \
+	/home/arun/VortexLinux/vortex-installer/CMakeModules/i18n.qrc.in \
+	/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamarestest_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresConfig.h.in \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresVersion.h.in \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresVersionX.h.in \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Tests.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Variant.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
 	/lib/cmake/KF6Config/KF6ConfigCompilerTargets-noconfig.cmake \
 	/lib/cmake/KF6Config/KF6ConfigCompilerTargets.cmake \
 	/lib/cmake/KF6Config/KF6ConfigConfig.cmake \
@@ -40,6 +40,22 @@ libcalamarestest_autogen/timestamp: \
 	/lib/cmake/KPMcore/KPMcoreConfigVersion.cmake \
 	/lib/cmake/KPMcore/KPMcoreTargets-noconfig.cmake \
 	/lib/cmake/KPMcore/KPMcoreTargets.cmake \
+	/lib/cmake/Qt6/Qt6Config.cmake \
+	/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/lib/cmake/Qt6/Qt6Targets.cmake \
+	/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsAdditionalTargetInfo.cmake \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake \
@@ -47,6 +63,17 @@ libcalamarestest_autogen/timestamp: \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsVersionlessTargets.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlAdditionalTargetInfo.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlConfigExtras.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlConfigVersion.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlConfigVersionImpl.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlFindQmlscInternal.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlPlugins.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlVersionlessTargets.cmake \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsAdditionalTargetInfo.cmake \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfig.cmake \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfigVersion.cmake \
@@ -54,6 +81,15 @@ libcalamarestest_autogen/timestamp: \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsDependencies.cmake \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsTargets.cmake \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsVersionlessTargets.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake \
@@ -61,6 +97,14 @@ libcalamarestest_autogen/timestamp: \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlAdditionalTargetInfo.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlConfig.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlConfigVersion.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlConfigVersionImpl.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlDependencies.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlTargets-relwithdebinfo.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlTargets.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlVersionlessTargets.cmake \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -652,13 +696,6 @@ libcalamarestest_autogen/timestamp: \
 	/usr/include/sys/types.h \
 	/usr/include/time.h \
 	/usr/include/wchar.h \
-	/usr/lib/cmake/Qt6/Qt6Config.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6/Qt6Dependencies.cmake \
-	/usr/lib/cmake/Qt6/Qt6Targets.cmake \
-	/usr/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
 	/usr/lib/cmake/Qt6/QtFeature.cmake \
 	/usr/lib/cmake/Qt6/QtFeatureCommon.cmake \
 	/usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
@@ -673,42 +710,6 @@ libcalamarestest_autogen/timestamp: \
 	/usr/lib/cmake/Qt6/QtPublicTestHelpers.cmake \
 	/usr/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
 	/usr/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlAdditionalTargetInfo.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlConfigExtras.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlConfigVersion.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlFindQmlscInternal.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlPlugins.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlVersionlessTargets.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlAdditionalTargetInfo.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlConfig.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlConfigVersion.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlDependencies.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlTargets-relwithdebinfo.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlTargets.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlVersionlessTargets.cmake \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/adxintrin.h \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/amxbf16intrin.h \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/amxcomplexintrin.h \

@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/WXGPQCWAY7/moc_ProgressTreeView.cpp: /home/arun/VortexLinux/calamares/src/calamares/progresstree/ProgressTreeView.h \
-  /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/WXGPQCWAY7/moc_ProgressTreeView.cpp: /home/arun/VortexLinux/vortex-installer/src/calamares/progresstree/ProgressTreeView.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

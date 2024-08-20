@@ -9,9 +9,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/libcalamares/libcalamarespartitiontest_autogen/timestamp" "custom" "src/libcalamares/libcalamarespartitiontest_autogen/deps"
-  "/home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamarespartitiontest_autogen/mocs_compilation.cpp" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o" "gcc" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.cpp" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o" "gcc" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/libcalamares/partition/Tests.cpp" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o" "gcc" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamarespartitiontest_autogen/mocs_compilation.cpp" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o" "gcc" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/libcalamarespartitiontest_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.cpp" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o" "gcc" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Global.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Tests.cpp" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o" "gcc" "src/libcalamares/CMakeFiles/libcalamarespartitiontest.dir/partition/Tests.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

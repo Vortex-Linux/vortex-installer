@@ -1,9 +1,9 @@
 src/libcalamares/CMakeFiles/calamares.dir/geoip/GeoIPXML.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPXML.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPXML.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPXML.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Interface.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPXML.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Interface.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qcontainerfwd.h \
  /usr/include/qt6/QtCore/qtconfigmacros.h \
@@ -306,7 +306,7 @@ src/libcalamares/CMakeFiles/calamares.dir/geoip/GeoIPXML.cpp.o: \
  /usr/include/qt6/QtCore/qvarlengtharray.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \

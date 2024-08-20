@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/modules/initramfs/initramfstest_autogen/EWIEGA46WW/moc_Tests.cpp: /home/arun/VortexLinux/calamares/src/modules/initramfs/Tests.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/initramfs/initramfstest_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/initramfs/initramfstest_autogen/EWIEGA46WW/moc_Tests.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/initramfs/Tests.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/initramfs/initramfstest_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

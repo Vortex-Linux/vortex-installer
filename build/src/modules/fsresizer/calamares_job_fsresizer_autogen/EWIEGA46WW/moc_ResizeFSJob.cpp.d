@@ -1,15 +1,15 @@
-/home/arun/VortexLinux/calamares/build/src/modules/fsresizer/calamares_job_fsresizer_autogen/EWIEGA46WW/moc_ResizeFSJob.cpp: /home/arun/VortexLinux/calamares/src/modules/fsresizer/ResizeFSJob.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/fsresizer/calamares_job_fsresizer_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionSize.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Units.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/fsresizer/calamares_job_fsresizer_autogen/EWIEGA46WW/moc_ResizeFSJob.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/fsresizer/ResizeFSJob.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/fsresizer/calamares_job_fsresizer_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionSize.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Units.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

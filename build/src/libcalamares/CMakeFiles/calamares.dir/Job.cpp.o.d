@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/calamares.dir/Job.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \

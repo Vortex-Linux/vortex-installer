@@ -1,15 +1,15 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilspathstest_autogen/include/TestPaths.moc: /home/arun/VortexLinux/calamares/src/libcalamares/utils/TestPaths.cpp \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilspathstest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Entropy.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/UMask.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilspathstest_autogen/include/TestPaths.moc: /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/TestPaths.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilspathstest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Entropy.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/UMask.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

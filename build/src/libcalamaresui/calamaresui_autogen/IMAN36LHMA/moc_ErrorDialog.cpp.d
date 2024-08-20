@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_ErrorDialog.cpp: /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/ErrorDialog.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_ErrorDialog.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/ErrorDialog.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

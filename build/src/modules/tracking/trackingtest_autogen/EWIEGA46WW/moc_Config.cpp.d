@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/modules/tracking/trackingtest_autogen/EWIEGA46WW/moc_Config.cpp: /home/arun/VortexLinux/calamares/src/modules/tracking/Config.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/tracking/trackingtest_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/trackingtest_autogen/EWIEGA46WW/moc_Config.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/Config.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/trackingtest_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

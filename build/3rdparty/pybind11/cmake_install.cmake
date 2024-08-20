@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/3rdparty/pybind11
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/3rdparty/pybind11
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

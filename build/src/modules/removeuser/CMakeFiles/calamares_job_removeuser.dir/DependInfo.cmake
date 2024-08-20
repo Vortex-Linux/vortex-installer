@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/removeuser/calamares_job_removeuser_autogen/timestamp" "custom" "src/modules/removeuser/calamares_job_removeuser_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/removeuser/RemoveUserJob.cpp" "src/modules/removeuser/CMakeFiles/calamares_job_removeuser.dir/RemoveUserJob.cpp.o" "gcc" "src/modules/removeuser/CMakeFiles/calamares_job_removeuser.dir/RemoveUserJob.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/removeuser/calamares_job_removeuser_autogen/mocs_compilation.cpp" "src/modules/removeuser/CMakeFiles/calamares_job_removeuser.dir/calamares_job_removeuser_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/removeuser/CMakeFiles/calamares_job_removeuser.dir/calamares_job_removeuser_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/removeuser/RemoveUserJob.cpp" "src/modules/removeuser/CMakeFiles/calamares_job_removeuser.dir/RemoveUserJob.cpp.o" "gcc" "src/modules/removeuser/CMakeFiles/calamares_job_removeuser.dir/RemoveUserJob.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/removeuser/calamares_job_removeuser_autogen/mocs_compilation.cpp" "src/modules/removeuser/CMakeFiles/calamares_job_removeuser.dir/calamares_job_removeuser_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/removeuser/CMakeFiles/calamares_job_removeuser.dir/calamares_job_removeuser_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

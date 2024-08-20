@@ -9,9 +9,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/partition/tests/partitionautomounttest_autogen/timestamp" "custom" "src/modules/partition/tests/partitionautomounttest_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/partition/tests/AutoMountTests.cpp" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/AutoMountTests.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/AutoMountTests.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/modules/partition/jobs/AutoMountManagementJob.cpp" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/__/jobs/AutoMountManagementJob.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/__/jobs/AutoMountManagementJob.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionautomounttest_autogen/mocs_compilation.cpp" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/partitionautomounttest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/partitionautomounttest_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/AutoMountTests.cpp" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/AutoMountTests.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/AutoMountTests.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/AutoMountManagementJob.cpp" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/__/jobs/AutoMountManagementJob.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/__/jobs/AutoMountManagementJob.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionautomounttest_autogen/mocs_compilation.cpp" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/partitionautomounttest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/partition/tests/CMakeFiles/partitionautomounttest.dir/partitionautomounttest_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

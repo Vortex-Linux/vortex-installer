@@ -1,8 +1,8 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilstest_autogen/7HEHEGDA3T/moc_Runner.cpp: /home/arun/VortexLinux/calamares/src/libcalamares/utils/Runner.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilstest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilstest_autogen/7HEHEGDA3T/moc_Runner.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Runner.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilstest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

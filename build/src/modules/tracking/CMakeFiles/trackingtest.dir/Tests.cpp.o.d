@@ -1,7 +1,7 @@
 src/modules/tracking/CMakeFiles/trackingtest.dir/Tests.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/tracking/Tests.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/tracking/Tests.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/tracking/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/tracking/Config.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \
@@ -309,8 +309,8 @@ src/modules/tracking/CMakeFiles/trackingtest.dir/Tests.cpp.o: \
  /usr/include/qt6/QtCore/qvarlengtharray.h \
  /usr/include/qt6/QtCore/q23utility.h /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
@@ -753,6 +753,6 @@ src/modules/tracking/CMakeFiles/trackingtest.dir/Tests.cpp.o: \
  /usr/include/qt6/QtTest/qtesteventloop.h \
  /usr/include/qt6/QtTest/qtestsystem.h \
  /usr/include/qt6/QtTest/qttestversion.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
- /home/arun/VortexLinux/calamares/build/src/modules/tracking/trackingtest_autogen/include/Tests.moc \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/trackingtest_autogen/include/Tests.moc \
  /usr/include/qt6/QtCore/qtmochelpers.h

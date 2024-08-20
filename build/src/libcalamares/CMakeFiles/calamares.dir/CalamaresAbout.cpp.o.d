@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/calamares.dir/CalamaresAbout.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/CalamaresAbout.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresAbout.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/CalamaresAbout.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresAbout.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -261,8 +261,8 @@ src/libcalamares/CMakeFiles/calamares.dir/CalamaresAbout.cpp.o: \
  /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qstringconverter.h \
  /usr/include/qt6/QtCore/qstringconverter_base.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresVersionX.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresVersion.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresVersionX.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresVersion.h \
  /usr/include/qt6/QtCore/QCoreApplication \
  /usr/include/qt6/QtCore/qcoreapplication.h \
  /usr/include/qt6/QtCore/qcoreevent.h \

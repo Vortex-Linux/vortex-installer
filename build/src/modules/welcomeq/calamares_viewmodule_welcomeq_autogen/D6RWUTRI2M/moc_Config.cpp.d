@@ -1,12 +1,12 @@
-/home/arun/VortexLinux/calamares/build/src/modules/welcomeq/calamares_viewmodule_welcomeq_autogen/D6RWUTRI2M/moc_Config.cpp: /home/arun/VortexLinux/calamares/src/modules/welcome/Config.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/welcomeq/calamares_viewmodule_welcomeq_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsModel.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/modules/welcome/checker/GeneralRequirements.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/welcomeq/calamares_viewmodule_welcomeq_autogen/D6RWUTRI2M/moc_Config.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/welcomeq/calamares_viewmodule_welcomeq_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/GeneralRequirements.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

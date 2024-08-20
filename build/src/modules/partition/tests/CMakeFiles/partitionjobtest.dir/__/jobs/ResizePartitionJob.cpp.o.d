@@ -1,10 +1,10 @@
 src/modules/partition/tests/CMakeFiles/partitionjobtest.dir/__/jobs/ResizePartitionJob.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/jobs/ResizePartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/ResizePartitionJob.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/jobs/ResizePartitionJob.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/jobs/PartitionJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/ResizePartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/PartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -296,11 +296,11 @@ src/modules/partition/tests/CMakeFiles/partitionjobtest.dir/__/jobs/ResizePartit
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qshareddata.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../core/KPMHelpers.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../Config.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../core/KPMHelpers.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/kpmcore/core/partition.h \
  /usr/include/kpmcore/core/partitionnode.h \
@@ -331,7 +331,7 @@ src/modules/partition/tests/CMakeFiles/partitionjobtest.dir/__/jobs/ResizePartit
  /usr/include/qt6/QtCore/QSet /usr/include/qt6/QtCore/qset.h \
  /usr/include/kpmcore/core/partitiontable.h \
  /usr/include/kpmcore/ops/operation.h /usr/include/kpmcore/util/report.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Units.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Units.h \
  /usr/include/qt6/QtCore/QIntegerForSize /usr/include/qt6/QtCore/qtypes.h \
  /usr/include/kpmcore/core/device.h \
  /usr/include/kpmcore/ops/resizeoperation.h \

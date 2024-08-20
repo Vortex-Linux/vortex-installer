@@ -1,7 +1,7 @@
 src/modules/welcome/CMakeFiles/calamares_viewmodule_welcome.dir/checker/partman_devices.c.o: \
- /home/arun/VortexLinux/calamares/src/modules/welcome/checker/partman_devices.c \
+ /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/partman_devices.c \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/welcome/checker/partman_devices.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/partman_devices.h \
  /usr/include/sys/types.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
  /usr/include/bits/timesize.h /usr/include/sys/cdefs.h \

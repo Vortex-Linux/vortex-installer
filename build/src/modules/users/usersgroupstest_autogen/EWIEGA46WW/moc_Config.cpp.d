@@ -1,10 +1,10 @@
-/home/arun/VortexLinux/calamares/build/src/modules/users/usersgroupstest_autogen/EWIEGA46WW/moc_Config.cpp: /home/arun/VortexLinux/calamares/src/modules/users/Config.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/users/usersgroupstest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/modules/users/CheckPWQuality.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/users/usersgroupstest_autogen/EWIEGA46WW/moc_Config.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/users/Config.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/users/usersgroupstest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/users/CheckPWQuality.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

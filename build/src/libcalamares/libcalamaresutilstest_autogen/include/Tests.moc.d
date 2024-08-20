@@ -1,24 +1,24 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilstest_autogen/include/Tests.moc: /home/arun/VortexLinux/calamares/src/libcalamares/utils/Tests.cpp \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilstest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/compat/Variant.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/CommandList.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Entropy.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Permissions.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/RAII.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Runner.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/String.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/StringExpander.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Traits.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/UMask.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Variant.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilstest_autogen/include/Tests.moc: /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Tests.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilstest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Variant.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/CommandList.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Entropy.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Permissions.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/RAII.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Runner.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/String.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/StringExpander.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Traits.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/UMask.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Variant.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
   /usr/include/KF6/KCoreAddons/KMacroExpander \
   /usr/include/KF6/KCoreAddons/kcoreaddons_export.h \
   /usr/include/KF6/KCoreAddons/kcoreaddons_version.h \

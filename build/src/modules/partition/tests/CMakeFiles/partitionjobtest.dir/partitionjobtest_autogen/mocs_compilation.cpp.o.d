@@ -1,11 +1,11 @@
 src/modules/partition/tests/CMakeFiles/partitionjobtest.dir/partitionjobtest_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/moc_CreatePartitionJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/CreatePartitionJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/PartitionJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/moc_CreatePartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/CreatePartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/PartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -297,11 +297,11 @@ src/modules/partition/tests/CMakeFiles/partitionjobtest.dir/partitionjobtest_aut
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qshareddata.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/moc_CreatePartitionTableJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/CreatePartitionTableJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/moc_CreatePartitionTableJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/CreatePartitionTableJob.h \
  /usr/include/kpmcore/core/partitiontable.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \
  /usr/include/kpmcore/core/partitionnode.h \
@@ -309,17 +309,17 @@ src/modules/partition/tests/CMakeFiles/partitionjobtest.dir/partitionjobtest_aut
  /usr/include/kpmcore/core/partitionrole.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/moc_DeletePartitionJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/DeletePartitionJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/moc_PartitionJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/PartitionJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/moc_ResizePartitionJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/ResizePartitionJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/EWIEGA46WW/moc_PartitionJobTests.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/EWIEGA46WW/../../../../../../../src/modules/partition/tests/PartitionJobTests.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMHelper.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/moc_DeletePartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/DeletePartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/moc_PartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/PartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/moc_ResizePartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/PFFQJ22XCN/../../../../../../../src/modules/partition/jobs/ResizePartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/EWIEGA46WW/moc_PartitionJobTests.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/EWIEGA46WW/../../../../../../../src/modules/partition/tests/PartitionJobTests.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMHelper.h \
  /usr/include/kpmcore/backend/corebackend.h \
  /usr/include/kpmcore/fs/filesystem.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/qvariant.h /usr/include/qt6/QtCore/qdebug.h \

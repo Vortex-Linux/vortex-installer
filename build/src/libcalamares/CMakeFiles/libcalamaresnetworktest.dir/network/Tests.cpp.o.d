@@ -1,7 +1,7 @@
 src/libcalamares/CMakeFiles/libcalamaresnetworktest.dir/network/Tests.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/network/Tests.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Tests.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/network/Tests.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Tests.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \
@@ -289,8 +289,8 @@ src/libcalamares/CMakeFiles/libcalamaresnetworktest.dir/network/Tests.cpp.o: \
  /usr/include/qt6/QtCore/qbindingstorage.h /usr/include/c++/14.2.1/chrono \
  /usr/include/c++/14.2.1/bits/chrono.h /usr/include/c++/14.2.1/ratio \
  /usr/include/c++/14.2.1/ctime \
- /home/arun/VortexLinux/calamares/src/libcalamares/network/Manager.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Manager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QByteArray /usr/include/qt6/QtCore/qbytearray.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
@@ -310,7 +310,7 @@ src/libcalamares/CMakeFiles/libcalamaresnetworktest.dir/network/Tests.cpp.o: \
  /usr/include/qt6/QtCore/qvarlengtharray.h /usr/include/qt6/QtCore/QUrl \
  /usr/include/qt6/QtCore/qurl.h /usr/include/qt6/QtCore/QVector \
  /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \

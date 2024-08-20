@@ -1,8 +1,8 @@
 src/modules/initcpio/CMakeFiles/initcpiotest.dir/initcpiotest_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/initcpio/initcpiotest_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/initcpio/initcpiotest_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/initcpio/initcpiotest_autogen/EWIEGA46WW/moc_Tests.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/initcpio/initcpiotest_autogen/EWIEGA46WW/../../../../../../src/modules/initcpio/Tests.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/initcpio/initcpiotest_autogen/EWIEGA46WW/moc_Tests.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/initcpio/initcpiotest_autogen/EWIEGA46WW/../../../../../../src/modules/initcpio/Tests.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \

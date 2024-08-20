@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/arun/VortexLinux/calamares/src/calamares/testmain.cpp" "src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o" "gcc" "src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/calamares/testmain.cpp" "src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o" "gcc" "src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

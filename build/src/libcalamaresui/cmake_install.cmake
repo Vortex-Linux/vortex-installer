@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/src/libcalamaresui
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/src/libcalamaresui
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -55,8 +55,8 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
     endif()
   endforeach()
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES
-    "/home/arun/VortexLinux/calamares/build/libcalamaresui.so.3.3.9"
-    "/home/arun/VortexLinux/calamares/build/libcalamaresui.so.3.3"
+    "/home/arun/VortexLinux/vortex-installer/build/libcalamaresui.so.3.3.9"
+    "/home/arun/VortexLinux/vortex-installer/build/libcalamaresui.so.3.3"
     )
   foreach(file
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libcalamaresui.so.3.3.9"
@@ -66,7 +66,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
        NOT IS_SYMLINK "${file}")
       file(RPATH_CHANGE
            FILE "${file}"
-           OLD_RPATH "/home/arun/VortexLinux/calamares/build:"
+           OLD_RPATH "/home/arun/VortexLinux/vortex-installer/build:"
            NEW_RPATH "")
       if(CMAKE_INSTALL_DO_STRIP)
         execute_process(COMMAND "/sbin/strip" "${file}")
@@ -76,57 +76,57 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/home/arun/VortexLinux/calamares/build/libcalamaresui.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/home/arun/VortexLinux/vortex-installer/build/libcalamaresui.so")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/Branding.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/ViewManager.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/Branding.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/ViewManager.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/modulesystem" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/modulesystem/CppJobModule.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/modulesystem/ModuleFactory.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/modulesystem/ModuleManager.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/modulesystem/ProcessJobModule.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/modulesystem/PythonJobModule.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/modulesystem/ViewModule.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/modulesystem/CppJobModule.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/modulesystem/ModuleFactory.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/modulesystem/ModuleManager.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/modulesystem/ProcessJobModule.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/modulesystem/PythonJobModule.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/modulesystem/ViewModule.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/utils" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Gui.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/utils/ImageRegistry.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Paste.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Qml.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/utils/QtCompat.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Gui.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/ImageRegistry.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Paste.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Qml.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/QtCompat.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/viewpages" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/BlankViewStep.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ExecutionViewStep.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/QmlViewStep.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/Slideshow.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/BlankViewStep.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ExecutionViewStep.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/QmlViewStep.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/Slideshow.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/widgets" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/ClickableLabel.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/ErrorDialog.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/FixedAspectRatioLabel.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/LogWidget.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/PrettyRadioButton.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/TranslationFix.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/WaitingWidget.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/waitingspinnerwidget.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/ClickableLabel.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/ErrorDialog.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/FixedAspectRatioLabel.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/LogWidget.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/PrettyRadioButton.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/TranslationFix.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/WaitingWidget.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/waitingspinnerwidget.h"
     )
 endif()
 

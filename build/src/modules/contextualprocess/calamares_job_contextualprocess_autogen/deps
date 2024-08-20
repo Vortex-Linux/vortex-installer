@@ -1,14 +1,14 @@
 calamares_job_contextualprocess_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/build/src/modules/contextualprocess/calamares_job_contextualprocess_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-	/home/arun/VortexLinux/calamares/src/modules/contextualprocess/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/contextualprocess/ContextualProcessJob.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/contextualprocess/ContextualProcessJob.h \
-	/home/arun/VortexLinux/calamares/src/modules/contextualprocess/contextualprocess.conf \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/contextualprocess/calamares_job_contextualprocess_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/contextualprocess/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/contextualprocess/ContextualProcessJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/contextualprocess/ContextualProcessJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/contextualprocess/contextualprocess.conf \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \

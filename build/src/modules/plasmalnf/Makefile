@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -68,7 +68,7 @@ CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Run CPack packaging tool..."
-	cd /home/arun/VortexLinux/calamares/build && /usr/bin/cpack --config ./CPackConfig.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build && /usr/bin/cpack --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -78,7 +78,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Run CPack packaging tool for source..."
-	cd /home/arun/VortexLinux/calamares/build && /usr/bin/cpack --config ./CPackSourceConfig.cmake /home/arun/VortexLinux/calamares/build/CPackSourceConfig.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build && /usr/bin/cpack --config ./CPackSourceConfig.cmake /home/arun/VortexLinux/vortex-installer/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -162,14 +162,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/arun/VortexLinux/calamares/build/CMakeFiles /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf//CMakeFiles/progress.marks
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/arun/VortexLinux/calamares/build/CMakeFiles 0
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/arun/VortexLinux/vortex-installer/build/CMakeFiles /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf//CMakeFiles/progress.marks
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arun/VortexLinux/vortex-installer/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/clean
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/clean
 .PHONY : clean
 
 # The main clean target
@@ -178,22 +178,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/preinstall
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/preinstall
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 src/modules/plasmalnf/CMakeFiles/KF6Package_QCH.dir/rule:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/CMakeFiles/KF6Package_QCH.dir/rule
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/CMakeFiles/KF6Package_QCH.dir/rule
 .PHONY : src/modules/plasmalnf/CMakeFiles/KF6Package_QCH.dir/rule
 
 # Convenience name for target.
@@ -202,12 +202,12 @@ KF6Package_QCH: src/modules/plasmalnf/CMakeFiles/KF6Package_QCH.dir/rule
 
 # fast build rule for target.
 KF6Package_QCH/fast:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/KF6Package_QCH.dir/build.make src/modules/plasmalnf/CMakeFiles/KF6Package_QCH.dir/build
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/KF6Package_QCH.dir/build.make src/modules/plasmalnf/CMakeFiles/KF6Package_QCH.dir/build
 .PHONY : KF6Package_QCH/fast
 
 # Convenience name for target.
 src/modules/plasmalnf/CMakeFiles/Plasma_QCH.dir/rule:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/CMakeFiles/Plasma_QCH.dir/rule
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/CMakeFiles/Plasma_QCH.dir/rule
 .PHONY : src/modules/plasmalnf/CMakeFiles/Plasma_QCH.dir/rule
 
 # Convenience name for target.
@@ -216,12 +216,12 @@ Plasma_QCH: src/modules/plasmalnf/CMakeFiles/Plasma_QCH.dir/rule
 
 # fast build rule for target.
 Plasma_QCH/fast:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/Plasma_QCH.dir/build.make src/modules/plasmalnf/CMakeFiles/Plasma_QCH.dir/build
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/Plasma_QCH.dir/build.make src/modules/plasmalnf/CMakeFiles/Plasma_QCH.dir/build
 .PHONY : Plasma_QCH/fast
 
 # Convenience name for target.
 src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/rule:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/rule
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/rule
 .PHONY : src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/rule
 
 # Convenience name for target.
@@ -230,12 +230,12 @@ calamares_viewmodule_plasmalnf: src/modules/plasmalnf/CMakeFiles/calamares_viewm
 
 # fast build rule for target.
 calamares_viewmodule_plasmalnf/fast:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build
 .PHONY : calamares_viewmodule_plasmalnf/fast
 
 # Convenience name for target.
 src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen_timestamp_deps.dir/rule:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen_timestamp_deps.dir/rule
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen_timestamp_deps.dir/rule
 .PHONY : src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen_timestamp_deps.dir/rule
 
 # Convenience name for target.
@@ -244,12 +244,12 @@ calamares_viewmodule_plasmalnf_autogen_timestamp_deps: src/modules/plasmalnf/CMa
 
 # fast build rule for target.
 calamares_viewmodule_plasmalnf_autogen_timestamp_deps/fast:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen_timestamp_deps.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen_timestamp_deps.dir/build
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen_timestamp_deps.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen_timestamp_deps.dir/build
 .PHONY : calamares_viewmodule_plasmalnf_autogen_timestamp_deps/fast
 
 # Convenience name for target.
 src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/rule:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/rule
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/rule
 .PHONY : src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/rule
 
 # Convenience name for target.
@@ -258,7 +258,7 @@ calamares_viewmodule_plasmalnf_autogen: src/modules/plasmalnf/CMakeFiles/calamar
 
 # fast build rule for target.
 calamares_viewmodule_plasmalnf_autogen/fast:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/build
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/build
 .PHONY : calamares_viewmodule_plasmalnf_autogen/fast
 
 Config.o: Config.cpp.o
@@ -266,7 +266,7 @@ Config.o: Config.cpp.o
 
 # target to build an object file
 Config.cpp.o:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/Config.cpp.o
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/Config.cpp.o
 .PHONY : Config.cpp.o
 
 Config.i: Config.cpp.i
@@ -274,7 +274,7 @@ Config.i: Config.cpp.i
 
 # target to preprocess a source file
 Config.cpp.i:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/Config.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/Config.cpp.i
 .PHONY : Config.cpp.i
 
 Config.s: Config.cpp.s
@@ -282,7 +282,7 @@ Config.s: Config.cpp.s
 
 # target to generate assembly for a file
 Config.cpp.s:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/Config.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/Config.cpp.s
 .PHONY : Config.cpp.s
 
 PlasmaLnfJob.o: PlasmaLnfJob.cpp.o
@@ -290,7 +290,7 @@ PlasmaLnfJob.o: PlasmaLnfJob.cpp.o
 
 # target to build an object file
 PlasmaLnfJob.cpp.o:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfJob.cpp.o
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfJob.cpp.o
 .PHONY : PlasmaLnfJob.cpp.o
 
 PlasmaLnfJob.i: PlasmaLnfJob.cpp.i
@@ -298,7 +298,7 @@ PlasmaLnfJob.i: PlasmaLnfJob.cpp.i
 
 # target to preprocess a source file
 PlasmaLnfJob.cpp.i:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfJob.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfJob.cpp.i
 .PHONY : PlasmaLnfJob.cpp.i
 
 PlasmaLnfJob.s: PlasmaLnfJob.cpp.s
@@ -306,7 +306,7 @@ PlasmaLnfJob.s: PlasmaLnfJob.cpp.s
 
 # target to generate assembly for a file
 PlasmaLnfJob.cpp.s:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfJob.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfJob.cpp.s
 .PHONY : PlasmaLnfJob.cpp.s
 
 PlasmaLnfPage.o: PlasmaLnfPage.cpp.o
@@ -314,7 +314,7 @@ PlasmaLnfPage.o: PlasmaLnfPage.cpp.o
 
 # target to build an object file
 PlasmaLnfPage.cpp.o:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfPage.cpp.o
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfPage.cpp.o
 .PHONY : PlasmaLnfPage.cpp.o
 
 PlasmaLnfPage.i: PlasmaLnfPage.cpp.i
@@ -322,7 +322,7 @@ PlasmaLnfPage.i: PlasmaLnfPage.cpp.i
 
 # target to preprocess a source file
 PlasmaLnfPage.cpp.i:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfPage.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfPage.cpp.i
 .PHONY : PlasmaLnfPage.cpp.i
 
 PlasmaLnfPage.s: PlasmaLnfPage.cpp.s
@@ -330,7 +330,7 @@ PlasmaLnfPage.s: PlasmaLnfPage.cpp.s
 
 # target to generate assembly for a file
 PlasmaLnfPage.cpp.s:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfPage.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfPage.cpp.s
 .PHONY : PlasmaLnfPage.cpp.s
 
 PlasmaLnfViewStep.o: PlasmaLnfViewStep.cpp.o
@@ -338,7 +338,7 @@ PlasmaLnfViewStep.o: PlasmaLnfViewStep.cpp.o
 
 # target to build an object file
 PlasmaLnfViewStep.cpp.o:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfViewStep.cpp.o
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfViewStep.cpp.o
 .PHONY : PlasmaLnfViewStep.cpp.o
 
 PlasmaLnfViewStep.i: PlasmaLnfViewStep.cpp.i
@@ -346,7 +346,7 @@ PlasmaLnfViewStep.i: PlasmaLnfViewStep.cpp.i
 
 # target to preprocess a source file
 PlasmaLnfViewStep.cpp.i:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfViewStep.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfViewStep.cpp.i
 .PHONY : PlasmaLnfViewStep.cpp.i
 
 PlasmaLnfViewStep.s: PlasmaLnfViewStep.cpp.s
@@ -354,7 +354,7 @@ PlasmaLnfViewStep.s: PlasmaLnfViewStep.cpp.s
 
 # target to generate assembly for a file
 PlasmaLnfViewStep.cpp.s:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfViewStep.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/PlasmaLnfViewStep.cpp.s
 .PHONY : PlasmaLnfViewStep.cpp.s
 
 ThemeInfo.o: ThemeInfo.cpp.o
@@ -362,7 +362,7 @@ ThemeInfo.o: ThemeInfo.cpp.o
 
 # target to build an object file
 ThemeInfo.cpp.o:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/ThemeInfo.cpp.o
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/ThemeInfo.cpp.o
 .PHONY : ThemeInfo.cpp.o
 
 ThemeInfo.i: ThemeInfo.cpp.i
@@ -370,7 +370,7 @@ ThemeInfo.i: ThemeInfo.cpp.i
 
 # target to preprocess a source file
 ThemeInfo.cpp.i:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/ThemeInfo.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/ThemeInfo.cpp.i
 .PHONY : ThemeInfo.cpp.i
 
 ThemeInfo.s: ThemeInfo.cpp.s
@@ -378,7 +378,7 @@ ThemeInfo.s: ThemeInfo.cpp.s
 
 # target to generate assembly for a file
 ThemeInfo.cpp.s:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/ThemeInfo.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/ThemeInfo.cpp.s
 .PHONY : ThemeInfo.cpp.s
 
 calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.o: calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.o
@@ -386,7 +386,7 @@ calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.o: calamare
 
 # target to build an object file
 calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.o:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.o
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.o
 .PHONY : calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.o
 
 calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.i: calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.i
@@ -394,7 +394,7 @@ calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.i: calamare
 
 # target to preprocess a source file
 calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.i:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.i
 .PHONY : calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.i
 
 calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.s: calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.s
@@ -402,7 +402,7 @@ calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.s: calamare
 
 # target to generate assembly for a file
 calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.s:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.s
 .PHONY : calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.s
 
 calamares_viewmodule_plasmalnf_autogen/mocs_compilation.o: calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.o
@@ -410,7 +410,7 @@ calamares_viewmodule_plasmalnf_autogen/mocs_compilation.o: calamares_viewmodule_
 
 # target to build an object file
 calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.o:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.o
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.o
 .PHONY : calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.o
 
 calamares_viewmodule_plasmalnf_autogen/mocs_compilation.i: calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.i
@@ -418,7 +418,7 @@ calamares_viewmodule_plasmalnf_autogen/mocs_compilation.i: calamares_viewmodule_
 
 # target to preprocess a source file
 calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.i:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.i
 .PHONY : calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.i
 
 calamares_viewmodule_plasmalnf_autogen/mocs_compilation.s: calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.s
@@ -426,7 +426,7 @@ calamares_viewmodule_plasmalnf_autogen/mocs_compilation.s: calamares_viewmodule_
 
 # target to generate assembly for a file
 calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.s:
-	cd /home/arun/VortexLinux/calamares/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build && $(MAKE) $(MAKESILENT) -f src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.s
 .PHONY : calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.s
 
 # Help Target
@@ -481,6 +481,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

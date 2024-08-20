@@ -1,7 +1,7 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/RUACCQ4MTV/moc_RequirementsChecker.cpp: /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsChecker.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/RUACCQ4MTV/moc_RequirementsChecker.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsChecker.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/arun/VortexLinux/calamares/build/lang/qrc_calamares-i18n.cxx" "lang/CMakeFiles/calamares-i18n.dir/qrc_calamares-i18n.cxx.o" "gcc" "lang/CMakeFiles/calamares-i18n.dir/qrc_calamares-i18n.cxx.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/lang/qrc_calamares-i18n.cxx" "lang/CMakeFiles/calamares-i18n.dir/qrc_calamares-i18n.cxx.o" "gcc" "lang/CMakeFiles/calamares-i18n.dir/qrc_calamares-i18n.cxx.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

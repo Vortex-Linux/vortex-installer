@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/src/libcalamares
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/src/libcalamares
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -55,8 +55,8 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
     endif()
   endforeach()
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES
-    "/home/arun/VortexLinux/calamares/build/libcalamares.so.3.3.9"
-    "/home/arun/VortexLinux/calamares/build/libcalamares.so.3.3"
+    "/home/arun/VortexLinux/vortex-installer/build/libcalamares.so.3.3.9"
+    "/home/arun/VortexLinux/vortex-installer/build/libcalamares.so.3.3"
     )
   foreach(file
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libcalamares.so.3.3.9"
@@ -72,7 +72,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/home/arun/VortexLinux/calamares/build/libcalamares.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/home/arun/VortexLinux/vortex-installer/build/libcalamares.so")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -84,117 +84,117 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h"
-    "/home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresVersion.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/CalamaresAbout.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/Job.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/JobExample.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/ProcessJob.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/PythonHelper.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/PythonJob.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/PythonJobApi.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/Settings.h"
+    "/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h"
+    "/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresVersion.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresAbout.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/JobExample.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/ProcessJob.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/PythonHelper.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/PythonJob.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/PythonJobApi.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/geoip" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPFixed.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPJSON.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPTests.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPXML.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/geoip/Handler.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/geoip/Interface.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPFixed.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPJSON.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPTests.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPXML.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Handler.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Interface.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/locale" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamares/locale/Global.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/locale/Lookup.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/locale/TimeZone.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Global.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Lookup.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TimeZone.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/modulesystem" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Descriptor.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Module.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Preset.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsChecker.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsModel.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Descriptor.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Module.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Preset.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsChecker.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsModel.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/network" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamares/network/Manager.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/network/Tests.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Manager.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Tests.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/partition" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamares/partition/AutoMount.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/partition/FileSystem.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMHelper.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/partition/Mount.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionIterator.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionQuery.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionSize.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/partition/Sync.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/AutoMount.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/FileSystem.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMHelper.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Mount.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionIterator.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionQuery.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionSize.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Sync.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/utils" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/BoostPython.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/CommandList.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/Dirs.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/Entropy.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/Permissions.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/RAII.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/Runner.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/String.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/StringExpander.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/Traits.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/UMask.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/Units.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/Variant.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/BoostPython.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/CommandList.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Dirs.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Entropy.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Permissions.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/RAII.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Runner.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/String.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/StringExpander.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Traits.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/UMask.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Units.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Variant.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/compat" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/src/libcalamares/compat/Mutex.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/compat/Size.h"
-    "/home/arun/VortexLinux/calamares/src/libcalamares/compat/Variant.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Mutex.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Size.h"
+    "/home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Variant.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/packages" TYPE FILE FILES "/home/arun/VortexLinux/calamares/src/libcalamares/packages/Globals.h")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/libcalamares/packages" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/src/libcalamares/packages/Globals.h")
 endif()
 

@@ -1,10 +1,10 @@
 src/libcalamares/CMakeFiles/calamares.dir/locale/TranslationsModel.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qcontainerfwd.h \
  /usr/include/qt6/QtCore/qtconfigmacros.h \
@@ -318,8 +318,8 @@ src/libcalamares/CMakeFiles/calamares.dir/locale/TranslationsModel.cpp.o: \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Lookup.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Lookup.h \
  /usr/include/qt6/QtCore/QPair /usr/include/qt6/QtCore/qpair.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresTranslations.cc \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresTranslations.cc \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h

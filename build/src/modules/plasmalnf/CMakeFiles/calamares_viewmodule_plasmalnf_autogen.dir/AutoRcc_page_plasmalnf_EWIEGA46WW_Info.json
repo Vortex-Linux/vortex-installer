@@ -1,25 +1,25 @@
 {
-	"BUILD_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen",
-	"CMAKE_BINARY_DIR" : "/home/arun/VortexLinux/calamares/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/plasmalnf",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/arun/VortexLinux/calamares/src/modules/plasmalnf",
-	"CMAKE_SOURCE_DIR" : "/home/arun/VortexLinux/calamares",
+	"BUILD_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen",
+	"CMAKE_BINARY_DIR" : "/home/arun/VortexLinux/vortex-installer/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/arun/VortexLinux/vortex-installer/src/modules/plasmalnf",
+	"CMAKE_SOURCE_DIR" : "/home/arun/VortexLinux/vortex-installer",
 	"CROSS_CONFIG" : false,
 	"GENERATOR" : "Unix Makefiles",
-	"INCLUDE_DIR" : "/home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/include",
+	"INCLUDE_DIR" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/include",
 	"INPUTS" : 
 	[
-		"/home/arun/VortexLinux/calamares/src/modules/plasmalnf/view-preview.png"
+		"/home/arun/VortexLinux/vortex-installer/src/modules/plasmalnf/view-preview.png"
 	],
-	"LOCK_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/AutoRcc_page_plasmalnf_EWIEGA46WW_Lock.lock",
+	"LOCK_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/AutoRcc_page_plasmalnf_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "-name", "page_plasmalnf" ],
 	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
 	"OUTPUT_NAME" : "qrc_page_plasmalnf.cpp",
 	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
 	"RCC_LIST_OPTIONS" : [ "--list" ],
-	"SETTINGS_FILE" : "/home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/AutoRcc_page_plasmalnf_EWIEGA46WW_Used.txt",
-	"SOURCE" : "/home/arun/VortexLinux/calamares/src/modules/plasmalnf/page_plasmalnf.qrc",
+	"SETTINGS_FILE" : "/home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf_autogen.dir/AutoRcc_page_plasmalnf_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/arun/VortexLinux/vortex-installer/src/modules/plasmalnf/page_plasmalnf.qrc",
 	"USE_BETTER_GRAPH" : false,
 	"VERBOSITY" : 0
 }

@@ -1,8 +1,8 @@
 src/libcalamaresui/CMakeFiles/calamaresui.dir/widgets/TranslationFix.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/TranslationFix.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/TranslationFix.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/TranslationFix.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/TranslationFix.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtWidgets/QAbstractButton \
  /usr/include/qt6/QtWidgets/qabstractbutton.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \

@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/modules/shellprocess/shellprocesstest_autogen/EWIEGA46WW/moc_Tests.cpp: /home/arun/VortexLinux/calamares/src/modules/shellprocess/Tests.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/shellprocess/shellprocesstest_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/shellprocess/shellprocesstest_autogen/EWIEGA46WW/moc_Tests.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/shellprocess/Tests.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/shellprocess/shellprocesstest_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

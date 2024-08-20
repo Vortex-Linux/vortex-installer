@@ -1,9 +1,9 @@
 src/libcalamares/CMakeFiles/calamares.dir/geoip/Handler.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Handler.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Handler.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Handler.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Interface.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Handler.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Interface.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qcontainerfwd.h \
  /usr/include/qt6/QtCore/qtconfigmacros.h \
@@ -338,23 +338,23 @@ src/libcalamares/CMakeFiles/calamares.dir/geoip/Handler.cpp.o: \
  /usr/include/qt6/QtCore/qrunnable.h /usr/include/qt6/QtCore/qexception.h \
  /usr/include/qt6/QtCore/qpromise.h \
  /usr/include/qt6/QtConcurrent/qtconcurrentstoredfunctioncall.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPFixed.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPJSON.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPXML.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPFixed.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPJSON.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPXML.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/network/Manager.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Manager.h \
  /usr/include/qt6/QtCore/QByteArray /usr/include/qt6/QtCore/qbytearray.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/QVariant \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Variant.h
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Variant.h

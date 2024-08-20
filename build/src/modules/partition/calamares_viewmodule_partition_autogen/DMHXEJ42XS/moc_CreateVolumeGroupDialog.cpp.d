@@ -1,6 +1,6 @@
-/home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_CreateVolumeGroupDialog.cpp: /home/arun/VortexLinux/calamares/src/modules/partition/gui/CreateVolumeGroupDialog.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/gui/VolumeGroupBaseDialog.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_CreateVolumeGroupDialog.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/CreateVolumeGroupDialog.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/VolumeGroupBaseDialog.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

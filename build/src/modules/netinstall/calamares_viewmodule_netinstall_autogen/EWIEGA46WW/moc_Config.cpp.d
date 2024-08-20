@@ -1,10 +1,10 @@
-/home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_Config.cpp: /home/arun/VortexLinux/calamares/src/modules/netinstall/Config.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.h \
-  /home/arun/VortexLinux/calamares/src/modules/netinstall/PackageTreeItem.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/EWIEGA46WW/moc_Config.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Config.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageTreeItem.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

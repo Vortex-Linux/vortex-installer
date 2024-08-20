@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/libcalamares/CMakeFiles/test_automount.dir/depend.make
@@ -70,18 +70,18 @@ include src/libcalamares/CMakeFiles/test_automount.dir/progress.make
 include src/libcalamares/CMakeFiles/test_automount.dir/flags.make
 
 src/libcalamares/CMakeFiles/test_automount.dir/partition/calautomount.cpp.o: src/libcalamares/CMakeFiles/test_automount.dir/flags.make
-src/libcalamares/CMakeFiles/test_automount.dir/partition/calautomount.cpp.o: /home/arun/VortexLinux/calamares/src/libcalamares/partition/calautomount.cpp
+src/libcalamares/CMakeFiles/test_automount.dir/partition/calautomount.cpp.o: /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/calautomount.cpp
 src/libcalamares/CMakeFiles/test_automount.dir/partition/calautomount.cpp.o: src/libcalamares/CMakeFiles/test_automount.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/libcalamares/CMakeFiles/test_automount.dir/partition/calautomount.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/test_automount.dir/partition/calautomount.cpp.o -MF CMakeFiles/test_automount.dir/partition/calautomount.cpp.o.d -o CMakeFiles/test_automount.dir/partition/calautomount.cpp.o -c /home/arun/VortexLinux/calamares/src/libcalamares/partition/calautomount.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/libcalamares/CMakeFiles/test_automount.dir/partition/calautomount.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/libcalamares/CMakeFiles/test_automount.dir/partition/calautomount.cpp.o -MF CMakeFiles/test_automount.dir/partition/calautomount.cpp.o.d -o CMakeFiles/test_automount.dir/partition/calautomount.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/calautomount.cpp
 
 src/libcalamares/CMakeFiles/test_automount.dir/partition/calautomount.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/test_automount.dir/partition/calautomount.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/libcalamares/partition/calautomount.cpp > CMakeFiles/test_automount.dir/partition/calautomount.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/calautomount.cpp > CMakeFiles/test_automount.dir/partition/calautomount.cpp.i
 
 src/libcalamares/CMakeFiles/test_automount.dir/partition/calautomount.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/test_automount.dir/partition/calautomount.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/libcalamares/partition/calautomount.cpp -o CMakeFiles/test_automount.dir/partition/calautomount.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/calautomount.cpp -o CMakeFiles/test_automount.dir/partition/calautomount.cpp.s
 
 # Object files for target test_automount
 test_automount_OBJECTS = \
@@ -95,22 +95,22 @@ test_automount: src/libcalamares/CMakeFiles/test_automount.dir/build.make
 test_automount: libcalamares.so.3.3.9
 test_automount: /usr/lib/libyaml-cpp.so
 test_automount: /usr/lib/libQt6Network.so.6.7.2
-test_automount: /usr/lib/libKF6CoreAddons.so.6.4.0
+test_automount: /usr/lib/libKF6CoreAddons.so.6.5.0
 test_automount: /usr/lib/libQt6DBus.so.6.7.2
 test_automount: /usr/lib/libQt6Core.so.6.7.2
 test_automount: src/libcalamares/CMakeFiles/test_automount.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../../test_automount"
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test_automount.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../../test_automount"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test_automount.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/libcalamares/CMakeFiles/test_automount.dir/build: test_automount
 .PHONY : src/libcalamares/CMakeFiles/test_automount.dir/build
 
 src/libcalamares/CMakeFiles/test_automount.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/libcalamares && $(CMAKE_COMMAND) -P CMakeFiles/test_automount.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/libcalamares && $(CMAKE_COMMAND) -P CMakeFiles/test_automount.dir/cmake_clean.cmake
 .PHONY : src/libcalamares/CMakeFiles/test_automount.dir/clean
 
 src/libcalamares/CMakeFiles/test_automount.dir/depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/libcalamares /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/libcalamares /home/arun/VortexLinux/calamares/build/src/libcalamares/CMakeFiles/test_automount.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/libcalamares /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/libcalamares /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CMakeFiles/test_automount.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/libcalamares/CMakeFiles/test_automount.dir/depend
 

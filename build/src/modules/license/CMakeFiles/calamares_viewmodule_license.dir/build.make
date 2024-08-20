@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/depend.make
@@ -72,65 +72,65 @@ include src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/flags.ma
 src/modules/license/calamares_viewmodule_license_autogen/timestamp: /usr/lib/qt6/moc
 src/modules/license/calamares_viewmodule_license_autogen/timestamp: /usr/lib/qt6/uic
 src/modules/license/calamares_viewmodule_license_autogen/timestamp: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target calamares_viewmodule_license"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/modules/license/CMakeFiles/calamares_viewmodule_license_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/modules/license/calamares_viewmodule_license_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target calamares_viewmodule_license"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/modules/license/CMakeFiles/calamares_viewmodule_license_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/modules/license/calamares_viewmodule_license_autogen/timestamp
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/flags.make
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o: src/modules/license/calamares_viewmodule_license_autogen/mocs_compilation.cpp
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o -MF CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/calamares/build/src/modules/license/calamares_viewmodule_license_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o -MF CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/modules/license/calamares_viewmodule_license_autogen/mocs_compilation.cpp
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/modules/license/calamares_viewmodule_license_autogen/mocs_compilation.cpp > CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/modules/license/calamares_viewmodule_license_autogen/mocs_compilation.cpp > CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.i
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/modules/license/calamares_viewmodule_license_autogen/mocs_compilation.cpp -o CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/modules/license/calamares_viewmodule_license_autogen/mocs_compilation.cpp -o CMakeFiles/calamares_viewmodule_license.dir/calamares_viewmodule_license_autogen/mocs_compilation.cpp.s
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/flags.make
-src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o: /home/arun/VortexLinux/calamares/src/modules/license/LicensePage.cpp
+src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/license/LicensePage.cpp
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o -MF CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o.d -o CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/license/LicensePage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o -MF CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o.d -o CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/license/LicensePage.cpp
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/license/LicensePage.cpp > CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/license/LicensePage.cpp > CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.i
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/license/LicensePage.cpp -o CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/license/LicensePage.cpp -o CMakeFiles/calamares_viewmodule_license.dir/LicensePage.cpp.s
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/flags.make
-src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o: /home/arun/VortexLinux/calamares/src/modules/license/LicenseViewStep.cpp
+src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseViewStep.cpp
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o -MF CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o.d -o CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/license/LicenseViewStep.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o -MF CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o.d -o CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseViewStep.cpp
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/license/LicenseViewStep.cpp > CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseViewStep.cpp > CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.i
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/license/LicenseViewStep.cpp -o CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseViewStep.cpp -o CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.s
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/flags.make
-src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o: /home/arun/VortexLinux/calamares/src/modules/license/LicenseWidget.cpp
+src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseWidget.cpp
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o -MF CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o.d -o CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/license/LicenseWidget.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o -MF CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o.d -o CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseWidget.cpp
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/license/LicenseWidget.cpp > CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseWidget.cpp > CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.i
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/license/LicenseWidget.cpp -o CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseWidget.cpp -o CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.s
 
 # Object files for target calamares_viewmodule_license
 calamares_viewmodule_license_OBJECTS = \
@@ -150,7 +150,7 @@ src/modules/license/libcalamares_viewmodule_license.so: src/modules/license/CMak
 src/modules/license/libcalamares_viewmodule_license.so: libcalamaresui.so.3.3.9
 src/modules/license/libcalamares_viewmodule_license.so: libcalamares.so.3.3.9
 src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libyaml-cpp.so
-src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libKF6CoreAddons.so.6.4.0
+src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libKF6CoreAddons.so.6.5.0
 src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libQt6Svg.so.6.7.2
 src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libQt6QuickWidgets.so.6.7.2
 src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libQt6Quick.so.6.7.2
@@ -165,18 +165,18 @@ src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libQt6Core.so.6
 src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libGLX.so
 src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libOpenGL.so
 src/modules/license/libcalamares_viewmodule_license.so: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX shared library libcalamares_viewmodule_license.so"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calamares_viewmodule_license.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX shared library libcalamares_viewmodule_license.so"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calamares_viewmodule_license.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/build: src/modules/license/libcalamares_viewmodule_license.so
 .PHONY : src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/build
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/modules/license && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_license.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/license && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_license.dir/cmake_clean.cmake
 .PHONY : src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/clean
 
 src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/depend: src/modules/license/calamares_viewmodule_license_autogen/timestamp
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/modules/license /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/modules/license /home/arun/VortexLinux/calamares/build/src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/modules/license /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/modules/license /home/arun/VortexLinux/vortex-installer/build/src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/depend
 

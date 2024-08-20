@@ -1,29 +1,29 @@
 calamares_viewmodule_keyboard_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-	/home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/AdditionalLayoutInfo.h \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/Config.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/Config.h \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardLayoutModel.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardLayoutModel.h \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardPage.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardPage.h \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardViewStep.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardViewStep.h \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/SetKeyboardLayoutJob.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/SetKeyboardLayoutJob.h \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/keyboard.conf \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/keyboard.qrc \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardglobal.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardglobal.h \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardpreview.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/keyboardwidget/keyboardpreview.h \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/calamares_viewmodule_keyboard_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/AdditionalLayoutInfo.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/Config.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/Config.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardLayoutModel.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardLayoutModel.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardPage.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardPage.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardViewStep.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardViewStep.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/SetKeyboardLayoutJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/SetKeyboardLayoutJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboard.conf \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboard.qrc \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardglobal.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardglobal.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardpreview.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/keyboardwidget/keyboardpreview.h \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -478,5 +478,5 @@ calamares_viewmodule_keyboard_autogen/timestamp: \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
 	/usr/share/cmake/Modules/GNUInstallDirs.cmake \
-	/home/arun/VortexLinux/calamares/src/modules/keyboard/KeyboardPage.ui \
+	/home/arun/VortexLinux/vortex-installer/src/modules/keyboard/KeyboardPage.ui \
 	/usr/bin/cmake

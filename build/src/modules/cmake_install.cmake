@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/src/modules
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/src/modules
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -43,435 +43,435 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/bootloader" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/bootloader/bootloader.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/bootloader" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/bootloader/bootloader.schema.yaml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/bootloader" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/bootloader/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/bootloader" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/bootloader/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/bootloader" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/bootloader/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/bootloader" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/bootloader/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/bootloader" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/bootloader/test.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/bootloader" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/bootloader/test.yaml")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/contextualprocess/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/contextualprocess/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/displaymanager" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/displaymanager/displaymanager.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/displaymanager" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/displaymanager/displaymanager.schema.yaml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/displaymanager" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/displaymanager/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/displaymanager" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/displaymanager/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/displaymanager" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/displaymanager/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/displaymanager" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/displaymanager/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracut" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/dracut/dracut.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracut" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/dracut/dracut.schema.yaml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracut" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/dracut/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracut" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/dracut/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracut" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/dracut/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dracut" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/dracut/module.desc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/dracutlukscfg/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/dracutlukscfg/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/dummycpp/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/dummycpp/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dummyprocess" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/dummyprocess/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dummyprocess" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/dummyprocess/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dummypython" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/dummypython/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dummypython" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/dummypython/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dummypython" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/dummypython/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/dummypython" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/dummypython/module.desc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/finished/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/finished/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/finishedq/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/finishedq/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/fsresizer/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/fsresizer/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/fstab" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/fstab/fstab.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/fstab" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/fstab/fstab.schema.yaml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/fstab" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/fstab/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/fstab" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/fstab/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/fstab" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/fstab/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/fstab" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/fstab/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/fstab" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/fstab/test.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/fstab" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/fstab/test.yaml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/fstab" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/fstab/test2.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/fstab" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/fstab/test2.yaml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/grubcfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/grubcfg/grubcfg.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/grubcfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/grubcfg/grubcfg.schema.yaml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/grubcfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/grubcfg/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/grubcfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/grubcfg/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/grubcfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/grubcfg/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/grubcfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/grubcfg/module.desc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/hostinfo/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/hostinfo/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/hwclock" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/hwclock/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/hwclock" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/hwclock/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/hwclock" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/hwclock/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/hwclock" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/hwclock/module.desc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/initcpio/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/initcpio/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initcpiocfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/initcpiocfg/initcpiocfg.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initcpiocfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/initcpiocfg/initcpiocfg.schema.yaml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initcpiocfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/initcpiocfg/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initcpiocfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/initcpiocfg/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initcpiocfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/initcpiocfg/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initcpiocfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/initcpiocfg/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initcpiocfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/initcpiocfg/test.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initcpiocfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/initcpiocfg/test.yaml")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/initramfs/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/initramfs/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initramfscfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/initramfscfg/encrypt_hook")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initramfscfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/initramfscfg/encrypt_hook")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initramfscfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/initramfscfg/encrypt_hook_nokey")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initramfscfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/initramfscfg/encrypt_hook_nokey")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initramfscfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/initramfscfg/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initramfscfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/initramfscfg/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initramfscfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/initramfscfg/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/initramfscfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/initramfscfg/module.desc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/interactiveterminal/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/interactiveterminal/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/keyboard/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/keyboardq/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/keyboardq/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/license/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/license/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/locale/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/localecfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/localecfg/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/localecfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/localecfg/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/localecfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/localecfg/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/localecfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/localecfg/module.desc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/localeq/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/localeq/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/luksbootkeyfile/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/luksbootkeyfile/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/luksopenswaphookcfg/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/luksopenswaphookcfg/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/machineid/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/machineid/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/mkinitfs" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/mkinitfs/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/mkinitfs" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/mkinitfs/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/mkinitfs" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/mkinitfs/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/mkinitfs" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/mkinitfs/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/mount" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/mount/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/mount" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/mount/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/mount" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/mount/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/mount" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/mount/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/mount" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/mount/mount.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/mount" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/mount/mount.schema.yaml")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/netinstall/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/networkcfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/networkcfg/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/networkcfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/networkcfg/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/networkcfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/networkcfg/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/networkcfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/networkcfg/module.desc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/notesqml/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/oemid/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/oemid/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/openrcdmcryptcfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/openrcdmcryptcfg/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/openrcdmcryptcfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/openrcdmcryptcfg/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/openrcdmcryptcfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/openrcdmcryptcfg/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/openrcdmcryptcfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/openrcdmcryptcfg/module.desc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/packagechooser/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/packagechooserq/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooserq/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/packages" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/packages/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/packages" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/packages/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/packages" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/packages/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/packages" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/packages/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/packages" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/packages/packages.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/packages" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/packages/packages.schema.yaml")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/partition/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plymouthcfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/plymouthcfg/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plymouthcfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/plymouthcfg/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plymouthcfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/plymouthcfg/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plymouthcfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/plymouthcfg/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plymouthcfg" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/plymouthcfg/plymouthcfg.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/plymouthcfg" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/plymouthcfg/plymouthcfg.schema.yaml")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/preservefiles/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/rawfs" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/rawfs/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/rawfs" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/rawfs/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/rawfs" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/rawfs/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/rawfs" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/rawfs/module.desc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/removeuser/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/removeuser/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/services-openrc" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/services-openrc/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/services-openrc" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/services-openrc/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/services-openrc" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/services-openrc/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/services-openrc" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/services-openrc/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/services-systemd" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/services-systemd/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/services-systemd" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/services-systemd/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/services-systemd" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/services-systemd/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/services-systemd" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/services-systemd/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/services-systemd" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/services-systemd/services-systemd.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/services-systemd" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/services-systemd/services-systemd.schema.yaml")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/shellprocess/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/shellprocess/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/summary/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/summary/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/summaryq/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/summaryq/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/tracking/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/umount/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/umount/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/unpackfs" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/unpackfs/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/unpackfs" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/unpackfs/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/unpackfs" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/unpackfs/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/unpackfs" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/unpackfs/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/unpackfs" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/unpackfs/runtests.sh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/unpackfs" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/unpackfs/runtests.sh")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/unpackfs" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/unpackfs/unpackfs.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/unpackfs" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/unpackfs/unpackfs.schema.yaml")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/users/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/users/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/usersq/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/usersq/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/welcome/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/welcomeq/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/welcomeq/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/modules/zfs/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/modules/zfs/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/zfshostid" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/zfshostid/main.py")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/zfshostid" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/zfshostid/main.py")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/zfshostid" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/zfshostid/module.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/zfshostid" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/zfshostid/module.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/zfshostid" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/modules/zfshostid/zfshostid.schema.yaml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/calamares/modules/zfshostid" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/modules/zfshostid/zfshostid.schema.yaml")
 endif()
 

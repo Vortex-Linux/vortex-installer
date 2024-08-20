@@ -4,7 +4,7 @@
 # compile CXX with /sbin/c++
 CXX_DEFINES = -DKCOREADDONS_LIB -DPLUGINDLLEXPORT_PRO -DQT_CORE_LIB -DQT_DISABLE_DEPRECATED_BEFORE=0x060400 -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SHARED -DQT_SHAREDPOINTER_TRACK_POINTERS -DQT_STRICT_ITERATORS -DQT_WIDGETS_LIB -Dcalamares_job_umount_EXPORTS
 
-CXX_INCLUDES = -I/home/arun/VortexLinux/calamares/build/src/modules/umount/calamares_job_umount_autogen/include -I/home/arun/VortexLinux/calamares/src/libcalamares -I/home/arun/VortexLinux/calamares/build/src/libcalamares -I/home/arun/VortexLinux/calamares/src/libcalamaresui -I/home/arun/VortexLinux/calamares/src/modules/umount -I/home/arun/VortexLinux/calamares/build/src/modules/umount -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/KF6/KCoreAddons -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets
+CXX_INCLUDES = -I/home/arun/VortexLinux/vortex-installer/build/src/modules/umount/calamares_job_umount_autogen/include -I/home/arun/VortexLinux/vortex-installer/src/libcalamares -I/home/arun/VortexLinux/vortex-installer/build/src/libcalamares -I/home/arun/VortexLinux/vortex-installer/src/libcalamaresui -I/home/arun/VortexLinux/vortex-installer/src/modules/umount -I/home/arun/VortexLinux/vortex-installer/build/src/modules/umount -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtNetwork -isystem /usr/include/KF6/KCoreAddons -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets
 
 CXX_FLAGS =  -Wall -Werror=return-type -Wnon-virtual-dtor -Woverloaded-virtual -fdiagnostics-color=auto -Og -g -g -std=gnu++17 -fPIC -mno-direct-extern-access
 

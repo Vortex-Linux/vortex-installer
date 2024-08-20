@@ -1,6 +1,6 @@
-/home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/moc_DebugWindow.cpp: /home/arun/VortexLinux/calamares/src/calamares/DebugWindow.h \
-  /home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/calamares/VariantModel.h \
+/home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/EWIEGA46WW/moc_DebugWindow.cpp: /home/arun/VortexLinux/vortex-installer/src/calamares/DebugWindow.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/calamares/VariantModel.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

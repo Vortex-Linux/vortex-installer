@@ -1,7 +1,7 @@
 src/modules/partition/tests/CMakeFiles/partitionconfigtest.dir/__/core/PartitionInfo.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionInfo.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionInfo.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../core/PartitionInfo.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../core/PartitionInfo.h \
  /usr/include/qt6/QtCore/QHash /usr/include/qt6/QtCore/qhash.h \
  /usr/include/qt6/QtCore/qalgorithms.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -300,7 +300,7 @@ src/modules/partition/tests/CMakeFiles/partitionconfigtest.dir/__/core/Partition
  /usr/include/kpmcore/core/partitionrole.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/compat/Variant.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Variant.h \
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/qvariant.h \
  /usr/include/qt6/QtCore/qdebug.h /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qcontiguouscache.h \

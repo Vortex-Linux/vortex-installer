@@ -1,12 +1,12 @@
 src/libcalamares/CMakeFiles/libcalamaresutilstest.dir/libcalamaresutilstest_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilstest_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilstest_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilstest_autogen/7HEHEGDA3T/moc_Runner.cpp \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilstest_autogen/7HEHEGDA3T/../../../../../src/libcalamares/utils/Runner.h \
- /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresutilstest_autogen/7HEHEGDA3T/../../../../../src/libcalamares/utils/System.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilstest_autogen/7HEHEGDA3T/moc_Runner.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilstest_autogen/7HEHEGDA3T/../../../../../src/libcalamares/utils/Runner.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresutilstest_autogen/7HEHEGDA3T/../../../../../src/libcalamares/utils/System.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \

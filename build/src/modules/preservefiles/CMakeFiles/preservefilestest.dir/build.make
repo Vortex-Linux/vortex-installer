@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/modules/preservefiles/CMakeFiles/preservefilestest.dir/depend.make
@@ -71,51 +71,51 @@ include src/modules/preservefiles/CMakeFiles/preservefilestest.dir/flags.make
 
 src/modules/preservefiles/preservefilestest_autogen/timestamp: /usr/lib/qt6/moc
 src/modules/preservefiles/preservefilestest_autogen/timestamp: src/modules/preservefiles/CMakeFiles/preservefilestest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target preservefilestest"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/modules/preservefiles/CMakeFiles/preservefilestest_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/modules/preservefiles/preservefilestest_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target preservefilestest"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles/CMakeFiles/preservefilestest_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles/preservefilestest_autogen/timestamp
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o: src/modules/preservefiles/CMakeFiles/preservefilestest.dir/flags.make
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o: src/modules/preservefiles/preservefilestest_autogen/mocs_compilation.cpp
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o: src/modules/preservefiles/CMakeFiles/preservefilestest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o -MF CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/calamares/build/src/modules/preservefiles/preservefilestest_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o -MF CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles/preservefilestest_autogen/mocs_compilation.cpp
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/modules/preservefiles/preservefilestest_autogen/mocs_compilation.cpp > CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles/preservefilestest_autogen/mocs_compilation.cpp > CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.i
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/modules/preservefiles/preservefilestest_autogen/mocs_compilation.cpp -o CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles/preservefilestest_autogen/mocs_compilation.cpp -o CMakeFiles/preservefilestest.dir/preservefilestest_autogen/mocs_compilation.cpp.s
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o: src/modules/preservefiles/CMakeFiles/preservefilestest.dir/flags.make
-src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o: /home/arun/VortexLinux/calamares/src/modules/preservefiles/Item.cpp
+src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Item.cpp
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o: src/modules/preservefiles/CMakeFiles/preservefilestest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o -MF CMakeFiles/preservefilestest.dir/Item.cpp.o.d -o CMakeFiles/preservefilestest.dir/Item.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/preservefiles/Item.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.o -MF CMakeFiles/preservefilestest.dir/Item.cpp.o.d -o CMakeFiles/preservefilestest.dir/Item.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Item.cpp
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/preservefilestest.dir/Item.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/preservefiles/Item.cpp > CMakeFiles/preservefilestest.dir/Item.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Item.cpp > CMakeFiles/preservefilestest.dir/Item.cpp.i
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Item.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/preservefilestest.dir/Item.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/preservefiles/Item.cpp -o CMakeFiles/preservefilestest.dir/Item.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Item.cpp -o CMakeFiles/preservefilestest.dir/Item.cpp.s
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o: src/modules/preservefiles/CMakeFiles/preservefilestest.dir/flags.make
-src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o: /home/arun/VortexLinux/calamares/src/modules/preservefiles/Tests.cpp
+src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Tests.cpp
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o: src/modules/preservefiles/CMakeFiles/preservefilestest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o -MF CMakeFiles/preservefilestest.dir/Tests.cpp.o.d -o CMakeFiles/preservefilestest.dir/Tests.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/preservefiles/Tests.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.o -MF CMakeFiles/preservefilestest.dir/Tests.cpp.o.d -o CMakeFiles/preservefilestest.dir/Tests.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Tests.cpp
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/preservefilestest.dir/Tests.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/preservefiles/Tests.cpp > CMakeFiles/preservefilestest.dir/Tests.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Tests.cpp > CMakeFiles/preservefilestest.dir/Tests.cpp.i
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/Tests.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/preservefilestest.dir/Tests.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/preservefiles/Tests.cpp -o CMakeFiles/preservefilestest.dir/Tests.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Tests.cpp -o CMakeFiles/preservefilestest.dir/Tests.cpp.s
 
 # Object files for target preservefilestest
 preservefilestest_OBJECTS = \
@@ -134,21 +134,21 @@ preservefilestest: libcalamares.so.3.3.9
 preservefilestest: /usr/lib/libQt6Test.so.6.7.2
 preservefilestest: /usr/lib/libyaml-cpp.so
 preservefilestest: /usr/lib/libQt6Network.so.6.7.2
-preservefilestest: /usr/lib/libKF6CoreAddons.so.6.4.0
+preservefilestest: /usr/lib/libKF6CoreAddons.so.6.5.0
 preservefilestest: /usr/lib/libQt6Core.so.6.7.2
 preservefilestest: src/modules/preservefiles/CMakeFiles/preservefilestest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../../../preservefilestest"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/preservefilestest.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../../../preservefilestest"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/preservefilestest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/build: preservefilestest
 .PHONY : src/modules/preservefiles/CMakeFiles/preservefilestest.dir/build
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/modules/preservefiles && $(CMAKE_COMMAND) -P CMakeFiles/preservefilestest.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles && $(CMAKE_COMMAND) -P CMakeFiles/preservefilestest.dir/cmake_clean.cmake
 .PHONY : src/modules/preservefiles/CMakeFiles/preservefilestest.dir/clean
 
 src/modules/preservefiles/CMakeFiles/preservefilestest.dir/depend: src/modules/preservefiles/preservefilestest_autogen/timestamp
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/modules/preservefiles /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/modules/preservefiles /home/arun/VortexLinux/calamares/build/src/modules/preservefiles/CMakeFiles/preservefilestest.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/modules/preservefiles /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles /home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles/CMakeFiles/preservefilestest.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/modules/preservefiles/CMakeFiles/preservefilestest.dir/depend
 

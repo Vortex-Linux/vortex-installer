@@ -1,8 +1,8 @@
 src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/ResizeVolumeGroupDialog.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/ResizeVolumeGroupDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/ResizeVolumeGroupDialog.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/ResizeVolumeGroupDialog.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/VolumeGroupBaseDialog.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/ResizeVolumeGroupDialog.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/VolumeGroupBaseDialog.h \
  /usr/include/kpmcore/core/partition.h \
  /usr/include/kpmcore/core/partitionnode.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \
@@ -340,7 +340,7 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/ResizeVo
  /usr/include/qt6/QtGui/qfontmetrics.h /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/ListPhysicalVolumeWidgetItem.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/ListPhysicalVolumeWidgetItem.h \
  /usr/include/qt6/QtWidgets/QListWidgetItem \
  /usr/include/qt6/QtWidgets/qlistwidget.h \
  /usr/include/qt6/QtWidgets/qlistview.h \

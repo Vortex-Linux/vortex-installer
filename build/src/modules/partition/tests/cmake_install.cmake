@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/src/modules/partition/tests
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

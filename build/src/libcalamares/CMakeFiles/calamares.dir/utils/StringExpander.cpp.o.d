@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/calamares.dir/utils/StringExpander.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/StringExpander.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/StringExpander.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/StringExpander.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/StringExpander.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/KF6/KCoreAddons/KMacroExpander \
  /usr/include/KF6/KCoreAddons/kmacroexpander.h \
  /usr/include/qt6/QtCore/QChar /usr/include/qt6/QtCore/qchar.h \
@@ -276,7 +276,7 @@ src/libcalamares/CMakeFiles/calamares.dir/utils/StringExpander.cpp.o: \
  /usr/include/KF6/KCoreAddons/kcoreaddons_export.h \
  /usr/include/KF6/KCoreAddons/kcoreaddons_version.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qtextstream.h \
  /usr/include/qt6/QtCore/qiodevicebase.h \

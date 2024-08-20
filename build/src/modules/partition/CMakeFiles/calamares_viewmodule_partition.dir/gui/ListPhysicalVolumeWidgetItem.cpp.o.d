@@ -1,7 +1,7 @@
 src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/ListPhysicalVolumeWidgetItem.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/ListPhysicalVolumeWidgetItem.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/ListPhysicalVolumeWidgetItem.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/ListPhysicalVolumeWidgetItem.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/ListPhysicalVolumeWidgetItem.h \
  /usr/include/kpmcore/core/partition.h \
  /usr/include/kpmcore/core/partitionnode.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \
@@ -356,5 +356,5 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/gui/ListPhys
  /usr/include/qt6/QtWidgets/qstyle.h /usr/include/qt6/QtWidgets/qtabbar.h \
  /usr/include/qt6/QtWidgets/qtabwidget.h \
  /usr/include/qt6/QtWidgets/qrubberband.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/SizeUtils.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/SizeUtils.h \
  /usr/include/kpmcore/util/capacity.h

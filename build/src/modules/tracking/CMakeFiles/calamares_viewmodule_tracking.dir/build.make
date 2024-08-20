@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/depend.make
@@ -72,105 +72,105 @@ include src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/flags.
 src/modules/tracking/calamares_viewmodule_tracking_autogen/timestamp: /usr/lib/qt6/moc
 src/modules/tracking/calamares_viewmodule_tracking_autogen/timestamp: /usr/lib/qt6/uic
 src/modules/tracking/calamares_viewmodule_tracking_autogen/timestamp: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target calamares_viewmodule_tracking"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target calamares_viewmodule_tracking"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/timestamp
 
-src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/calamares/src/modules/tracking/page_trackingstep.qrc
+src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/page_trackingstep.qrc
 src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking_autogen.dir/AutoRcc_page_trackingstep_EWIEGA46WW_Info.json
-src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/calamares/src/modules/tracking/level-none.svg
-src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/calamares/src/modules/tracking/level-machine.svg
-src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/calamares/src/modules/tracking/level-install.svg
-src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/calamares/src/modules/tracking/level-user.svg
-src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/calamares/data/images/information.svgz
+src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/level-none.svg
+src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/level-machine.svg
+src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/level-install.svg
+src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/level-user.svg
+src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /home/arun/VortexLinux/vortex-installer/data/images/information.svgz
 src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /usr/lib/qt6/rcc
 src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp: /usr/lib/qt6/rcc
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic RCC for page_trackingstep.qrc"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /usr/bin/cmake -E cmake_autorcc /home/arun/VortexLinux/calamares/build/src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking_autogen.dir/AutoRcc_page_trackingstep_EWIEGA46WW_Info.json Debug
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic RCC for page_trackingstep.qrc"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /usr/bin/cmake -E cmake_autorcc /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking_autogen.dir/AutoRcc_page_trackingstep_EWIEGA46WW_Info.json Debug
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/flags.make
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o: src/modules/tracking/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/calamares/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.i
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/mocs_compilation.cpp.s
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/flags.make
-src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o: /home/arun/VortexLinux/calamares/src/modules/tracking/Config.cpp
+src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/Config.cpp
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/tracking/Config.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/tracking/Config.cpp
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/tracking/Config.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/tracking/Config.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.i
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/tracking/Config.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/tracking/Config.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/Config.cpp.s
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/flags.make
-src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o: /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingJobs.cpp
+src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingJobs.cpp
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingJobs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingJobs.cpp
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingJobs.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingJobs.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.i
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingJobs.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingJobs.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingJobs.cpp.s
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/flags.make
-src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o: /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingPage.cpp
+src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingPage.cpp
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingPage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingPage.cpp
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingPage.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingPage.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.i
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingPage.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingPage.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingPage.cpp.s
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/flags.make
-src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o: /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingViewStep.cpp
+src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingViewStep.cpp
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingViewStep.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingViewStep.cpp
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingViewStep.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingViewStep.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.i
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/tracking/TrackingViewStep.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/tracking/TrackingViewStep.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/TrackingViewStep.cpp.s
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/flags.make
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o: src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o -c /home/arun/VortexLinux/calamares/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o -MF CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o.d -o CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp > CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.i
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp -o CMakeFiles/calamares_viewmodule_tracking.dir/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp.s
 
 # Object files for target calamares_viewmodule_tracking
 calamares_viewmodule_tracking_OBJECTS = \
@@ -194,7 +194,7 @@ src/modules/tracking/libcalamares_viewmodule_tracking.so: src/modules/tracking/C
 src/modules/tracking/libcalamares_viewmodule_tracking.so: libcalamaresui.so.3.3.9
 src/modules/tracking/libcalamares_viewmodule_tracking.so: libcalamares.so.3.3.9
 src/modules/tracking/libcalamares_viewmodule_tracking.so: /usr/lib/libyaml-cpp.so
-src/modules/tracking/libcalamares_viewmodule_tracking.so: /usr/lib/libKF6CoreAddons.so.6.4.0
+src/modules/tracking/libcalamares_viewmodule_tracking.so: /usr/lib/libKF6CoreAddons.so.6.5.0
 src/modules/tracking/libcalamares_viewmodule_tracking.so: /usr/lib/libQt6Svg.so.6.7.2
 src/modules/tracking/libcalamares_viewmodule_tracking.so: /usr/lib/libQt6QuickWidgets.so.6.7.2
 src/modules/tracking/libcalamares_viewmodule_tracking.so: /usr/lib/libQt6Quick.so.6.7.2
@@ -209,19 +209,19 @@ src/modules/tracking/libcalamares_viewmodule_tracking.so: /usr/lib/libQt6Core.so
 src/modules/tracking/libcalamares_viewmodule_tracking.so: /usr/lib/libGLX.so
 src/modules/tracking/libcalamares_viewmodule_tracking.so: /usr/lib/libOpenGL.so
 src/modules/tracking/libcalamares_viewmodule_tracking.so: src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX shared library libcalamares_viewmodule_tracking.so"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calamares_viewmodule_tracking.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX shared library libcalamares_viewmodule_tracking.so"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calamares_viewmodule_tracking.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/build: src/modules/tracking/libcalamares_viewmodule_tracking.so
 .PHONY : src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/build
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/modules/tracking && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_tracking.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_tracking.dir/cmake_clean.cmake
 .PHONY : src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/clean
 
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/depend: src/modules/tracking/calamares_viewmodule_tracking_autogen/EWIEGA46WW/qrc_page_trackingstep.cpp
 src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/depend: src/modules/tracking/calamares_viewmodule_tracking_autogen/timestamp
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/modules/tracking /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/modules/tracking /home/arun/VortexLinux/calamares/build/src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/modules/tracking /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking /home/arun/VortexLinux/vortex-installer/build/src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/modules/tracking/CMakeFiles/calamares_viewmodule_tracking.dir/depend
 

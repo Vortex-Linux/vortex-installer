@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_LCLocaleDialog.cpp: /home/arun/VortexLinux/calamares/src/modules/locale/LCLocaleDialog.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_LCLocaleDialog.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/locale/LCLocaleDialog.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

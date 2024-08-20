@@ -1,9 +1,9 @@
 src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/calamares_viewmodule_locale_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_Config.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/Config.h \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/LocaleConfiguration.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_Config.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/Config.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/LocaleConfiguration.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qcontainerfwd.h \
  /usr/include/qt6/QtCore/qtconfigmacros.h \
@@ -306,17 +306,17 @@ src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/calamares_viewmodu
  /usr/include/qt6/QtCore/qvarlengtharray.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QString \
  /usr/include/qt6/QtCore/qstring.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobject_impl.h \
  /usr/include/qt6/QtCore/qbindingstorage.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Handler.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Interface.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Handler.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Interface.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
@@ -347,9 +347,9 @@ src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/calamares_viewmodu
  /usr/include/qt6/QtCore/qrunnable.h /usr/include/qt6/QtCore/qexception.h \
  /usr/include/qt6/QtCore/qpromise.h \
  /usr/include/qt6/QtConcurrent/qtconcurrentstoredfunctioncall.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Interface.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TimeZone.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Interface.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TimeZone.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/qvariant.h \
@@ -361,8 +361,8 @@ src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/calamares_viewmodu
  /usr/include/qt6/QtCore/QVariant /usr/include/qt6/QtCore/QFutureWatcher \
  /usr/include/qt6/QtCore/qfuturewatcher.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_LCLocaleDialog.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/LCLocaleDialog.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_LCLocaleDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/LCLocaleDialog.h \
  /usr/include/qt6/QtWidgets/QDialog /usr/include/qt6/QtWidgets/qdialog.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtGui/qtguiglobal.h \
@@ -386,16 +386,16 @@ src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/calamares_viewmodu
  /usr/include/qt6/QtGui/qfontmetrics.h /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_LocalePage.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/LocalePage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_LocalePage.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/LocalePage.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_LocaleViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/LocaleViewStep.h \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/Config.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_LocaleViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/LocaleViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
  /usr/include/qt6/QtCore/qplugin.h /usr/include/qt6/QtCore/qpointer.h \
@@ -405,10 +405,10 @@ src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/calamares_viewmodu
  /usr/include/qt6/QtCore/qcalendar.h /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/qcborcommon.h /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/quuid.h /usr/include/qt6/QtCore/q20algorithm.h \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_SetTimezoneJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/SetTimezoneJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/KOI7P2B5DO/moc_timezonewidget.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/KOI7P2B5DO/../../../../../../src/modules/locale/timezonewidget/timezonewidget.h \
- /home/arun/VortexLinux/calamares/build/src/modules/locale/calamares_viewmodule_locale_autogen/KOI7P2B5DO/../../../../../../src/modules/locale/timezonewidget/TimeZoneImage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/moc_SetTimezoneJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/EWIEGA46WW/../../../../../../src/modules/locale/SetTimezoneJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/KOI7P2B5DO/moc_timezonewidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/KOI7P2B5DO/../../../../../../src/modules/locale/timezonewidget/timezonewidget.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/calamares_viewmodule_locale_autogen/KOI7P2B5DO/../../../../../../src/modules/locale/timezonewidget/TimeZoneImage.h \
  /usr/include/qt6/QtGui/QImage /usr/include/qt6/QtGui/qimage.h \
  /usr/include/qt6/QtGui/QFont /usr/include/qt6/QtGui/qfont.h

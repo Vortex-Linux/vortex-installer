@@ -1,10 +1,10 @@
-/home/arun/VortexLinux/calamares/build/src/modules/luksbootkeyfile/luksbootkeyfiletest_autogen/EWIEGA46WW/moc_LuksBootKeyFileJob.cpp: /home/arun/VortexLinux/calamares/src/modules/luksbootkeyfile/LuksBootKeyFileJob.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/luksbootkeyfile/luksbootkeyfiletest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/luksbootkeyfile/luksbootkeyfiletest_autogen/EWIEGA46WW/moc_LuksBootKeyFileJob.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/luksbootkeyfile/LuksBootKeyFileJob.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/luksbootkeyfile/luksbootkeyfiletest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

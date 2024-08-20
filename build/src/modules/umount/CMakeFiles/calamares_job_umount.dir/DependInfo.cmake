@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/umount/calamares_job_umount_autogen/timestamp" "custom" "src/modules/umount/calamares_job_umount_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/umount/UmountJob.cpp" "src/modules/umount/CMakeFiles/calamares_job_umount.dir/UmountJob.cpp.o" "gcc" "src/modules/umount/CMakeFiles/calamares_job_umount.dir/UmountJob.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/umount/calamares_job_umount_autogen/mocs_compilation.cpp" "src/modules/umount/CMakeFiles/calamares_job_umount.dir/calamares_job_umount_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/umount/CMakeFiles/calamares_job_umount.dir/calamares_job_umount_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/umount/UmountJob.cpp" "src/modules/umount/CMakeFiles/calamares_job_umount.dir/UmountJob.cpp.o" "gcc" "src/modules/umount/CMakeFiles/calamares_job_umount.dir/UmountJob.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/umount/calamares_job_umount_autogen/mocs_compilation.cpp" "src/modules/umount/CMakeFiles/calamares_job_umount.dir/calamares_job_umount_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/umount/CMakeFiles/calamares_job_umount.dir/calamares_job_umount_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

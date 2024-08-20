@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/calamares.dir/utils/UMask.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/UMask.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/UMask.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/UMask.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/UMask.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/sys/types.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
  /usr/include/bits/timesize.h /usr/include/sys/cdefs.h \

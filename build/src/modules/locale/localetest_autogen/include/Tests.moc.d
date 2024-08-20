@@ -1,22 +1,22 @@
-/home/arun/VortexLinux/calamares/build/src/modules/locale/localetest_autogen/include/Tests.moc: /home/arun/VortexLinux/calamares/src/modules/locale/Tests.cpp \
-  /home/arun/VortexLinux/calamares/build/src/modules/locale/localetest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Handler.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/geoip/Interface.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TimeZone.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-  /home/arun/VortexLinux/calamares/src/modules/locale/Config.h \
-  /home/arun/VortexLinux/calamares/src/modules/locale/LocaleConfiguration.h \
-  /home/arun/VortexLinux/calamares/src/modules/locale/LocaleNames.h \
-  /home/arun/VortexLinux/calamares/src/modules/locale/timezonewidget/TimeZoneImage.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/locale/localetest_autogen/include/Tests.moc: /home/arun/VortexLinux/vortex-installer/src/modules/locale/Tests.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/locale/localetest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Handler.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Interface.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TimeZone.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/locale/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/locale/LocaleConfiguration.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/locale/LocaleNames.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/locale/timezonewidget/TimeZoneImage.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

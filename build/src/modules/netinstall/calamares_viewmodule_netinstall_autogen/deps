@@ -1,28 +1,28 @@
 calamares_viewmodule_netinstall_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-	/home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/Config.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/Config.h \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/LoaderQueue.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/LoaderQueue.h \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/NetInstallPage.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/NetInstallPage.h \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/NetInstallViewStep.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/NetInstallViewStep.h \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.h \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/PackageTreeItem.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/PackageTreeItem.h \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/groupstreeview.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/groupstreeview.h \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/netinstall.conf \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/calamares_viewmodule_netinstall_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Config.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Config.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/LoaderQueue.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/LoaderQueue.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/NetInstallPage.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/NetInstallPage.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/NetInstallViewStep.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/NetInstallViewStep.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageTreeItem.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageTreeItem.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/groupstreeview.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/groupstreeview.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/netinstall.conf \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -454,5 +454,5 @@ calamares_viewmodule_netinstall_autogen/timestamp: \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
 	/usr/share/cmake/Modules/GNUInstallDirs.cmake \
-	/home/arun/VortexLinux/calamares/src/modules/netinstall/page_netinst.ui \
+	/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/page_netinst.ui \
 	/usr/bin/cmake

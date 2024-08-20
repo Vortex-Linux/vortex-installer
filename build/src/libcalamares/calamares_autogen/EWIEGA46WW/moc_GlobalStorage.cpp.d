@@ -1,6 +1,6 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/EWIEGA46WW/moc_GlobalStorage.cpp: /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/EWIEGA46WW/moc_GlobalStorage.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

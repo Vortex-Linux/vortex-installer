@@ -1,6 +1,6 @@
-/home/arun/VortexLinux/calamares/build/src/modules/license/calamares_viewmodule_license_autogen/EWIEGA46WW/moc_LicensePage.cpp: /home/arun/VortexLinux/calamares/src/modules/license/LicensePage.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/license/calamares_viewmodule_license_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/license/calamares_viewmodule_license_autogen/EWIEGA46WW/moc_LicensePage.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/license/LicensePage.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/license/calamares_viewmodule_license_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

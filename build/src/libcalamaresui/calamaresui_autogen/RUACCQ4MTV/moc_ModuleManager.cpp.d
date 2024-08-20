@@ -1,10 +1,10 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/RUACCQ4MTV/moc_ModuleManager.cpp: /home/arun/VortexLinux/calamares/src/libcalamaresui/modulesystem/ModuleManager.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Descriptor.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/RUACCQ4MTV/moc_ModuleManager.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/modulesystem/ModuleManager.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Descriptor.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

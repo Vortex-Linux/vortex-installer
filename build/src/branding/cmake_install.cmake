@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/src/branding
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/src/branding
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -43,48 +43,40 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/branding/default/banner.png")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/branding/default/banner.png")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/branding/default/banner.png.license")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/branding/default/branding.desc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/branding/default/branding.desc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/branding/default/languages.png")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/branding/default/languages.png")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/branding/default/languages.png.license")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/branding/default/languages.png.license")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/branding/default/show.qml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/branding/default/show.qml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/branding/default/stylesheet.qss")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/branding/default/squid.png")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/branding/default/squid.png.license")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/calamares/build/src/branding/default/stylesheet.qss")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default" TYPE FILE FILES "/home/arun/VortexLinux/vortex-installer/build/src/branding/default/vortexlinux-logo.png")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "CALAMARES" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/calamares/branding/default/lang" TYPE FILE FILES
-    "/home/arun/VortexLinux/calamares/build/src/branding/calamares-default_ar.qm"
-    "/home/arun/VortexLinux/calamares/build/src/branding/calamares-default_en.qm"
-    "/home/arun/VortexLinux/calamares/build/src/branding/calamares-default_eo.qm"
-    "/home/arun/VortexLinux/calamares/build/src/branding/calamares-default_fr.qm"
-    "/home/arun/VortexLinux/calamares/build/src/branding/calamares-default_nl.qm"
+    "/home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_ar.qm"
+    "/home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_en.qm"
+    "/home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_eo.qm"
+    "/home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_fr.qm"
+    "/home/arun/VortexLinux/vortex-installer/build/src/branding/calamares-default_nl.qm"
     )
 endif()
 

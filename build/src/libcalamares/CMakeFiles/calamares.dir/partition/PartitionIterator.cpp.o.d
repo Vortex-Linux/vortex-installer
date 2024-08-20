@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/calamares.dir/partition/PartitionIterator.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionIterator.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionIterator.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionIterator.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionIterator.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/kpmcore/core/device.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \

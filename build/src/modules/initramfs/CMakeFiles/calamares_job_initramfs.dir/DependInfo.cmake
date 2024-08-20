@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/initramfs/calamares_job_initramfs_autogen/timestamp" "custom" "src/modules/initramfs/calamares_job_initramfs_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/initramfs/InitramfsJob.cpp" "src/modules/initramfs/CMakeFiles/calamares_job_initramfs.dir/InitramfsJob.cpp.o" "gcc" "src/modules/initramfs/CMakeFiles/calamares_job_initramfs.dir/InitramfsJob.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/initramfs/calamares_job_initramfs_autogen/mocs_compilation.cpp" "src/modules/initramfs/CMakeFiles/calamares_job_initramfs.dir/calamares_job_initramfs_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/initramfs/CMakeFiles/calamares_job_initramfs.dir/calamares_job_initramfs_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/initramfs/InitramfsJob.cpp" "src/modules/initramfs/CMakeFiles/calamares_job_initramfs.dir/InitramfsJob.cpp.o" "gcc" "src/modules/initramfs/CMakeFiles/calamares_job_initramfs.dir/InitramfsJob.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/initramfs/calamares_job_initramfs_autogen/mocs_compilation.cpp" "src/modules/initramfs/CMakeFiles/calamares_job_initramfs.dir/calamares_job_initramfs_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/initramfs/CMakeFiles/calamares_job_initramfs.dir/calamares_job_initramfs_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,8 +1,8 @@
 src/calamares/CMakeFiles/test_conf.dir/test_conf.cpp.o: \
- /home/arun/VortexLinux/calamares/src/calamares/test_conf.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/calamares/test_conf.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \

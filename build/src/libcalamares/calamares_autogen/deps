@@ -1,125 +1,125 @@
 calamares_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/CMakeModules/KPMcoreHelper.cmake \
-	/home/arun/VortexLinux/calamares/CMakeModules/i18n.qrc.in \
-	/home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
-	/home/arun/VortexLinux/calamares/build/src/libcalamares/calamares_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CalamaresAbout.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CalamaresAbout.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CalamaresConfig.h.in \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CalamaresVersion.h.in \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CalamaresVersionX.h.in \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CppJob.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/JobExample.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/JobExample.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/ProcessJob.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/ProcessJob.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Settings.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/compat/Mutex.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPFixed.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPFixed.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPJSON.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPJSON.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPXML.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPXML.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/geoip/Handler.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/geoip/Handler.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/geoip/Interface.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/geoip/Interface.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/Global.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/Global.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/Lookup.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/Lookup.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/TimeZone.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/TimeZone.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Descriptor.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Descriptor.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Module.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Module.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Preset.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Preset.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsChecker.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsChecker.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsModel.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsModel.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/network/Manager.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/network/Manager.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/packages/Globals.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/packages/Globals.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/AutoMount.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/AutoMount.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/FileSystem.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/FileSystem.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/Global.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/Mount.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/Mount.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionIterator.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionIterator.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionQuery.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionQuery.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionSize.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionSize.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/Sync.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/partition/Sync.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/python/Api.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/python/Api.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/python/PythonJob.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/python/PythonJob.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/CommandList.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/CommandList.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Dirs.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Dirs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Entropy.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Entropy.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Permissions.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Permissions.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Runner.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Runner.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/String.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/String.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/StringExpander.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/StringExpander.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/System.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/UMask.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/UMask.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Variant.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Variant.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.cpp \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
+	/home/arun/VortexLinux/vortex-installer/CMakeModules/KPMcoreHelper.cmake \
+	/home/arun/VortexLinux/vortex-installer/CMakeModules/i18n.qrc.in \
+	/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+	/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/calamares_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresAbout.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresAbout.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresConfig.h.in \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresVersion.h.in \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CalamaresVersionX.h.in \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/JobExample.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/JobExample.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/ProcessJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/ProcessJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/compat/Mutex.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPFixed.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPFixed.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPJSON.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPJSON.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPXML.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPXML.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Handler.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Handler.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Interface.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/Interface.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Global.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Global.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Lookup.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Lookup.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TimeZone.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TimeZone.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Descriptor.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Descriptor.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Module.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Module.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Preset.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Preset.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsChecker.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsChecker.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsModel.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsModel.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Manager.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Manager.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/packages/Globals.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/packages/Globals.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/AutoMount.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/AutoMount.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/FileSystem.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/FileSystem.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Global.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Mount.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Mount.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionIterator.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionIterator.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionQuery.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionQuery.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionSize.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionSize.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Sync.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/Sync.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/python/Api.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/python/Api.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/python/PythonJob.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/python/PythonJob.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/CommandList.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/CommandList.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Dirs.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Dirs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Entropy.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Entropy.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Permissions.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Permissions.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Runner.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Runner.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/String.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/String.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/StringExpander.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/StringExpander.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/UMask.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/UMask.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Variant.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Variant.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
 	/lib/cmake/KF6Config/KF6ConfigCompilerTargets-noconfig.cmake \
 	/lib/cmake/KF6Config/KF6ConfigCompilerTargets.cmake \
 	/lib/cmake/KF6Config/KF6ConfigConfig.cmake \
@@ -143,6 +143,22 @@ calamares_autogen/timestamp: \
 	/lib/cmake/KPMcore/KPMcoreConfigVersion.cmake \
 	/lib/cmake/KPMcore/KPMcoreTargets-noconfig.cmake \
 	/lib/cmake/KPMcore/KPMcoreTargets.cmake \
+	/lib/cmake/Qt6/Qt6Config.cmake \
+	/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/lib/cmake/Qt6/Qt6Targets.cmake \
+	/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake \
+	/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsAdditionalTargetInfo.cmake \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake \
@@ -150,6 +166,17 @@ calamares_autogen/timestamp: \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake \
 	/lib/cmake/Qt6DBusTools/Qt6DBusToolsVersionlessTargets.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlAdditionalTargetInfo.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlConfigExtras.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlConfigVersion.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlConfigVersionImpl.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlFindQmlscInternal.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlPlugins.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake \
+	/lib/cmake/Qt6Qml/Qt6QmlVersionlessTargets.cmake \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsAdditionalTargetInfo.cmake \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfig.cmake \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfigVersion.cmake \
@@ -157,6 +184,15 @@ calamares_autogen/timestamp: \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsDependencies.cmake \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsTargets.cmake \
 	/lib/cmake/Qt6QmlTools/Qt6QmlToolsVersionlessTargets.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake \
+	/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake \
@@ -164,6 +200,14 @@ calamares_autogen/timestamp: \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
 	/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlAdditionalTargetInfo.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlConfig.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlConfigVersion.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlConfigVersionImpl.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlDependencies.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlTargets-relwithdebinfo.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlTargets.cmake \
+	/lib/cmake/Qt6Xml/Qt6XmlVersionlessTargets.cmake \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -636,13 +680,6 @@ calamares_autogen/timestamp: \
 	/usr/include/sys/types.h \
 	/usr/include/time.h \
 	/usr/include/wchar.h \
-	/usr/lib/cmake/Qt6/Qt6Config.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6/Qt6Dependencies.cmake \
-	/usr/lib/cmake/Qt6/Qt6Targets.cmake \
-	/usr/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
 	/usr/lib/cmake/Qt6/QtFeature.cmake \
 	/usr/lib/cmake/Qt6/QtFeatureCommon.cmake \
 	/usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
@@ -657,42 +694,6 @@ calamares_autogen/timestamp: \
 	/usr/lib/cmake/Qt6/QtPublicTestHelpers.cmake \
 	/usr/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
 	/usr/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake \
-	/usr/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlAdditionalTargetInfo.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlConfigExtras.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlConfigVersion.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlFindQmlscInternal.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlPlugins.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake \
-	/usr/lib/cmake/Qt6Qml/Qt6QmlVersionlessTargets.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake \
-	/usr/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlAdditionalTargetInfo.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlConfig.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlConfigVersion.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlDependencies.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlTargets-relwithdebinfo.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlTargets.cmake \
-	/usr/lib/cmake/Qt6Xml/Qt6XmlVersionlessTargets.cmake \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \

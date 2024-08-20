@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Utility rule file for calamares_viewmodule_summary_autogen_timestamp_deps.
 
@@ -74,10 +74,10 @@ src/modules/summary/CMakeFiles/calamares_viewmodule_summary_autogen_timestamp_de
 .PHONY : src/modules/summary/CMakeFiles/calamares_viewmodule_summary_autogen_timestamp_deps.dir/build
 
 src/modules/summary/CMakeFiles/calamares_viewmodule_summary_autogen_timestamp_deps.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/modules/summary && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_summary_autogen_timestamp_deps.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/summary && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_summary_autogen_timestamp_deps.dir/cmake_clean.cmake
 .PHONY : src/modules/summary/CMakeFiles/calamares_viewmodule_summary_autogen_timestamp_deps.dir/clean
 
 src/modules/summary/CMakeFiles/calamares_viewmodule_summary_autogen_timestamp_deps.dir/depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/modules/summary /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/modules/summary /home/arun/VortexLinux/calamares/build/src/modules/summary/CMakeFiles/calamares_viewmodule_summary_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/modules/summary /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/modules/summary /home/arun/VortexLinux/vortex-installer/build/src/modules/summary/CMakeFiles/calamares_viewmodule_summary_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/modules/summary/CMakeFiles/calamares_viewmodule_summary_autogen_timestamp_deps.dir/depend
 

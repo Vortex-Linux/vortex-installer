@@ -1,20 +1,20 @@
 calamares_viewmodule_license_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/build/src/modules/license/calamares_viewmodule_license_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-	/home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
-	/home/arun/VortexLinux/calamares/src/modules/license/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/license/LicensePage.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/license/LicensePage.h \
-	/home/arun/VortexLinux/calamares/src/modules/license/LicenseViewStep.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/license/LicenseViewStep.h \
-	/home/arun/VortexLinux/calamares/src/modules/license/LicenseWidget.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/license/LicenseWidget.h \
-	/home/arun/VortexLinux/calamares/src/modules/license/license.conf \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/license/calamares_viewmodule_license_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/license/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/license/LicensePage.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/license/LicensePage.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseViewStep.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseViewStep.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseWidget.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/license/LicenseWidget.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/license/license.conf \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -442,5 +442,5 @@ calamares_viewmodule_license_autogen/timestamp: \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
 	/usr/share/cmake/Modules/GNUInstallDirs.cmake \
-	/home/arun/VortexLinux/calamares/src/modules/license/LicensePage.ui \
+	/home/arun/VortexLinux/vortex-installer/src/modules/license/LicensePage.ui \
 	/usr/bin/cmake

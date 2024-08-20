@@ -1,8 +1,8 @@
 3rdparty/kdsingleapplication/CMakeFiles/kdsingleapplication.dir/kdsingleapplication_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/moc_kdsingleapplication.cpp \
- /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/../../../../../3rdparty/kdsingleapplication/kdsingleapplication.h \
+ /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/moc_kdsingleapplication.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/../../../../../3rdparty/kdsingleapplication/kdsingleapplication.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \
@@ -290,10 +290,10 @@
  /usr/include/qt6/QtCore/qbindingstorage.h /usr/include/c++/14.2.1/chrono \
  /usr/include/c++/14.2.1/bits/chrono.h /usr/include/c++/14.2.1/ratio \
  /usr/include/c++/14.2.1/ctime \
- /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/../../../../../3rdparty/kdsingleapplication/kdsingleapplication_lib.h \
+ /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/../../../../../3rdparty/kdsingleapplication/kdsingleapplication_lib.h \
  /usr/include/qt6/QtCore/QtGlobal /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/moc_kdsingleapplication_localsocket_p.cpp \
- /home/arun/VortexLinux/calamares/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/../../../../../3rdparty/kdsingleapplication/kdsingleapplication_localsocket_p.h \
+ /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/moc_kdsingleapplication_localsocket_p.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/3rdparty/kdsingleapplication/kdsingleapplication_autogen/EWIEGA46WW/../../../../../3rdparty/kdsingleapplication/kdsingleapplication_localsocket_p.h \
  /usr/include/qt6/QtCore/QByteArray /usr/include/qt6/QtCore/qbytearray.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h

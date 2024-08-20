@@ -1,17 +1,17 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamareslocaletest_autogen/include/Tests.moc: /home/arun/VortexLinux/calamares/src/libcalamares/locale/Tests.cpp \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamareslocaletest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresVersion.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/Global.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TimeZone.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableConfiguration.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslatableString.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Retranslator.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamareslocaletest_autogen/include/Tests.moc: /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Tests.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamareslocaletest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresVersion.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Global.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TimeZone.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableConfiguration.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslatableString.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Retranslator.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

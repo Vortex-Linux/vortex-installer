@@ -9,9 +9,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/libcalamares/libcalamareslocaletest_autogen/timestamp" "custom" "src/libcalamares/libcalamareslocaletest_autogen/deps"
-  "/home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamareslocaletest_autogen/mocs_compilation.cpp" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o" "gcc" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/libcalamares/locale/Tests.cpp" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o" "gcc" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/libcalamares/qrc_localetest.cxx" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o" "gcc" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamareslocaletest_autogen/mocs_compilation.cpp" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o" "gcc" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/libcalamareslocaletest_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Tests.cpp" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o" "gcc" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/locale/Tests.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/qrc_localetest.cxx" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o" "gcc" "src/libcalamares/CMakeFiles/libcalamareslocaletest.dir/qrc_localetest.cxx.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

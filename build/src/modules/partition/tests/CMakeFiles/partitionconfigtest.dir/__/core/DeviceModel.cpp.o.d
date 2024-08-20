@@ -1,7 +1,7 @@
 src/modules/partition/tests/CMakeFiles/partitionconfigtest.dir/__/core/DeviceModel.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/DeviceModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/DeviceModel.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/DeviceModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/DeviceModel.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/qhash.h /usr/include/qt6/QtCore/qalgorithms.h \
@@ -308,8 +308,8 @@ src/modules/partition/tests/CMakeFiles/partitionconfigtest.dir/__/core/DeviceMod
  /usr/include/qt6/QtCore/q23utility.h /usr/include/qt6/QtCore/QList \
  /usr/include/qt6/QtCore/qlist.h /usr/include/qt6/QtCore/QScopedPointer \
  /usr/include/qt6/QtCore/qscopedpointer.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../core/PartitionModel.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../core/OsproberEntry.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../core/PartitionModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../core/OsproberEntry.h \
  /usr/include/qt6/QtCore/QStringList \
  /usr/include/qt6/QtCore/qstringlist.h \
  /usr/include/qt6/QtCore/QAbstractItemModel \
@@ -317,12 +317,12 @@ src/modules/partition/tests/CMakeFiles/partitionconfigtest.dir/__/core/DeviceMod
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
  /usr/include/qt6/QtCore/qtsan_impl.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/tests/../core/SizeUtils.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/../core/SizeUtils.h \
  /usr/include/kpmcore/util/capacity.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \
  /usr/include/qt6/QtCore/QtGlobal /usr/include/qt6/QtCore/qglobal.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Gui.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Gui.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtGui/QPixmap /usr/include/qt6/QtGui/qpixmap.h \
  /usr/include/qt6/QtGui/qtguiglobal.h \
@@ -337,7 +337,7 @@ src/modules/partition/tests/CMakeFiles/partitionconfigtest.dir/__/core/DeviceMod
  /usr/include/qt6/QtGui/qtransform.h /usr/include/qt6/QtGui/qpolygon.h \
  /usr/include/qt6/QtGui/qregion.h /usr/include/qt6/QtCore/qline.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \

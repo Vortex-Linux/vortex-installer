@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Include any dependencies generated for this target.
 include src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/depend.make
@@ -71,59 +71,59 @@ include src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/flags.
 
 src/modules/notesqml/calamares_viewmodule_notesqml_autogen/timestamp: /usr/lib/qt6/moc
 src/modules/notesqml/calamares_viewmodule_notesqml_autogen/timestamp: src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target calamares_viewmodule_notesqml"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target calamares_viewmodule_notesqml"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/timestamp
 
-src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp: /home/arun/VortexLinux/calamares/src/modules/notesqml/notesqml.qrc
+src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/notesqml/notesqml.qrc
 src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp: src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml_autogen.dir/AutoRcc_notesqml_EWIEGA46WW_Info.json
-src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp: /home/arun/VortexLinux/calamares/src/modules/notesqml/notesqml.qml
+src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/notesqml/notesqml.qml
 src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp: /usr/lib/qt6/rcc
 src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp: /usr/lib/qt6/rcc
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic RCC for notesqml.qrc"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /usr/bin/cmake -E cmake_autorcc /home/arun/VortexLinux/calamares/build/src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml_autogen.dir/AutoRcc_notesqml_EWIEGA46WW_Info.json Debug
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic RCC for notesqml.qrc"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /usr/bin/cmake -E cmake_autorcc /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml_autogen.dir/AutoRcc_notesqml_EWIEGA46WW_Info.json Debug
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o: src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/flags.make
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o: src/modules/notesqml/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o: src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o -MF CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/calamares/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o -MF CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp > CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp > CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.i
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp -o CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp -o CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/mocs_compilation.cpp.s
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o: src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/flags.make
-src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o: /home/arun/VortexLinux/calamares/src/modules/notesqml/NotesQmlViewStep.cpp
+src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o: /home/arun/VortexLinux/vortex-installer/src/modules/notesqml/NotesQmlViewStep.cpp
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o: src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o -MF CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o.d -o CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o -c /home/arun/VortexLinux/calamares/src/modules/notesqml/NotesQmlViewStep.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o -MF CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o.d -o CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.o -c /home/arun/VortexLinux/vortex-installer/src/modules/notesqml/NotesQmlViewStep.cpp
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/src/modules/notesqml/NotesQmlViewStep.cpp > CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/src/modules/notesqml/NotesQmlViewStep.cpp > CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.i
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/src/modules/notesqml/NotesQmlViewStep.cpp -o CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/src/modules/notesqml/NotesQmlViewStep.cpp -o CMakeFiles/calamares_viewmodule_notesqml.dir/NotesQmlViewStep.cpp.s
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o: src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/flags.make
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o: src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o: src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o -MF CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o.d -o CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o -c /home/arun/VortexLinux/calamares/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o -MF CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o.d -o CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.o -c /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.i"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/calamares/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp > CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.i
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp > CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.i
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.s"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/calamares/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp -o CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.s
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && /sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp -o CMakeFiles/calamares_viewmodule_notesqml.dir/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp.s
 
 # Object files for target calamares_viewmodule_notesqml
 calamares_viewmodule_notesqml_OBJECTS = \
@@ -141,7 +141,7 @@ src/modules/notesqml/libcalamares_viewmodule_notesqml.so: src/modules/notesqml/C
 src/modules/notesqml/libcalamares_viewmodule_notesqml.so: libcalamaresui.so.3.3.9
 src/modules/notesqml/libcalamares_viewmodule_notesqml.so: libcalamares.so.3.3.9
 src/modules/notesqml/libcalamares_viewmodule_notesqml.so: /usr/lib/libyaml-cpp.so
-src/modules/notesqml/libcalamares_viewmodule_notesqml.so: /usr/lib/libKF6CoreAddons.so.6.4.0
+src/modules/notesqml/libcalamares_viewmodule_notesqml.so: /usr/lib/libKF6CoreAddons.so.6.5.0
 src/modules/notesqml/libcalamares_viewmodule_notesqml.so: /usr/lib/libQt6Svg.so.6.7.2
 src/modules/notesqml/libcalamares_viewmodule_notesqml.so: /usr/lib/libQt6QuickWidgets.so.6.7.2
 src/modules/notesqml/libcalamares_viewmodule_notesqml.so: /usr/lib/libQt6Quick.so.6.7.2
@@ -156,19 +156,19 @@ src/modules/notesqml/libcalamares_viewmodule_notesqml.so: /usr/lib/libQt6Core.so
 src/modules/notesqml/libcalamares_viewmodule_notesqml.so: /usr/lib/libGLX.so
 src/modules/notesqml/libcalamares_viewmodule_notesqml.so: /usr/lib/libOpenGL.so
 src/modules/notesqml/libcalamares_viewmodule_notesqml.so: src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX shared library libcalamares_viewmodule_notesqml.so"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calamares_viewmodule_notesqml.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX shared library libcalamares_viewmodule_notesqml.so"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calamares_viewmodule_notesqml.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/build: src/modules/notesqml/libcalamares_viewmodule_notesqml.so
 .PHONY : src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/build
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/modules/notesqml && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_notesqml.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml && $(CMAKE_COMMAND) -P CMakeFiles/calamares_viewmodule_notesqml.dir/cmake_clean.cmake
 .PHONY : src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/clean
 
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/depend: src/modules/notesqml/calamares_viewmodule_notesqml_autogen/EWIEGA46WW/qrc_notesqml.cpp
 src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/depend: src/modules/notesqml/calamares_viewmodule_notesqml_autogen/timestamp
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/modules/notesqml /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/modules/notesqml /home/arun/VortexLinux/calamares/build/src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/modules/notesqml /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml /home/arun/VortexLinux/vortex-installer/build/src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/modules/notesqml/CMakeFiles/calamares_viewmodule_notesqml.dir/depend
 

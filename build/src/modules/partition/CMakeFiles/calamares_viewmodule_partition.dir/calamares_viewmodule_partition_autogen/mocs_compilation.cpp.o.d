@@ -1,9 +1,9 @@
 src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/calamares_viewmodule_partition_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/EWIEGA46WW/moc_Config.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/EWIEGA46WW/../../../../../../src/modules/partition/Config.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/EWIEGA46WW/moc_Config.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/EWIEGA46WW/../../../../../../src/modules/partition/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \
  /usr/include/qt6/QtCore/qchar.h /usr/include/qt6/QtCore/qglobal.h \
  /usr/include/c++/14.2.1/type_traits \
@@ -326,18 +326,18 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/calamares_vi
  /usr/include/qt6/QtCore/QUrl /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtCore/QSet /usr/include/qt6/QtCore/qset.h \
  /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/EWIEGA46WW/moc_PartitionViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/EWIEGA46WW/../../../../../../src/modules/partition/PartitionViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/EWIEGA46WW/moc_PartitionViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/EWIEGA46WW/../../../../../../src/modules/partition/PartitionViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QSharedPointer \
  /usr/include/qt6/QtCore/qsharedpointer.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
  /usr/include/qt6/QtCore/qmargins.h /usr/include/qt6/QtCore/qplugin.h \
@@ -349,8 +349,8 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/calamares_vi
  /usr/include/qt6/QtCore/qregularexpression.h \
  /usr/include/qt6/QtCore/qurl.h /usr/include/qt6/QtCore/quuid.h \
  /usr/include/qt6/QtCore/qendian.h /usr/include/qt6/QtCore/q20algorithm.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/moc_BootLoaderModel.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/../../../../../../src/modules/partition/core/BootLoaderModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/moc_BootLoaderModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/../../../../../../src/modules/partition/core/BootLoaderModel.h \
  /usr/include/qt6/QtCore/QMutex /usr/include/qt6/QtCore/qmutex.h \
  /usr/include/qt6/QtCore/qdeadlinetimer.h \
  /usr/include/qt6/QtCore/qelapsedtimer.h \
@@ -371,42 +371,42 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/calamares_vi
  /usr/include/qt6/QtGui/qregion.h /usr/include/qt6/QtCore/qline.h \
  /usr/include/qt6/QtGui/qpixmap.h /usr/include/qt6/QtGui/qfont.h \
  /usr/include/qt6/QtGui/qicon.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/moc_DeviceModel.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/../../../../../../src/modules/partition/core/DeviceModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/moc_DeviceModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/../../../../../../src/modules/partition/core/DeviceModel.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/QScopedPointer \
  /usr/include/qt6/QtCore/qscopedpointer.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/moc_PartitionCoreModule.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/../../../../../../src/modules/partition/core/PartitionCoreModule.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/Config.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/KPMHelpers.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/moc_PartitionCoreModule.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/../../../../../../src/modules/partition/core/PartitionCoreModule.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/KPMHelpers.h \
  /usr/include/kpmcore/core/partitiontable.h \
  /usr/include/kpmcore/ops/operation.h /usr/include/kpmcore/util/report.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionLayout.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/PartUtils.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/OsproberEntry.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Units.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionLayout.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartUtils.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/OsproberEntry.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Units.h \
  /usr/include/qt6/QtCore/QIntegerForSize /usr/include/qt6/QtCore/qtypes.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionSize.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionSize.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionModel.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionModel.h \
  /usr/include/qt6/QtCore/QAbstractItemModel \
- /home/arun/VortexLinux/calamares/src/modules/partition/jobs/PartitionJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/PartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
  /usr/include/kpmcore/core/lvmdevice.h /usr/include/kpmcore/core/device.h \
  /usr/include/kpmcore/core/volumemanagerdevice.h \
  /usr/include/qt6/QtCore/QHash /usr/include/qt6/QtCore/qhash.h \
  /usr/include/qt6/QtCore/QVector /usr/include/qt6/QtCore/qvector.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/moc_PartitionModel.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/../../../../../../src/modules/partition/core/PartitionModel.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_BootInfoWidget.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/BootInfoWidget.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/moc_PartitionModel.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/../../../../../../src/modules/partition/core/PartitionModel.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_BootInfoWidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/BootInfoWidget.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtWidgets/qtwidgets-config.h \
@@ -416,9 +416,9 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/calamares_vi
  /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_ChoicePage.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/ChoicePage.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/include/ui_ChoicePage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_ChoicePage.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/ChoicePage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/include/ui_ChoicePage.h \
  /usr/include/qt6/QtWidgets/QApplication \
  /usr/include/qt6/QtWidgets/qapplication.h \
  /usr/include/qt6/QtCore/qcoreapplication.h \
@@ -453,24 +453,24 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/calamares_vi
  /usr/include/qt6/QtWidgets/qlayoutitem.h \
  /usr/include/qt6/QtWidgets/QVBoxLayout \
  /usr/include/qt6/QtWidgets/QWidget \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/EncryptWidget.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/core/OsproberEntry.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_CreatePartitionDialog.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/CreatePartitionDialog.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/EncryptWidget.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/OsproberEntry.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_CreatePartitionDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/CreatePartitionDialog.h \
  /usr/include/kpmcore/core/partitionrole.h \
  /usr/include/qt6/QtWidgets/QDialog /usr/include/qt6/QtWidgets/qdialog.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_CreateVolumeGroupDialog.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/CreateVolumeGroupDialog.h \
- /home/arun/VortexLinux/calamares/src/modules/partition/gui/VolumeGroupBaseDialog.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_DeviceInfoWidget.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/DeviceInfoWidget.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_EditExistingPartitionDialog.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/EditExistingPartitionDialog.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_EncryptWidget.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/EncryptWidget.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_PartitionBarsView.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionBarsView.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionViewSelectionFilter.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_CreateVolumeGroupDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/CreateVolumeGroupDialog.h \
+ /home/arun/VortexLinux/vortex-installer/src/modules/partition/gui/VolumeGroupBaseDialog.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_DeviceInfoWidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/DeviceInfoWidget.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_EditExistingPartitionDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/EditExistingPartitionDialog.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_EncryptWidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/EncryptWidget.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_PartitionBarsView.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionBarsView.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionViewSelectionFilter.h \
  /usr/include/qt6/QtCore/QModelIndex \
  /usr/include/qt6/QtWidgets/QAbstractItemView \
  /usr/include/qt6/QtWidgets/qabstractitemview.h \
@@ -483,19 +483,19 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/calamares_vi
  /usr/include/qt6/QtWidgets/qstyle.h /usr/include/qt6/QtWidgets/qtabbar.h \
  /usr/include/qt6/QtWidgets/qtabwidget.h \
  /usr/include/qt6/QtWidgets/qrubberband.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_PartitionLabelsView.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionLabelsView.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_PartitionPage.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionPage.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_PartitionSizeController.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionSizeController.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_PartitionLabelsView.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionLabelsView.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_PartitionPage.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionPage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_PartitionSizeController.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionSizeController.h \
  /usr/include/qt6/QtGui/QColor /usr/include/qt6/QtGui/qcolor.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_PartitionSplitterWidget.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionSplitterWidget.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_ResizeVolumeGroupDialog.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/ResizeVolumeGroupDialog.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_ScanningDialog.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/ScanningDialog.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_PartitionSplitterWidget.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/PartitionSplitterWidget.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_ResizeVolumeGroupDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/ResizeVolumeGroupDialog.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_ScanningDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/ScanningDialog.h \
  /usr/include/qt6/QtCore/QFuture /usr/include/qt6/QtCore/qfuture.h \
  /usr/include/qt6/QtCore/qfutureinterface.h \
  /usr/include/qt6/QtCore/qmutex.h /usr/include/qt6/QtCore/qresultstore.h \
@@ -509,41 +509,41 @@ src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/calamares_vi
  /usr/include/c++/14.2.1/bits/std_thread.h \
  /usr/include/qt6/QtCore/qrunnable.h /usr/include/qt6/QtCore/qexception.h \
  /usr/include/qt6/QtCore/qpromise.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_VolumeGroupBaseDialog.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/VolumeGroupBaseDialog.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_AutoMountManagementJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/AutoMountManagementJob.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/AutoMount.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_ChangeFilesystemLabelJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/ChangeFilesystemLabelJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/PartitionJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_ClearMountsJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/ClearMountsJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_ClearTempMountsJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/ClearTempMountsJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_CreatePartitionJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/CreatePartitionJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_CreatePartitionTableJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/CreatePartitionTableJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_CreateVolumeGroupJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/CreateVolumeGroupJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_DeactivateVolumeGroupJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/DeactivateVolumeGroupJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_DeletePartitionJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/DeletePartitionJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_FillGlobalStorageJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/FillGlobalStorageJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/moc_VolumeGroupBaseDialog.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/DMHXEJ42XS/../../../../../../src/modules/partition/gui/VolumeGroupBaseDialog.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_AutoMountManagementJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/AutoMountManagementJob.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/AutoMount.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_ChangeFilesystemLabelJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/ChangeFilesystemLabelJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/PartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_ClearMountsJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/ClearMountsJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_ClearTempMountsJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/ClearTempMountsJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_CreatePartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/CreatePartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_CreatePartitionTableJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/CreatePartitionTableJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_CreateVolumeGroupJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/CreateVolumeGroupJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_DeactivateVolumeGroupJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/DeactivateVolumeGroupJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_DeletePartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/DeletePartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_FillGlobalStorageJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/FillGlobalStorageJob.h \
  /usr/include/qt6/QtCore/QVariantList \
  /usr/include/qt6/QtCore/qvariantlist.h /usr/include/qt6/QtCore/QList \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_FormatPartitionJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/FormatPartitionJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_PartitionJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/PartitionJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_RemoveVolumeGroupJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/RemoveVolumeGroupJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_ResizePartitionJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/ResizePartitionJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_ResizeVolumeGroupJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/ResizeVolumeGroupJob.h \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_SetPartitionFlagsJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/SetPartitionFlagsJob.h
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_FormatPartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/FormatPartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_PartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/PartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_RemoveVolumeGroupJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/RemoveVolumeGroupJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_ResizePartitionJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/ResizePartitionJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_ResizeVolumeGroupJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/ResizeVolumeGroupJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/moc_SetPartitionFlagsJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/AJN4HOEG3V/../../../../../../src/modules/partition/jobs/SetPartitionFlagsJob.h

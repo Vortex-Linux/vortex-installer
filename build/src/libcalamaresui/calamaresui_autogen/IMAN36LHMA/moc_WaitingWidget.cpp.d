@@ -1,7 +1,7 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_WaitingWidget.cpp: /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/WaitingWidget.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/widgets/waitingspinnerwidget.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/IMAN36LHMA/moc_WaitingWidget.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/WaitingWidget.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamaresui/calamaresui_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/widgets/waitingspinnerwidget.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

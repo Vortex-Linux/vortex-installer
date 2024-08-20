@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_PlasmaLnfPage.cpp: /home/arun/VortexLinux/calamares/src/modules/plasmalnf/PlasmaLnfPage.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_PlasmaLnfPage.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/plasmalnf/PlasmaLnfPage.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

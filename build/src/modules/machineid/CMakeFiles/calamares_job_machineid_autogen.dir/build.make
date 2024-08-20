@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Utility rule file for calamares_job_machineid_autogen.
 
@@ -70,9 +70,9 @@ src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen: src/modules/ma
 
 src/modules/machineid/calamares_job_machineid_autogen/timestamp: /usr/lib/qt6/moc
 src/modules/machineid/calamares_job_machineid_autogen/timestamp: src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target calamares_job_machineid"
-	cd /home/arun/VortexLinux/calamares/build/src/modules/machineid && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/calamares/build/src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/AutogenInfo.json Debug
-	cd /home/arun/VortexLinux/calamares/build/src/modules/machineid && /usr/bin/cmake -E touch /home/arun/VortexLinux/calamares/build/src/modules/machineid/calamares_job_machineid_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target calamares_job_machineid"
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/machineid && /usr/bin/cmake -E cmake_autogen /home/arun/VortexLinux/vortex-installer/build/src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/AutogenInfo.json Debug
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/machineid && /usr/bin/cmake -E touch /home/arun/VortexLinux/vortex-installer/build/src/modules/machineid/calamares_job_machineid_autogen/timestamp
 
 calamares_job_machineid_autogen: src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen
 calamares_job_machineid_autogen: src/modules/machineid/calamares_job_machineid_autogen/timestamp
@@ -84,10 +84,10 @@ src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/build: cala
 .PHONY : src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/build
 
 src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/src/modules/machineid && $(CMAKE_COMMAND) -P CMakeFiles/calamares_job_machineid_autogen.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/src/modules/machineid && $(CMAKE_COMMAND) -P CMakeFiles/calamares_job_machineid_autogen.dir/cmake_clean.cmake
 .PHONY : src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/clean
 
 src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/src/modules/machineid /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/src/modules/machineid /home/arun/VortexLinux/calamares/build/src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/src/modules/machineid /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/src/modules/machineid /home/arun/VortexLinux/vortex-installer/build/src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : src/modules/machineid/CMakeFiles/calamares_job_machineid_autogen.dir/depend
 

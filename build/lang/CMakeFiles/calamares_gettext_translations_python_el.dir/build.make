@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arun/VortexLinux/calamares
+CMAKE_SOURCE_DIR = /home/arun/VortexLinux/vortex-installer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arun/VortexLinux/calamares/build
+CMAKE_BINARY_DIR = /home/arun/VortexLinux/vortex-installer/build
 
 # Utility rule file for calamares_gettext_translations_python_el.
 
@@ -68,9 +68,9 @@ include lang/CMakeFiles/calamares_gettext_translations_python_el.dir/progress.ma
 
 lang/CMakeFiles/calamares_gettext_translations_python_el: lang/el/LC_MESSAGES/calamares-python.mo
 
-lang/el/LC_MESSAGES/calamares-python.mo: /home/arun/VortexLinux/calamares/lang/python/el/LC_MESSAGES/python.po
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/calamares/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating el/LC_MESSAGES/calamares-python.mo"
-	cd /home/arun/VortexLinux/calamares/build/lang && /sbin/msgfmt -o /home/arun/VortexLinux/calamares/build/lang/el/LC_MESSAGES/calamares-python.mo /home/arun/VortexLinux/calamares/lang/python/el/LC_MESSAGES/python.po
+lang/el/LC_MESSAGES/calamares-python.mo: /home/arun/VortexLinux/vortex-installer/lang/python/el/LC_MESSAGES/python.po
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/arun/VortexLinux/vortex-installer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating el/LC_MESSAGES/calamares-python.mo"
+	cd /home/arun/VortexLinux/vortex-installer/build/lang && /sbin/msgfmt -o /home/arun/VortexLinux/vortex-installer/build/lang/el/LC_MESSAGES/calamares-python.mo /home/arun/VortexLinux/vortex-installer/lang/python/el/LC_MESSAGES/python.po
 
 calamares_gettext_translations_python_el: lang/CMakeFiles/calamares_gettext_translations_python_el
 calamares_gettext_translations_python_el: lang/el/LC_MESSAGES/calamares-python.mo
@@ -82,10 +82,10 @@ lang/CMakeFiles/calamares_gettext_translations_python_el.dir/build: calamares_ge
 .PHONY : lang/CMakeFiles/calamares_gettext_translations_python_el.dir/build
 
 lang/CMakeFiles/calamares_gettext_translations_python_el.dir/clean:
-	cd /home/arun/VortexLinux/calamares/build/lang && $(CMAKE_COMMAND) -P CMakeFiles/calamares_gettext_translations_python_el.dir/cmake_clean.cmake
+	cd /home/arun/VortexLinux/vortex-installer/build/lang && $(CMAKE_COMMAND) -P CMakeFiles/calamares_gettext_translations_python_el.dir/cmake_clean.cmake
 .PHONY : lang/CMakeFiles/calamares_gettext_translations_python_el.dir/clean
 
 lang/CMakeFiles/calamares_gettext_translations_python_el.dir/depend:
-	cd /home/arun/VortexLinux/calamares/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/calamares /home/arun/VortexLinux/calamares/lang /home/arun/VortexLinux/calamares/build /home/arun/VortexLinux/calamares/build/lang /home/arun/VortexLinux/calamares/build/lang/CMakeFiles/calamares_gettext_translations_python_el.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/arun/VortexLinux/vortex-installer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arun/VortexLinux/vortex-installer /home/arun/VortexLinux/vortex-installer/lang /home/arun/VortexLinux/vortex-installer/build /home/arun/VortexLinux/vortex-installer/build/lang /home/arun/VortexLinux/vortex-installer/build/lang/CMakeFiles/calamares_gettext_translations_python_el.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : lang/CMakeFiles/calamares_gettext_translations_python_el.dir/depend
 

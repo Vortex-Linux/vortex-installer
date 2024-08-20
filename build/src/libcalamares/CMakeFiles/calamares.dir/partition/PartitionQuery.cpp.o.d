@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/calamares.dir/partition/PartitionQuery.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionQuery.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionQuery.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionQuery.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionQuery.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -268,7 +268,7 @@ src/libcalamares/CMakeFiles/calamares.dir/partition/PartitionQuery.cpp.o: \
  /usr/include/qt6/QtCore/qstringlist.h \
  /usr/include/qt6/QtCore/qalgorithms.h \
  /usr/include/qt6/QtCore/qstringmatcher.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionIterator.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionIterator.h \
  /usr/include/kpmcore/core/device.h \
  /usr/include/kpmcore/util/libpartitionmanagerexport.h \
  /usr/include/qt6/QtCore/QString /usr/include/qt6/QtCore/qstring.h \

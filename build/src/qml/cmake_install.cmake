@@ -1,4 +1,4 @@
-# Install script for directory: /home/arun/VortexLinux/calamares/src/qml
+# Install script for directory: /home/arun/VortexLinux/vortex-installer/src/qml
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,6 +44,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/arun/VortexLinux/calamares/build/src/qml/calamares-qt6/cmake_install.cmake")
+  include("/home/arun/VortexLinux/vortex-installer/build/src/qml/calamares-qt6/cmake_install.cmake")
 endif()
 

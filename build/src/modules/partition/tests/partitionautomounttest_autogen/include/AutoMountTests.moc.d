@@ -1,12 +1,12 @@
-/home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionautomounttest_autogen/include/AutoMountTests.moc: /home/arun/VortexLinux/calamares/src/modules/partition/tests/AutoMountTests.cpp \
-  /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionautomounttest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/AutoMount.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/jobs/AutoMountManagementJob.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionautomounttest_autogen/include/AutoMountTests.moc: /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/AutoMountTests.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionautomounttest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/AutoMount.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/AutoMountManagementJob.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

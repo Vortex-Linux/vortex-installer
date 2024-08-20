@@ -1,25 +1,25 @@
-/home/arun/VortexLinux/calamares/build/src/modules/welcome/welcometest_autogen/include/Tests.moc: /home/arun/VortexLinux/calamares/src/modules/welcome/Tests.cpp \
-  /home/arun/VortexLinux/calamares/build/src/modules/welcome/welcometest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/CalamaresConfig.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsModel.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/network/Manager.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/Branding.h \
-  /home/arun/VortexLinux/calamares/src/modules/welcome/Config.h \
-  /home/arun/VortexLinux/calamares/src/modules/welcome/checker/GeneralRequirements.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/welcometest_autogen/include/Tests.moc: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/Tests.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/welcometest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/CalamaresConfig.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/network/Manager.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/Branding.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/GeneralRequirements.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

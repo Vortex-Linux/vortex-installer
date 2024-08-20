@@ -1,21 +1,21 @@
 preservefilestest_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/build/src/modules/preservefiles/preservefilestest_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Permissions.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/System.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-	/home/arun/VortexLinux/calamares/src/modules/preservefiles/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/preservefiles/Item.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/preservefiles/Item.h \
-	/home/arun/VortexLinux/calamares/src/modules/preservefiles/Tests.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/preservefiles/preservefiles.conf \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/preservefiles/preservefilestest_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Permissions.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/System.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Item.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Item.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/Tests.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/preservefiles/preservefiles.conf \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \

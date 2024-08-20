@@ -1,18 +1,18 @@
-/home/arun/VortexLinux/calamares/build/src/modules/hostinfo/hostinfotest_autogen/include/Tests.moc: /home/arun/VortexLinux/calamares/src/modules/hostinfo/Tests.cpp \
-  /home/arun/VortexLinux/calamares/build/src/modules/hostinfo/hostinfotest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/CppJob.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/GlobalStorage.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Settings.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Actions.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Yaml.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
-  /home/arun/VortexLinux/calamares/src/modules/hostinfo/HostInfoJob.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/hostinfo/hostinfotest_autogen/include/Tests.moc: /home/arun/VortexLinux/vortex-installer/src/modules/hostinfo/Tests.cpp \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/hostinfo/hostinfotest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/CppJob.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/GlobalStorage.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Settings.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Actions.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Yaml.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/hostinfo/HostInfoJob.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

@@ -1,11 +1,19 @@
 packagechoosertest_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/CMakeModules/AppStreamHelper.cmake \
-	/home/arun/VortexLinux/calamares/build/src/modules/packagechooser/packagechoosertest_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/modules/packagechooser/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/packagechooser/Tests.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/packagechooser/Tests.h \
-	/home/arun/VortexLinux/calamares/src/modules/packagechooser/packagechooser.conf \
-	/home/arun/VortexLinux/calamares/src/modules/packagechooser/packagechooser.qrc \
+	/home/arun/VortexLinux/vortex-installer/CMakeModules/AppStreamHelper.cmake \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/packagechoosertest_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/Tests.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/Tests.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/packagechooser.conf \
+	/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/packagechooser.qrc \
+	/lib/cmake/Qt6/Qt6Config.cmake \
+	/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/lib/cmake/Qt6/Qt6Targets.cmake \
+	/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -354,13 +362,6 @@ packagechoosertest_autogen/timestamp: \
 	/usr/include/sys/types.h \
 	/usr/include/time.h \
 	/usr/include/wchar.h \
-	/usr/lib/cmake/Qt6/Qt6Config.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6/Qt6Dependencies.cmake \
-	/usr/lib/cmake/Qt6/Qt6Targets.cmake \
-	/usr/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
 	/usr/lib/cmake/Qt6/QtFeature.cmake \
 	/usr/lib/cmake/Qt6/QtFeatureCommon.cmake \
 	/usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \

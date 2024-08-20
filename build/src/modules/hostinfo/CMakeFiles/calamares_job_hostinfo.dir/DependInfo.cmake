@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/hostinfo/calamares_job_hostinfo_autogen/timestamp" "custom" "src/modules/hostinfo/calamares_job_hostinfo_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/hostinfo/HostInfoJob.cpp" "src/modules/hostinfo/CMakeFiles/calamares_job_hostinfo.dir/HostInfoJob.cpp.o" "gcc" "src/modules/hostinfo/CMakeFiles/calamares_job_hostinfo.dir/HostInfoJob.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/hostinfo/calamares_job_hostinfo_autogen/mocs_compilation.cpp" "src/modules/hostinfo/CMakeFiles/calamares_job_hostinfo.dir/calamares_job_hostinfo_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/hostinfo/CMakeFiles/calamares_job_hostinfo.dir/calamares_job_hostinfo_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/hostinfo/HostInfoJob.cpp" "src/modules/hostinfo/CMakeFiles/calamares_job_hostinfo.dir/HostInfoJob.cpp.o" "gcc" "src/modules/hostinfo/CMakeFiles/calamares_job_hostinfo.dir/HostInfoJob.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/hostinfo/calamares_job_hostinfo_autogen/mocs_compilation.cpp" "src/modules/hostinfo/CMakeFiles/calamares_job_hostinfo.dir/calamares_job_hostinfo_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/hostinfo/CMakeFiles/calamares_job_hostinfo.dir/calamares_job_hostinfo_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

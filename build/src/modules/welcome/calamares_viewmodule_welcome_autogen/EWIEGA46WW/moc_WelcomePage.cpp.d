@@ -1,9 +1,9 @@
-/home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/moc_WelcomePage.cpp: /home/arun/VortexLinux/calamares/src/modules/welcome/WelcomePage.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/EWIEGA46WW/moc_WelcomePage.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomePage.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

@@ -1,35 +1,43 @@
 calamares_viewmodule_welcome_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/CMakeModules/FindLIBPARTED.cmake \
-	/home/arun/VortexLinux/calamares/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/Translation.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/locale/TranslationsModel.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/RequirementsModel.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
-	/home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-	/home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/Config.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/Config.h \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/WelcomePage.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/WelcomePage.h \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/WelcomeViewStep.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/WelcomeViewStep.h \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/checker/CheckerContainer.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/checker/CheckerContainer.h \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/checker/GeneralRequirements.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/checker/GeneralRequirements.h \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultDelegate.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultDelegate.h \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultsListWidget.cpp \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/checker/ResultsListWidget.h \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/checker/partman_devices.c \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/checker/partman_devices.h \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/welcome.conf \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/welcome.qrc \
+	/home/arun/VortexLinux/vortex-installer/CMakeModules/FindLIBPARTED.cmake \
+	/home/arun/VortexLinux/vortex-installer/build/src/modules/welcome/calamares_viewmodule_welcome_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Translation.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/TranslationsModel.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/RequirementsModel.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+	/home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/Config.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomePage.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomePage.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomeViewStep.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomeViewStep.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/CheckerContainer.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/CheckerContainer.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/GeneralRequirements.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/GeneralRequirements.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultDelegate.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultDelegate.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultsListWidget.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/ResultsListWidget.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/partman_devices.c \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/checker/partman_devices.h \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/welcome.conf \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/welcome.qrc \
+	/lib/cmake/Qt6/Qt6Config.cmake \
+	/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	/lib/cmake/Qt6/Qt6Targets.cmake \
+	/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -476,13 +484,6 @@ calamares_viewmodule_welcome_autogen/timestamp: \
 	/usr/include/sys/types.h \
 	/usr/include/time.h \
 	/usr/include/wchar.h \
-	/usr/lib/cmake/Qt6/Qt6Config.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
-	/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
-	/usr/lib/cmake/Qt6/Qt6Dependencies.cmake \
-	/usr/lib/cmake/Qt6/Qt6Targets.cmake \
-	/usr/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
 	/usr/lib/cmake/Qt6/QtFeature.cmake \
 	/usr/lib/cmake/Qt6/QtFeatureCommon.cmake \
 	/usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
@@ -507,5 +508,5 @@ calamares_viewmodule_welcome_autogen/timestamp: \
 	/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake \
 	/usr/share/cmake/Modules/FindPackageMessage.cmake \
 	/usr/share/cmake/Modules/GNUInstallDirs.cmake \
-	/home/arun/VortexLinux/calamares/src/modules/welcome/WelcomePage.ui \
+	/home/arun/VortexLinux/vortex-installer/src/modules/welcome/WelcomePage.ui \
 	/usr/bin/cmake

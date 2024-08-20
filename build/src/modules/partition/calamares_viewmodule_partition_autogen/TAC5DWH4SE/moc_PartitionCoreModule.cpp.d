@@ -1,19 +1,19 @@
-/home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/moc_PartitionCoreModule.cpp: /home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionCoreModule.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/partition/calamares_viewmodule_partition_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMManager.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/PartitionSize.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedSuffix.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/Units.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/Config.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/core/KPMHelpers.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/core/OsproberEntry.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/core/PartUtils.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionLayout.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/core/PartitionModel.h \
-  /home/arun/VortexLinux/calamares/src/modules/partition/jobs/PartitionJob.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/TAC5DWH4SE/moc_PartitionCoreModule.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionCoreModule.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/calamares_viewmodule_partition_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMManager.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/PartitionSize.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedSuffix.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Units.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/KPMHelpers.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/OsproberEntry.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartUtils.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionLayout.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/core/PartitionModel.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/partition/jobs/PartitionJob.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

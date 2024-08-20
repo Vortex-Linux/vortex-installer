@@ -1,9 +1,9 @@
-/home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/EWIEGA46WW/moc_PartitionJobTests.cpp: /home/arun/VortexLinux/calamares/src/modules/partition/tests/PartitionJobTests.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/partition/tests/partitionjobtest_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/JobQueue.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/partition/KPMHelper.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/EWIEGA46WW/moc_PartitionJobTests.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/partition/tests/PartitionJobTests.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/partition/tests/partitionjobtest_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/JobQueue.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/partition/KPMHelper.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

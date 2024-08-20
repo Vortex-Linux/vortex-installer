@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/modules/interactiveterminal/calamares_viewmodule_interactiveterminal_autogen/EWIEGA46WW/moc_InteractiveTerminalPage.cpp: /home/arun/VortexLinux/calamares/src/modules/interactiveterminal/InteractiveTerminalPage.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/interactiveterminal/calamares_viewmodule_interactiveterminal_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/interactiveterminal/calamares_viewmodule_interactiveterminal_autogen/EWIEGA46WW/moc_InteractiveTerminalPage.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/interactiveterminal/InteractiveTerminalPage.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/interactiveterminal/calamares_viewmodule_interactiveterminal_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

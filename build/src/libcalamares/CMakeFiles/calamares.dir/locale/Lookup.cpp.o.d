@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/calamares.dir/locale/Lookup.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Lookup.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Lookup.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/Lookup.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/Lookup.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QLocale /usr/include/qt6/QtCore/qlocale.h \
  /usr/include/qt6/QtCore/qvariant.h /usr/include/qt6/QtCore/qatomic.h \
  /usr/include/qt6/QtCore/qbasicatomic.h \
@@ -308,4 +308,4 @@ src/libcalamares/CMakeFiles/calamares.dir/locale/Lookup.cpp.o: \
  /usr/include/qt6/QtCore/qobject_impl.h \
  /usr/include/qt6/QtCore/qbindingstorage.h /usr/include/qt6/QtCore/QPair \
  /usr/include/qt6/QtCore/qpair.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/locale/CountryData_p.cpp
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/locale/CountryData_p.cpp

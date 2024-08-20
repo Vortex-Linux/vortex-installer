@@ -1,5 +1,5 @@
-/home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresgeoiptest_autogen/2MUU667QPT/moc_GeoIPTests.cpp: /home/arun/VortexLinux/calamares/src/libcalamares/geoip/GeoIPTests.h \
-  /home/arun/VortexLinux/calamares/build/src/libcalamares/libcalamaresgeoiptest_autogen/moc_predefs.h \
+/home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresgeoiptest_autogen/2MUU667QPT/moc_GeoIPTests.cpp: /home/arun/VortexLinux/vortex-installer/src/libcalamares/geoip/GeoIPTests.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/libcalamares/libcalamaresgeoiptest_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \

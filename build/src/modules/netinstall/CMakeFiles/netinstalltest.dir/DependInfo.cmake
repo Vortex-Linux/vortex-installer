@@ -9,12 +9,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/netinstall/netinstalltest_autogen/timestamp" "custom" "src/modules/netinstall/netinstalltest_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/netinstall/Config.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/Config.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/Config.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/modules/netinstall/LoaderQueue.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/LoaderQueue.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/LoaderQueue.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/modules/netinstall/PackageModel.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/PackageModel.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/PackageModel.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/modules/netinstall/PackageTreeItem.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/PackageTreeItem.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/PackageTreeItem.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/src/modules/netinstall/Tests.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/Tests.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/Tests.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/netinstall/netinstalltest_autogen/mocs_compilation.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/netinstalltest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/netinstalltest_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Config.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/Config.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/Config.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/LoaderQueue.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/LoaderQueue.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/LoaderQueue.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageModel.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/PackageModel.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/PackageModel.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/PackageTreeItem.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/PackageTreeItem.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/PackageTreeItem.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/netinstall/Tests.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/Tests.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/Tests.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/netinstall/netinstalltest_autogen/mocs_compilation.cpp" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/netinstalltest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/netinstall/CMakeFiles/netinstalltest.dir/netinstalltest_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

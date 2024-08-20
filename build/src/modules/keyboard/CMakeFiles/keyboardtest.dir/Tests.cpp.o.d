@@ -1,8 +1,8 @@
 src/modules/keyboard/CMakeFiles/keyboardtest.dir/Tests.cpp.o: \
- /home/arun/VortexLinux/calamares/src/modules/keyboard/Tests.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/modules/keyboard/Tests.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/Logger.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/Logger.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
  /usr/include/qt6/QtCore/qcontainerfwd.h \
  /usr/include/qt6/QtCore/qtconfigmacros.h \
@@ -749,6 +749,6 @@ src/modules/keyboard/CMakeFiles/keyboardtest.dir/Tests.cpp.o: \
  /usr/include/qt6/QtTest/qtesteventloop.h \
  /usr/include/qt6/QtTest/qtestsystem.h \
  /usr/include/qt6/QtTest/qttestversion.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/moc-warnings.h \
- /home/arun/VortexLinux/calamares/build/src/modules/keyboard/keyboardtest_autogen/include/Tests.moc \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/moc-warnings.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/keyboard/keyboardtest_autogen/include/Tests.moc \
  /usr/include/qt6/QtCore/qtmochelpers.h

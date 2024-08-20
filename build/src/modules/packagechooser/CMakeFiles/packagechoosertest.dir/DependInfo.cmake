@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "src/modules/packagechooser/packagechoosertest_autogen/timestamp" "custom" "src/modules/packagechooser/packagechoosertest_autogen/deps"
-  "/home/arun/VortexLinux/calamares/src/modules/packagechooser/Tests.cpp" "src/modules/packagechooser/CMakeFiles/packagechoosertest.dir/Tests.cpp.o" "gcc" "src/modules/packagechooser/CMakeFiles/packagechoosertest.dir/Tests.cpp.o.d"
-  "/home/arun/VortexLinux/calamares/build/src/modules/packagechooser/packagechoosertest_autogen/mocs_compilation.cpp" "src/modules/packagechooser/CMakeFiles/packagechoosertest.dir/packagechoosertest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/packagechooser/CMakeFiles/packagechoosertest.dir/packagechoosertest_autogen/mocs_compilation.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/src/modules/packagechooser/Tests.cpp" "src/modules/packagechooser/CMakeFiles/packagechoosertest.dir/Tests.cpp.o" "gcc" "src/modules/packagechooser/CMakeFiles/packagechoosertest.dir/Tests.cpp.o.d"
+  "/home/arun/VortexLinux/vortex-installer/build/src/modules/packagechooser/packagechoosertest_autogen/mocs_compilation.cpp" "src/modules/packagechooser/CMakeFiles/packagechoosertest.dir/packagechoosertest_autogen/mocs_compilation.cpp.o" "gcc" "src/modules/packagechooser/CMakeFiles/packagechoosertest.dir/packagechoosertest_autogen/mocs_compilation.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,8 +1,8 @@
 src/libcalamares/CMakeFiles/calamares.dir/utils/PluginFactory.cpp.o: \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.cpp \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
  /usr/include/qt6/QtCore/qobjectdefs.h \
  /usr/include/qt6/QtCore/qnamespace.h /usr/include/qt6/QtCore/qglobal.h \

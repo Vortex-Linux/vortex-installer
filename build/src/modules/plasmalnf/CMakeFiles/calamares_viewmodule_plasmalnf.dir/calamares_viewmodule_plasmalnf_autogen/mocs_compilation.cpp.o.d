@@ -1,10 +1,10 @@
 src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp.o: \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_Config.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/Config.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_Config.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/Config.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
  /usr/include/qt6/QtCore/QList /usr/include/qt6/QtCore/qlist.h \
  /usr/include/qt6/QtCore/qarraydatapointer.h \
  /usr/include/qt6/QtCore/qarraydataops.h \
@@ -296,7 +296,7 @@ src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_vi
  /usr/include/qt6/QtCore/qsharedpointer.h \
  /usr/include/qt6/QtCore/qshareddata.h \
  /usr/include/qt6/QtCore/qsharedpointer_impl.h \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/ThemeInfo.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/ThemeInfo.h \
  /usr/include/qt6/QtCore/QAbstractListModel \
  /usr/include/qt6/QtCore/qabstractitemmodel.h \
  /usr/include/qt6/QtCore/qhash.h /usr/include/qt6/QtCore/qobject.h \
@@ -315,14 +315,14 @@ src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_vi
  /usr/include/qt6/QtCore/qset.h /usr/include/qt6/QtCore/qvarlengtharray.h \
  /usr/include/qt6/QtCore/q23utility.h /usr/include/qt6/QtCore/QString \
  /usr/include/qt6/QtCore/qstring.h /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_PlasmaLnfJob.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/PlasmaLnfJob.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_PlasmaLnfJob.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/PlasmaLnfJob.h \
  /usr/include/qt6/QtCore/QVariantMap \
  /usr/include/qt6/QtCore/qvariantmap.h /usr/include/qt6/QtCore/QMap \
  /usr/include/qt6/QtCore/qmap.h /usr/include/qt6/QtCore/QVariant \
  /usr/include/qt6/QtCore/qvariant.h /usr/include/qt6/QtCore/QString \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_PlasmaLnfPage.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/PlasmaLnfPage.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_PlasmaLnfPage.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/PlasmaLnfPage.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtGui/qtguiglobal.h \
@@ -345,14 +345,14 @@ src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_vi
  /usr/include/qt6/QtGui/qfontmetrics.h /usr/include/qt6/QtGui/qfontinfo.h \
  /usr/include/qt6/QtWidgets/qsizepolicy.h \
  /usr/include/qt6/QtGui/qcursor.h /usr/include/qt6/QtGui/qbitmap.h \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_PlasmaLnfViewStep.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/PlasmaLnfViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
- /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_PlasmaLnfViewStep.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/PlasmaLnfViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
  /usr/include/qt6/QtCore/QDebug /usr/include/qt6/QtCore/qdebug.h \
- /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
+ /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
  /usr/include/qt6/QtCore/QMetaType /usr/include/qt6/QtCore/qmetatype.h \
  /usr/include/qt6/QtCore/QSize /usr/include/qt6/QtCore/qsize.h \
  /usr/include/qt6/QtCore/qplugin.h /usr/include/qt6/QtCore/qpointer.h \
@@ -364,5 +364,5 @@ src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_vi
  /usr/include/qt6/QtCore/qregularexpression.h \
  /usr/include/qt6/QtCore/qurl.h /usr/include/qt6/QtCore/quuid.h \
  /usr/include/qt6/QtCore/q20algorithm.h \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_ThemeInfo.cpp \
- /home/arun/VortexLinux/calamares/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/ThemeInfo.h
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/moc_ThemeInfo.cpp \
+ /home/arun/VortexLinux/vortex-installer/build/src/modules/plasmalnf/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/../../../../../../src/modules/plasmalnf/ThemeInfo.h

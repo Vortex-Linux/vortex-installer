@@ -1,20 +1,20 @@
 calamares_bin_autogen/timestamp: \
-	/home/arun/VortexLinux/calamares/build/src/calamares/calamares_bin_autogen/moc_predefs.h \
-	/home/arun/VortexLinux/calamares/src/calamares/CMakeLists.txt \
-	/home/arun/VortexLinux/calamares/src/calamares/CalamaresApplication.cpp \
-	/home/arun/VortexLinux/calamares/src/calamares/CalamaresApplication.h \
-	/home/arun/VortexLinux/calamares/src/calamares/CalamaresWindow.cpp \
-	/home/arun/VortexLinux/calamares/src/calamares/CalamaresWindow.h \
-	/home/arun/VortexLinux/calamares/src/calamares/DebugWindow.cpp \
-	/home/arun/VortexLinux/calamares/src/calamares/DebugWindow.h \
-	/home/arun/VortexLinux/calamares/src/calamares/VariantModel.cpp \
-	/home/arun/VortexLinux/calamares/src/calamares/VariantModel.h \
-	/home/arun/VortexLinux/calamares/src/calamares/calamares.qrc \
-	/home/arun/VortexLinux/calamares/src/calamares/main.cpp \
-	/home/arun/VortexLinux/calamares/src/calamares/progresstree/ProgressTreeDelegate.cpp \
-	/home/arun/VortexLinux/calamares/src/calamares/progresstree/ProgressTreeDelegate.h \
-	/home/arun/VortexLinux/calamares/src/calamares/progresstree/ProgressTreeView.cpp \
-	/home/arun/VortexLinux/calamares/src/calamares/progresstree/ProgressTreeView.h \
+	/home/arun/VortexLinux/vortex-installer/build/src/calamares/calamares_bin_autogen/moc_predefs.h \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/CMakeLists.txt \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/CalamaresApplication.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/CalamaresApplication.h \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/CalamaresWindow.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/CalamaresWindow.h \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/DebugWindow.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/DebugWindow.h \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/VariantModel.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/VariantModel.h \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/calamares.qrc \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/main.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/progresstree/ProgressTreeDelegate.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/progresstree/ProgressTreeDelegate.h \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/progresstree/ProgressTreeView.cpp \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/progresstree/ProgressTreeView.h \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -463,5 +463,5 @@ calamares_bin_autogen/timestamp: \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h \
 	/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-	/home/arun/VortexLinux/calamares/src/calamares/DebugWindow.ui \
+	/home/arun/VortexLinux/vortex-installer/src/calamares/DebugWindow.ui \
 	/usr/bin/cmake

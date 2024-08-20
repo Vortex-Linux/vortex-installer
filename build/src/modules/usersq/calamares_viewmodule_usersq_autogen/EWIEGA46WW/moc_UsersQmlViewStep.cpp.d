@@ -1,17 +1,17 @@
-/home/arun/VortexLinux/calamares/build/src/modules/usersq/calamares_viewmodule_usersq_autogen/EWIEGA46WW/moc_UsersQmlViewStep.cpp: /home/arun/VortexLinux/calamares/src/modules/usersq/UsersQmlViewStep.h \
-  /home/arun/VortexLinux/calamares/build/src/modules/usersq/calamares_viewmodule_usersq_autogen/moc_predefs.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/DllMacro.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/Job.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Config.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/InstanceKey.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/modulesystem/Requirement.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/NamedEnum.h \
-  /home/arun/VortexLinux/calamares/src/libcalamares/utils/PluginFactory.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/utils/Qml.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/QmlViewStep.h \
-  /home/arun/VortexLinux/calamares/src/libcalamaresui/viewpages/ViewStep.h \
-  /home/arun/VortexLinux/calamares/src/modules/users/CheckPWQuality.h \
-  /home/arun/VortexLinux/calamares/src/modules/users/Config.h \
+/home/arun/VortexLinux/vortex-installer/build/src/modules/usersq/calamares_viewmodule_usersq_autogen/EWIEGA46WW/moc_UsersQmlViewStep.cpp: /home/arun/VortexLinux/vortex-installer/src/modules/usersq/UsersQmlViewStep.h \
+  /home/arun/VortexLinux/vortex-installer/build/src/modules/usersq/calamares_viewmodule_usersq_autogen/moc_predefs.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/DllMacro.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/Job.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Config.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/InstanceKey.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/modulesystem/Requirement.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/NamedEnum.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamares/utils/PluginFactory.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/utils/Qml.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/QmlViewStep.h \
+  /home/arun/VortexLinux/vortex-installer/src/libcalamaresui/viewpages/ViewStep.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/users/CheckPWQuality.h \
+  /home/arun/VortexLinux/vortex-installer/src/modules/users/Config.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
