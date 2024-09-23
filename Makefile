@@ -17,7 +17,7 @@ OBJS := $(SRCS:.c=.o)
 DEPS := $(SRCS:.c=.d)
 
 # Output executable
-TARGET := main
+TARGET := vortex-installer
 
 # Build target
 all: $(TARGET)
