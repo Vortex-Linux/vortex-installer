@@ -1,46 +1,35 @@
 # Compiler
-CXX := gcc
+CC = gcc
 
 # Compiler flags
-CXXFLAGS := `pkg-config --cflags gtk4` -Wall -Wextra
+CFLAGS = $(shell pkg-config --cflags gtk4)
 
 # Linker flags
-LDFLAGS := `pkg-config --libs gtk4`
+LDFLAGS = $(shell pkg-config --libs gtk4)
+
+# Target executable
+TARGET = example
 
 # Source files
-SRCS := main.c
+SRCS = main.c
 
 # Object files
-OBJS := $(SRCS:.c=.o)
+OBJS = $(SRCS:.c=.o)
 
-# Dependency files
-DEPS := $(SRCS:.c=.d)
-
-# Output executable
-TARGET := vortex-installer
-
-# Build target
+# Default target
 all: $(TARGET)
 
+# Rule to build the target
 $(TARGET): $(OBJS)
-	$(CXX) $(CXXFLAGS) $(LDFLAGS) -o $@ $^
+	$(CC) -o $@ $^ $(LDFLAGS)
 
-# Rule for compiling .c files into .o object files
+# Rule to build object files
 %.o: %.c
-	$(CXX) $(CXXFLAGS) -MMD -MP -c $< -o $@
+	$(CC) -c -o $@ $< $(CFLAGS)
 
-# Rule for creating dependency files
-%.d: %.c
-	@$(CXX) -MM $(CXXFLAGS) $< > $@
-
-# Include dependency files
--include $(DEPS)
-
-# Clean rule
+# Clean up
 clean:
-	rm -f $(OBJS) $(DEPS) $(TARGET)
+	rm -f $(OBJS) $(TARGET)
 
-# Install rule (optional)
-install: $(TARGET)
-	install -m 755 $(TARGET) /usr/local/bin/
-
+# Phony targets
+.PHONY: all clean
