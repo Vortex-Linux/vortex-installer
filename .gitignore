@@ -1,8 +1,0 @@
-# Ignore object files
-*.o
-
-# Ignore dependency files
-*.d
-
-# Ignore the final executable
-vortex-installer
