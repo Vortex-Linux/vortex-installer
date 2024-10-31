@@ -26,13 +26,13 @@ public:
     {
         if (Nav->objectName().isEmpty())
             Nav->setObjectName(QString::fromUtf8("Nav"));
-        Nav->resize(800, 100);
+        Nav->resize(200, 800);
         container_button = new QPushButton(Nav);
         container_button->setObjectName(QString::fromUtf8("container_button"));
-        container_button->setGeometry(QRect(30, 30, 300, 50));
+        container_button->setGeometry(QRect(0, 30, 200, 50));
         vm_button = new QPushButton(Nav);
         vm_button->setObjectName(QString::fromUtf8("vm_button"));
-        vm_button->setGeometry(QRect(400, 30, 300, 50));
+        vm_button->setGeometry(QRect(0, 90, 200, 50));
 
         retranslateUi(Nav);
 

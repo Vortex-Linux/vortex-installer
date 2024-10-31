@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = Ship-GUI
+TARGET = vortex-installer
 
 QT += core gui widgets
 

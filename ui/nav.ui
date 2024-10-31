@@ -6,8 +6,8 @@
             <rect>
                 <x>100</x>
                 <y>100</y>
-                <width>800</width>
-                <height>100</height>
+                <width>200</width>  
+                <height>800</height> 
             </rect>
         </property>
         <widget class="QPushButton" name="container_button">
@@ -16,10 +16,10 @@
             </property>
             <property name="geometry">
                 <rect>
-                    <x>30</x>
-                    <y>30</y>
-                    <width>300</width>
-                    <height>50</height>
+                    <x>0</x>    
+                    <y>30</y>   
+                    <width>200</width>  
+                    <height>50</height> 
                 </rect>
             </property>
         </widget>
@@ -29,10 +29,10 @@
             </property>
             <property name="geometry">
                 <rect>
-                    <x>400</x>
-                    <y>30</y>
-                    <width>300</width>
-                    <height>50</height>
+                    <x>0</x>    
+                    <y>90</y>   
+                    <width>200</width>  
+                    <height>50</height> 
                 </rect>
             </property>
         </widget>
