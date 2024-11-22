@@ -1,7 +1,7 @@
 #ifndef NAV_H
 #define NAV_H
 
-#include <QWidget>
+#include "headers.h"
 #include "ui_nav.h"
 
 class Nav : public QWidget {

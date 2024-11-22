@@ -16,7 +16,7 @@ CC            = gcc
 CXX           = g++
 DEFINES       = -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB
 CFLAGS        = -pipe -O2 -flto -fno-fat-lto-objects -Wall -Wextra -D_REENTRANT -fPIC $(DEFINES)
-CXXFLAGS      = -pipe -O2 -flto -fno-fat-lto-objects -Wall -Wextra -D_REENTRANT -fPIC $(DEFINES)
+CXXFLAGS      = -pipe -g -Wall -O2 -flto -fno-fat-lto-objects -Wall -Wextra -D_REENTRANT -fPIC $(DEFINES)
 INCPATH       = -I. -Iinclude -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -Ibuild/moc -Ibuild/ui -I/usr/lib/qt/mkspecs/linux-g++
 QMAKE         = /sbin/qmake
 DEL_FILE      = rm -f
@@ -39,7 +39,7 @@ COMPRESS      = gzip -9f
 DISTNAME      = vortex-installer1.0.0
 DISTDIR = /home/arun/VortexLinux/vortex-installer/build/obj/vortex-installer1.0.0
 LINK          = g++
-LFLAGS        = -Wl,-O1 -pipe -O2 -flto=4 -fno-fat-lto-objects -fuse-linker-plugin -fPIC
+LFLAGS        = -Wl,-O1 -pipe -g -Wall -O2 -flto=4 -fno-fat-lto-objects -fuse-linker-plugin -fPIC
 LIBS          = $(SUBLIBS) /usr/lib/libQt5Widgets.so /usr/lib/libQt5Gui.so /usr/lib/libQt5Core.so -lGL -lpthread   
 AR            = gcc-ar cqs
 RANLIB        = 
@@ -53,11 +53,13 @@ OBJECTS_DIR   = build/obj/
 ####### Files
 
 SOURCES       = src/main.cpp \
-		src/nav.cpp qrc_styles.cpp \
+		src/nav.cpp \
+		src/utils.cpp qrc_styles.cpp \
 		qrc_images.cpp \
 		build/moc/moc_nav.cpp
 OBJECTS       = build/obj/main.o \
 		build/obj/nav.o \
+		build/obj/utils.o \
 		build/obj/qrc_styles.o \
 		build/obj/qrc_images.o \
 		build/obj/moc_nav.o
@@ -258,6 +260,7 @@ DIST          = /usr/lib/qt/mkspecs/features/spec_pre.prf \
 		/usr/lib/qt/mkspecs/features/qt_config.prf \
 		/usr/lib/qt/mkspecs/linux-g++/qmake.conf \
 		/usr/lib/qt/mkspecs/features/spec_post.prf \
+		.qmake.stash \
 		/usr/lib/qt/mkspecs/features/exclusive_builds.prf \
 		/usr/lib/qt/mkspecs/features/toolchain.prf \
 		/usr/lib/qt/mkspecs/features/default_pre.prf \
@@ -279,8 +282,12 @@ DIST          = /usr/lib/qt/mkspecs/features/spec_pre.prf \
 		/usr/lib/qt/mkspecs/features/exceptions.prf \
 		/usr/lib/qt/mkspecs/features/yacc.prf \
 		/usr/lib/qt/mkspecs/features/lex.prf \
-		vortex-installer.pro include/nav.h src/main.cpp \
-		src/nav.cpp
+		vortex-installer.pro include/headers.h \
+		include/main.h \
+		include/nav.h \
+		include/utils.h src/main.cpp \
+		src/nav.cpp \
+		src/utils.cpp
 QMAKE_TARGET  = vortex-installer
 DESTDIR       = build/
 TARGET        = build/vortex-installer
@@ -490,6 +497,7 @@ Makefile: vortex-installer.pro /usr/lib/qt/mkspecs/linux-g++/qmake.conf /usr/lib
 		/usr/lib/qt/mkspecs/features/qt_config.prf \
 		/usr/lib/qt/mkspecs/linux-g++/qmake.conf \
 		/usr/lib/qt/mkspecs/features/spec_post.prf \
+		.qmake.stash \
 		/usr/lib/qt/mkspecs/features/exclusive_builds.prf \
 		/usr/lib/qt/mkspecs/features/toolchain.prf \
 		/usr/lib/qt/mkspecs/features/default_pre.prf \
@@ -712,6 +720,7 @@ Makefile: vortex-installer.pro /usr/lib/qt/mkspecs/linux-g++/qmake.conf /usr/lib
 /usr/lib/qt/mkspecs/features/qt_config.prf:
 /usr/lib/qt/mkspecs/linux-g++/qmake.conf:
 /usr/lib/qt/mkspecs/features/spec_post.prf:
+.qmake.stash:
 /usr/lib/qt/mkspecs/features/exclusive_builds.prf:
 /usr/lib/qt/mkspecs/features/toolchain.prf:
 /usr/lib/qt/mkspecs/features/default_pre.prf:
@@ -752,8 +761,8 @@ distdir: FORCE
 	$(COPY_FILE) --parents $(DIST) $(DISTDIR)/
 	$(COPY_FILE) --parents resources/styles.qrc resources/images.qrc $(DISTDIR)/
 	$(COPY_FILE) --parents /usr/lib/qt/mkspecs/features/data/dummy.cpp $(DISTDIR)/
-	$(COPY_FILE) --parents include/nav.h $(DISTDIR)/
-	$(COPY_FILE) --parents src/main.cpp src/nav.cpp $(DISTDIR)/
+	$(COPY_FILE) --parents include/headers.h include/main.h include/nav.h include/utils.h $(DISTDIR)/
+	$(COPY_FILE) --parents src/main.cpp src/nav.cpp src/utils.cpp $(DISTDIR)/
 	$(COPY_FILE) --parents ui/nav.ui $(DISTDIR)/
 
 
@@ -795,7 +804,7 @@ compiler_moc_predefs_make_all: build/moc/moc_predefs.h
 compiler_moc_predefs_clean:
 	-$(DEL_FILE) build/moc/moc_predefs.h
 build/moc/moc_predefs.h: /usr/lib/qt/mkspecs/features/data/dummy.cpp
-	g++ -pipe -O2 -flto -fno-fat-lto-objects -Wall -Wextra -dM -E -o build/moc/moc_predefs.h /usr/lib/qt/mkspecs/features/data/dummy.cpp
+	g++ -pipe -g -Wall -O2 -flto -fno-fat-lto-objects -Wall -Wextra -dM -E -o build/moc/moc_predefs.h /usr/lib/qt/mkspecs/features/data/dummy.cpp
 
 compiler_moc_header_make_all: build/moc/moc_nav.cpp
 compiler_moc_header_clean:
@@ -827,13 +836,16 @@ compiler_clean: compiler_rcc_clean compiler_moc_predefs_clean compiler_moc_heade
 
 ####### Compile
 
-build/obj/main.o: src/main.cpp include/nav.h \
-		build/ui/ui_nav.h
+build/obj/main.o: src/main.cpp include/main.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/main.o src/main.cpp
 
 build/obj/nav.o: src/nav.cpp include/nav.h \
 		build/ui/ui_nav.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/nav.o src/nav.cpp
+
+build/obj/utils.o: src/utils.cpp include/utils.h \
+		include/headers.h
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/utils.o src/utils.cpp
 
 build/obj/qrc_styles.o: qrc_styles.cpp 
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/qrc_styles.o qrc_styles.cpp
