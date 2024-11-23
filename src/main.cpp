@@ -13,16 +13,16 @@ int main(int argc, char *argv[]) {
 
     QScrollArea* welcomeWidget = createWelcomeWidget();
     QScrollArea* localeWidget = createLocaleWidget();
-    qscrollarea* diskSetupWidget = createDiskSetupWidget();
-    qscrollarea* usersWidget = createUsersWidget();
-    qscrollarea* networkWidget = createNetworkWidget();
-    qscrollarea* packagesWidget = createPackagesWidget();
-    qscrollarea* installWidget = createInstallWidget();
+    QScrollArea* diskSetupWidget = createDiskSetupWidget();
+    QScrollArea* usersWidget = createUsersWidget();
+    QScrollArea* networkWidget = createNetworkWidget();
+    QScrollArea* packagesWidget = createPackagesWidget();
+    QScrollArea* installWidget = createInstallWidget();
 
     QStackedWidget* stackedWidget = new QStackedWidget();
     stackedWidget->addWidget(welcomeWidget);
     stackedWidget->addWidget(localeWidget);
-    stackedWidget->addWidget(diskSetupWidgetWidget);
+    stackedWidget->addWidget(diskSetupWidget);
     stackedWidget->addWidget(usersWidget);
     stackedWidget->addWidget(networkWidget);
     stackedWidget->addWidget(packagesWidget);
@@ -31,11 +31,11 @@ int main(int argc, char *argv[]) {
 
     QObject::connect(nav, &Nav::buttonClicked, [=](const QString &buttonName) {
         if (buttonName == "welcome") {
-            stackedWidget->setCurrentWidget(containerWidget);
-        } else if (buttonName == "locale") {
             stackedWidget->setCurrentWidget(welcomeWidget);
-        } else if (buttonName == "diskSetup") {
+        } else if (buttonName == "locale") {
             stackedWidget->setCurrentWidget(localeWidget);
+        } else if (buttonName == "diskSetup") {
+            stackedWidget->setCurrentWidget(diskSetupWidget);
         } else if (buttonName == "users") {
             stackedWidget->setCurrentWidget(usersWidget);
         } else if (buttonName == "network") {
