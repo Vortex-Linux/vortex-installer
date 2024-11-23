@@ -19,7 +19,7 @@ QPushButton:pressed {
     color: #cccccc; 
 }
 
-QPushButton[active="true"] {
+QPushButton[action="true"] {
     background-color: #444444; 
     border: 2px solid #cccccc; 
     color: #cccccc; 
