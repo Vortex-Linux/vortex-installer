@@ -9,15 +9,15 @@ Nav* createNav(QWidget* parent) {
 
 QScrollArea* createWelcomeWidget() {
 
-    QWidget* containerWidget = new QWidget();
+    QWidget* welcomeWidget = new QWidget();
     QVBoxLayout* layout = new QVBoxLayout(welcomeWidget);
 
     layout->insertStretch(-1, 1);
 
-    containerWidget->setLayout(layout);
+    welcomeWidget->setLayout(layout);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(containerWidget);
+    scrollArea->setWidget(welcomeWidget);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -27,15 +27,15 @@ QScrollArea* createWelcomeWidget() {
 
 QScrollArea* createLocaleWidget() {
 
-    QWidget* containerWidget = new QWidget();
+    QWidget* localeWidget = new QWidget();
     QVBoxLayout* layout = new QVBoxLayout(localeWidget);
 
     layout->insertStretch(-1, 1);
 
-    containerWidget->setLayout(layout);
+    localeWidget->setLayout(layout);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(containerWidget);
+    scrollArea->setWidget(localeWidget);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -43,17 +43,17 @@ QScrollArea* createLocaleWidget() {
     return scrollArea;
 }
 
-QScrollArea* creatDiskSetupWidget() {
+QScrollArea* createDiskSetupWidget() {
 
-    QWidget* containerWidget = new QWidget();
+    QWidget* diskSetupWidget = new QWidget();
     QVBoxLayout* layout = new QVBoxLayout(diskSetupWidget);
 
     layout->insertStretch(-1, 1);
 
-    containerWidget->setLayout(layout);
+    diskSetupWidget->setLayout(layout);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(containerWidget);
+    scrollArea->setWidget(diskSetupWidget);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -63,15 +63,15 @@ QScrollArea* creatDiskSetupWidget() {
 
 QScrollArea* createUsersWidget() {
 
-    QWidget* containerWidget = new QWidget();
+    QWidget* usersWidget = new QWidget();
     QVBoxLayout* layout = new QVBoxLayout(usersWidget);
 
     layout->insertStretch(-1, 1);
 
-    containerWidget->setLayout(layout);
+    usersWidget->setLayout(layout);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(containerWidget);
+    scrollArea->setWidget(usersWidget);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -81,15 +81,15 @@ QScrollArea* createUsersWidget() {
 
 QScrollArea* createNetworkWidget() {
 
-    QWidget* containerWidget = new QWidget();
+    QWidget* networkWidget = new QWidget();
     QVBoxLayout* layout = new QVBoxLayout(networkWidget);
 
     layout->insertStretch(-1, 1);
 
-    containerWidget->setLayout(layout);
+    networkWidget->setLayout(layout);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(containerWidget);
+    scrollArea->setWidget(networkWidget);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -97,17 +97,17 @@ QScrollArea* createNetworkWidget() {
     return scrollArea;
 }
 
-QScrollArea* creatPackagesWidget() {
+QScrollArea* createPackagesWidget() {
 
-    QWidget* containerWidget = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(PackagesWidget);
+    QWidget* packagesWidget = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(packagesWidget);
 
     layout->insertStretch(-1, 1);
 
-    containerWidget->setLayout(layout);
+    packagesWidget->setLayout(layout);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(containerWidget);
+    scrollArea->setWidget(packagesWidget);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -117,15 +117,15 @@ QScrollArea* creatPackagesWidget() {
 
 QScrollArea* createInstallWidget() {
 
-    QWidget* containerWidget = new QWidget();
+    QWidget* installWidget = new QWidget();
     QVBoxLayout* layout = new QVBoxLayout(installWidget);
 
     layout->insertStretch(-1, 1);
 
-    containerWidget->setLayout(layout);
+    installWidget->setLayout(layout);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(containerWidget);
+    scrollArea->setWidget(installWidget);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
