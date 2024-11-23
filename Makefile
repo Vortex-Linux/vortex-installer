@@ -54,11 +54,13 @@ OBJECTS_DIR   = build/obj/
 
 SOURCES       = src/main.cpp \
 		src/nav.cpp \
+		src/ui_builder.cpp \
 		src/utils.cpp qrc_styles.cpp \
 		qrc_images.cpp \
 		build/moc/moc_nav.cpp
 OBJECTS       = build/obj/main.o \
 		build/obj/nav.o \
+		build/obj/ui_builder.o \
 		build/obj/utils.o \
 		build/obj/qrc_styles.o \
 		build/obj/qrc_images.o \
@@ -285,8 +287,10 @@ DIST          = /usr/lib/qt/mkspecs/features/spec_pre.prf \
 		vortex-installer.pro include/headers.h \
 		include/main.h \
 		include/nav.h \
+		include/ui_builder.h \
 		include/utils.h src/main.cpp \
 		src/nav.cpp \
+		src/ui_builder.cpp \
 		src/utils.cpp
 QMAKE_TARGET  = vortex-installer
 DESTDIR       = build/
@@ -761,8 +765,8 @@ distdir: FORCE
 	$(COPY_FILE) --parents $(DIST) $(DISTDIR)/
 	$(COPY_FILE) --parents resources/styles.qrc resources/images.qrc $(DISTDIR)/
 	$(COPY_FILE) --parents /usr/lib/qt/mkspecs/features/data/dummy.cpp $(DISTDIR)/
-	$(COPY_FILE) --parents include/headers.h include/main.h include/nav.h include/utils.h $(DISTDIR)/
-	$(COPY_FILE) --parents src/main.cpp src/nav.cpp src/utils.cpp $(DISTDIR)/
+	$(COPY_FILE) --parents include/headers.h include/main.h include/nav.h include/ui_builder.h include/utils.h $(DISTDIR)/
+	$(COPY_FILE) --parents src/main.cpp src/nav.cpp src/ui_builder.cpp src/utils.cpp $(DISTDIR)/
 	$(COPY_FILE) --parents ui/nav.ui $(DISTDIR)/
 
 
@@ -810,6 +814,7 @@ compiler_moc_header_make_all: build/moc/moc_nav.cpp
 compiler_moc_header_clean:
 	-$(DEL_FILE) build/moc/moc_nav.cpp
 build/moc/moc_nav.cpp: include/nav.h \
+		include/headers.h \
 		build/ui/ui_nav.h \
 		build/moc/moc_predefs.h \
 		/usr/bin/moc
@@ -836,12 +841,21 @@ compiler_clean: compiler_rcc_clean compiler_moc_predefs_clean compiler_moc_heade
 
 ####### Compile
 
-build/obj/main.o: src/main.cpp include/main.h
+build/obj/main.o: src/main.cpp include/main.h \
+		include/ui_builder.h \
+		include/nav.h \
+		include/headers.h \
+		build/ui/ui_nav.h \
+		include/utils.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/main.o src/main.cpp
 
 build/obj/nav.o: src/nav.cpp include/nav.h \
+		include/headers.h \
 		build/ui/ui_nav.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/nav.o src/nav.cpp
+
+build/obj/ui_builder.o: src/ui_builder.cpp 
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/ui_builder.o src/ui_builder.cpp
 
 build/obj/utils.o: src/utils.cpp include/utils.h \
 		include/headers.h
