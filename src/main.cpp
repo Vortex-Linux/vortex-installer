@@ -33,17 +33,17 @@ int main(int argc, char *argv[]) {
         if (buttonName == "welcome") {
             stackedWidget->setCurrentWidget(containerWidget);
         } else if (buttonName == "locale") {
-            stackedWidget->setCurrentWidget(VMWidget);
+            stackedWidget->setCurrentWidget(welcomeWidget);
         } else if (buttonName == "diskSetup") {
-            stackedWidget->setCurrentWidget(VMWidget);
+            stackedWidget->setCurrentWidget(localeWidget);
         } else if (buttonName == "users") {
-            stackedWidget->setCurrentWidget(VMWidget);
+            stackedWidget->setCurrentWidget(usersWidget);
         } else if (buttonName == "network") {
-            stackedWidget->setCurrentWidget(VMWidget);
+            stackedWidget->setCurrentWidget(networkWidget);
         } else if (buttonName == "packages") {
-            stackedWidget->setCurrentWidget(VMWidget);
+            stackedWidget->setCurrentWidget(packagesWidget);
         } else if (buttonName == "install") {
-            stackedWidget->setCurrentWidget(VMWidget);
+            stackedWidget->setCurrentWidget(installWidget);
         } 
     });
 
