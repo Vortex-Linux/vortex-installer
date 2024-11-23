@@ -3,14 +3,24 @@
 Nav::Nav(QWidget *parent) : QWidget(parent), ui(new Ui::Nav) {
     ui->setupUi(this);
 
+    QVector<QPushButton*> navButtons = {
+        ui->welcome,
+        ui->locale,
+        ui->diskSetup,
+        ui->users,
+        ui->network,
+        ui->packages,
+        ui->install
+    };
+
     const auto& children = parent->findChildren<QPushButton*>();
     for (auto* button : children) {
         button->setProperty("active", false);
-        std::cout << button->objectName().toStdString() << std::endl;
         button->style()->polish(button);
     }
 
     ui->welcome->setProperty("active", true);
+    ui->welcome->style()->polish(ui->welcome);
 
     connect(ui->welcome, &QPushButton::clicked, [=]() {
         QWidget* parent = ui->welcome->parentWidget();
