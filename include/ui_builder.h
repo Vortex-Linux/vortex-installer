@@ -4,6 +4,15 @@
 #include "nav.h" 
 #include "utils.h"
 
+Nav* createNav(QWidget* parent = nullptr);
+QScrollArea* createWelcomeWidget();
+QScrollArea* createLocaleWidget();
+QScrollArea* createDiskSetupWidget();
+QScrollArea* createUsersWidget();
+QScrollArea* createNetworkWidget();
+QScrollArea* createPackagesWidget();
+QScrollArea* createInstallWidget();
+
 #endif 
 
 
