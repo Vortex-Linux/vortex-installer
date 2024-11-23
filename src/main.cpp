@@ -48,7 +48,7 @@ int main(int argc, char *argv[]) {
     });
 
     mainWindow.setLayout(layout);
-    mainWindow.setFixedSize(800, 800);
+    mainWindow.setFixedSize(1200, 800);
     mainWindow.show();
 
     return app.exec();
