@@ -20,8 +20,13 @@ int main(int argc, char *argv[]) {
     qscrollarea* installWidget = createInstallWidget();
 
     QStackedWidget* stackedWidget = new QStackedWidget();
-    stackedWidget->addWidget(containerWidget);
-    stackedWidget->addWidget(VMWidget);
+    stackedWidget->addWidget(welcomeWidget);
+    stackedWidget->addWidget(localeWidget);
+    stackedWidget->addWidget(diskSetupWidgetWidget);
+    stackedWidget->addWidget(usersWidget);
+    stackedWidget->addWidget(networkWidget);
+    stackedWidget->addWidget(packagesWidget);
+    stackedWidget->addWidget(installWidget);
     layout->addWidget(stackedWidget); 
 
     QObject::connect(nav, &Nav::buttonClicked, [=](const QString &buttonName) {
