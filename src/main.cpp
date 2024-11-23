@@ -30,11 +30,21 @@ int main(int argc, char *argv[]) {
     layout->addWidget(stackedWidget); 
 
     QObject::connect(nav, &Nav::buttonClicked, [=](const QString &buttonName) {
-        if (buttonName == "containers") {
+        if (buttonName == "welcome") {
             stackedWidget->setCurrentWidget(containerWidget);
-        } else if (buttonName == "virtual_machines") {
+        } else if (buttonName == "locale") {
             stackedWidget->setCurrentWidget(VMWidget);
-        }
+        } else if (buttonName == "diskSetup") {
+            stackedWidget->setCurrentWidget(VMWidget);
+        } else if (buttonName == "users") {
+            stackedWidget->setCurrentWidget(VMWidget);
+        } else if (buttonName == "network") {
+            stackedWidget->setCurrentWidget(VMWidget);
+        } else if (buttonName == "packages") {
+            stackedWidget->setCurrentWidget(VMWidget);
+        } else if (buttonName == "install") {
+            stackedWidget->setCurrentWidget(VMWidget);
+        } 
     });
 
     mainWindow.setLayout(layout);
