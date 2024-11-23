@@ -1,3 +1,7 @@
+QFrame#navFrame {
+    background-color: #1d1d1d;
+  }
+
 QPushButton {
     background-color: black;  
     color: #ffffff;  
@@ -5,12 +9,14 @@ QPushButton {
     font-weight: bold;
     border-radius: 5px; 
     border: 2px solid #f0f0f0;
+    padding: 10px;
+    margin: 5px;
 }
 
 QPushButton:hover {
-    background-color: #333333; 
-    border: 2px solid #ffffff; 
-    color: #f0f0f0; 
+    background-color: #444444; 
+    border: 2px solid #999999;
+    color: #dddddd;
 }
 
 QPushButton:pressed {
