@@ -17,7 +17,7 @@
             <property name="geometry">
                 <rect>
                     <x>0</x>    
-                    <y>130</y>   
+                    <y>65</y>   
                     <width>200</width>  
                     <height>50</height> 
                 </rect>
@@ -30,7 +30,7 @@
             <property name="geometry">
                 <rect>
                     <x>0</x>    
-                    <y>230</y>   
+                    <y>165</y>   
                     <width>200</width>  
                     <height>50</height> 
                 </rect>
@@ -43,7 +43,7 @@
             <property name="geometry">
                 <rect>
                     <x>0</x>    
-                    <y>330</y>   
+                    <y>265</y>   
                     <width>200</width>  
                     <height>50</height> 
                 </rect>
@@ -56,7 +56,7 @@
             <property name="geometry">
                 <rect>
                     <x>0</x>    
-                    <y>430</y>   
+                    <y>365</y>   
                     <width>200</width>  
                     <height>50</height> 
                 </rect>
@@ -69,7 +69,7 @@
             <property name="geometry">
                 <rect>
                     <x>0</x>    
-                    <y>530</y>   
+                    <y>465</y>   
                     <width>200</width>  
                     <height>50</height> 
                 </rect>
@@ -82,7 +82,7 @@
             <property name="geometry">
                 <rect>
                     <x>0</x>    
-                    <y>630</y>   
+                    <y>565</y>   
                     <width>200</width>  
                     <height>50</height> 
                 </rect>
@@ -95,7 +95,7 @@
             <property name="geometry">
                 <rect>
                     <x>0</x>    
-                    <y>730</y>   
+                    <y>665</y>   
                     <width>200</width>  
                     <height>50</height> 
                 </rect>
