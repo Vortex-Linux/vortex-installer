@@ -1,6 +1,6 @@
 QFrame#navFrame {
     background-color: #1d1d1d;
-  }
+}
 
 QPushButton {
     background-color: black;  
