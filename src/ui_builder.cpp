@@ -2,7 +2,7 @@
 
 Nav* createNav(QWidget* parent) {
     Nav* nav = new Nav(parent);
-    nav->setFixedSize(800, 100);
+    nav->setFixedSize(800, 200);
     loadWidgetStyleSheet(nav, ":/styles/styles/nav.qss");
     return nav;
 }
