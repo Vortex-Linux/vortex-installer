@@ -10,7 +10,7 @@
                 <height>800</height> 
             </rect>
         </property>
-        <widget class="QPushButton" name="">
+        <widget class="QPushButton" name="welcome">
             <property name="text">
                 <string>Welcome</string>
             </property>
@@ -23,7 +23,7 @@
                 </rect>
             </property>
         </widget>
-        <widget class="QPushButton" name="">
+        <widget class="QPushButton" name="locale">
             <property name="text">
                 <string>Locale</string>
             </property>
@@ -36,7 +36,7 @@
                 </rect>
             </property>
         </widget>
-        <widget class="QPushButton" name="">
+        <widget class="QPushButton" name="diskSetup">
             <property name="text">
                 <string>Disk Setup</string>
             </property>
@@ -49,7 +49,7 @@
                 </rect>
             </property>
         </widget>
-        <widget class="QPushButton" name="">
+        <widget class="QPushButton" name="users">
             <property name="text">
                 <string>Users</string>
             </property>
@@ -62,7 +62,7 @@
                 </rect>
             </property>
         </widget>
-        <widget class="QPushButton" name="">
+        <widget class="QPushButton" name="network">
             <property name="text">
                 <string>Network</string>
             </property>
@@ -75,7 +75,7 @@
                 </rect>
             </property>
         </widget>
-        <widget class="QPushButton" name="">
+        <widget class="QPushButton" name="packages">
             <property name="text">
                 <string>Packages</string>
             </property>
@@ -88,7 +88,7 @@
                 </rect>
             </property>
         </widget>
-        <widget class="QPushButton" name="">
+        <widget class="QPushButton" name="install">
             <property name="text">
                 <string>Install</string>
             </property>

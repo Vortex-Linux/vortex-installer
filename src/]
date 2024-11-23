@@ -11,13 +11,14 @@ int main(int argc, char *argv[]) {
     Nav* nav = createNav();
     layout->addWidget(nav); 
 
-    QScrollArea* welcomeWidget = createWelcomeWidget();
-    QScrollArea* localeWidget = createLocaleWidget();
-    qscrollarea* diskSetupWidget = createDiskSetupWidget();
-    qscrollarea* usersWidget = createUsersWidget();
-    qscrollarea* networkWidget = createNetworkWidget();
-    qscrollarea* packagesWidget = createPackagesWidget();
-    qscrollarea* installWidget = createInstallWidget();
+    QScrollArea* welcomeWidget = createContainerWidget();
+    QScrollArea* localeWidget = createVMWidget();
+    qscrollarea* disk_setupwidget = createvmwidget();
+    qscrollarea* diskSetupwidget = createvmwidget();
+    qscrollarea* userswidget = createvmwidget();
+    qscrollarea* networkwidget = createvmwidget();
+    qscrollarea* packageswidget = createvmwidget();
+    qscrollarea* installwidget = createvmwidget();
 
     QStackedWidget* stackedWidget = new QStackedWidget();
     stackedWidget->addWidget(containerWidget);
