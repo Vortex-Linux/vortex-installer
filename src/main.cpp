@@ -6,7 +6,7 @@ int main(int argc, char *argv[]) {
     loadAppStyleSheet(app, ":/styles/styles/styles.qss");
 
     QWidget mainWindow;
-    QVBoxLayout* layout = new QVBoxLayout(&mainWindow);
+    QHBoxLayout* layout = new QHBoxLayout(&mainWindow);
 
     Nav* nav = createNav();
     layout->addWidget(nav); 
