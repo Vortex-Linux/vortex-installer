@@ -12,6 +12,9 @@ QScrollArea* createWelcomeWidget() {
     QWidget* welcomeWidget = new QWidget();
     QVBoxLayout* layout = new QVBoxLayout(welcomeWidget);
 
+    QLabel* label = new QLabel("Welcome to the Application!");
+    layout->addWidget(label);
+
     layout->insertStretch(-1, 1);
 
     welcomeWidget->setLayout(layout);

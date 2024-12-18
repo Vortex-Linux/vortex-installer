@@ -15,7 +15,7 @@
 #include <iostream>
 #include <ostream>
 #include <sstream>
-
+#include <QLabel>
 #endif // HEADERS_H
 
 
