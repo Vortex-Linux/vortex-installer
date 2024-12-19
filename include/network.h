@@ -1,22 +1,22 @@
-#ifndef WELCOME_H
-#define WELCOME_H
+#ifndef NETWORK_H
+#define NETWORK_H
 
 #include "headers.h"
-#include "ui_welcome.h"
+#include "ui_network.h"
 
-class Welcome : public QMainWindow {
+class Network : public QMainWindow {
     Q_OBJECT
 
 public:
-    explicit Welcome(QWidget *parent = nullptr);
-    ~Welcome();
+    explicit Network(QWidget *parent = nullptr);
+    ~Network();
 
 signals:
     void buttonClicked(const QString &buttonName); 
 
 private:
-    Ui::Welcome *ui;  
+    Ui::Network *ui;  
 };
 
-#endif // WELCOME_H
+#endif // NETWORK_H
 
