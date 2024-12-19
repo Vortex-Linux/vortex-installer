@@ -64,18 +64,18 @@ QScrollArea* createDiskSetupPage() {
     return scrollArea;
 }
 
-QScrollArea* createWelcomePage() {
-    Welcome* welcome = new Welcome();  
-    welcome->setFixedSize(200, 800);
-    loadWidgetStyleSheet(welcome, ":/styles/styles/welcome.qss");
+QScrollArea* createUsersPage() {
+    Users* users = new Users();  
+    users->setFixedSize(200, 800);
+    loadWidgetStyleSheet(users, ":/styles/styles/users.qss");
     
-    QWidget* welcomePage = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(welcomePage);
-    layout->addWidget(welcome);
+    QWidget* usersPage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(usersPage);
+    layout->addWidget(users);
     layout->insertStretch(-1, 1);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(welcomePage);
+    scrollArea->setWidget(usersPage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
