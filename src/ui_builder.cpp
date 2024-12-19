@@ -83,18 +83,18 @@ QScrollArea* createUsersPage() {
     return scrollArea;
 }
 
-QScrollArea* createWelcomePage() {
-    Welcome* welcome = new Welcome();  
-    welcome->setFixedSize(200, 800);
-    loadWidgetStyleSheet(welcome, ":/styles/styles/welcome.qss");
+QScrollArea* createNetworkPage() {
+    Network* network = new Network();  
+    network->setFixedSize(200, 800);
+    loadWidgetStyleSheet(network, ":/styles/styles/network.qss");
     
-    QWidget* welcomePage = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(welcomePage);
-    layout->addWidget(welcome);
+    QWidget* networkPage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(networkPage);
+    layout->addWidget(network);
     layout->insertStretch(-1, 1);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(welcomePage);
+    scrollArea->setWidget(networkPage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
