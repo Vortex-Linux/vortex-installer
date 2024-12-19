@@ -1,22 +1,22 @@
-#ifndef WELCOME_H
-#define WELCOME_H
+#ifndef USERS_H
+#define USERS_H
 
 #include "headers.h"
-#include "ui_welcome.h"
+#include "ui_users.h"
 
-class Welcome : public QMainWindow {
+class Users : public QMainWindow {
     Q_OBJECT
 
 public:
-    explicit Welcome(QWidget *parent = nullptr);
-    ~Welcome();
+    explicit Users(QWidget *parent = nullptr);
+    ~Users();
 
 signals:
     void buttonClicked(const QString &buttonName); 
 
 private:
-    Ui::Welcome *ui;  
+    Ui::Users *ui;  
 };
 
-#endif // WELCOME_H
+#endif // USERS_H
 
