@@ -1,21 +1,21 @@
-#ifndef WELCOME_H
-#define WELCOME_H
+#ifndef INSTALL_H
+#define INSTALL_H
 
 #include "headers.h"
-#include "ui_welcome.h"
+#include "ui_install.h"
 
-class Welcome : public QMainWindow {
+class Install : public QMainWindow {
     Q_OBJECT
 
 public:
-    explicit Welcome(QWidget *parent = nullptr);
-    ~Welcome();
+    explicit Install(QWidget *parent = nullptr);
+    ~Install();
 
 signals:
     void buttonClicked(const QString &buttonName); 
 
 private:
-    Ui::Welcome *ui;  
+    Ui::Install *ui;  
 };
 
 #endif // WELCOME_H
