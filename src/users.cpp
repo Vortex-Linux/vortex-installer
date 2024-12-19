@@ -1,9 +1,9 @@
-#include "welcome.h"
+#include "users.h"
 
-Welcome::Welcome(QWidget *parent) : QMainWindow(parent), ui(new Ui::Welcome) {
+Users::Users(QWidget *parent) : QMainWindow(parent), ui(new Ui::Users) {
     ui->setupUi(this);
 }
 
-Welcome::~Welcome() {
+Users::~Users() {
     delete ui;
 }
