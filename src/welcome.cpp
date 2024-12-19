@@ -1,6 +1,6 @@
 #include "welcome.h"
 
-Welcome::Welcome(QWidget *parent) : QWidget(parent), ui(new Ui::Welcome) {
+Welcome::Welcome(QWidget *parent) : QMainWindow(parent), ui(new Ui::Welcome) {
     ui->setupUi(this);
 }
 

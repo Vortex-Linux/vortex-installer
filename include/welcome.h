@@ -4,7 +4,7 @@
 #include "headers.h"
 #include "ui_welcome.h"
 
-class Welcome : public QWidget {
+class Welcome : public QMainWindow {
     Q_OBJECT
 
 public:
