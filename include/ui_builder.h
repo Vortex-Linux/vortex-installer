@@ -6,13 +6,13 @@
 #include "utils.h"
 
 Nav* createNav(QWidget* parent = nullptr);
-QScrollArea* createWelcomeWidget();
-QScrollArea* createLocaleWidget();
-QScrollArea* createDiskSetupWidget();
-QScrollArea* createUsersWidget();
-QScrollArea* createNetworkWidget();
-QScrollArea* createPackagesWidget();
-QScrollArea* createInstallWidget();
+QScrollArea* createWelcomePage();
+QScrollArea* createLocalePage();
+QScrollArea* createDiskSetupPage();
+QScrollArea* createUsersPage();
+QScrollArea* createNetworkPage();
+QScrollArea* createPackagesPage();
+QScrollArea* createInstallPage();
 
 #endif 
 

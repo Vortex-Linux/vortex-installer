@@ -11,39 +11,39 @@ int main(int argc, char *argv[]) {
     Nav* nav = createNav();
     layout->addWidget(nav); 
 
-    QScrollArea* welcomeWidget = createWelcomeWidget();
-    QScrollArea* localeWidget = createLocaleWidget();
-    QScrollArea* diskSetupWidget = createDiskSetupWidget();
-    QScrollArea* usersWidget = createUsersWidget();
-    QScrollArea* networkWidget = createNetworkWidget();
-    QScrollArea* packagesWidget = createPackagesWidget();
-    QScrollArea* installWidget = createInstallWidget();
+    QScrollArea* welcomePage = createWelcomePage();
+    QScrollArea* localePage = createLocalePage();
+    QScrollArea* diskSetupPage = createDiskSetupPage();
+    QScrollArea* usersPage = createUsersPage();
+    QScrollArea* networkPage = createNetworkPage();
+    QScrollArea* packagesPage = createPackagesPage();
+    QScrollArea* installPage = createInstallPage();
 
     QStackedWidget* stackedWidget = new QStackedWidget();
-    stackedWidget->addWidget(welcomeWidget);
-    stackedWidget->addWidget(localeWidget);
-    stackedWidget->addWidget(diskSetupWidget);
-    stackedWidget->addWidget(usersWidget);
-    stackedWidget->addWidget(networkWidget);
-    stackedWidget->addWidget(packagesWidget);
-    stackedWidget->addWidget(installWidget);
+    stackedWidget->addWidget(welcomePage);
+    stackedWidget->addWidget(localePage);
+    stackedWidget->addWidget(diskSetupPage);
+    stackedWidget->addWidget(usersPage);
+    stackedWidget->addWidget(networkPage);
+    stackedWidget->addWidget(packagesPage);
+    stackedWidget->addWidget(installPage);
     layout->addWidget(stackedWidget); 
 
     QObject::connect(nav, &Nav::buttonClicked, [=](const QString &buttonName) {
         if (buttonName == "welcome") {
-            stackedWidget->setCurrentWidget(welcomeWidget);
+            stackedWidget->setCurrentWidget(welcomePage);
         } else if (buttonName == "locale") {
-            stackedWidget->setCurrentWidget(localeWidget);
+            stackedWidget->setCurrentWidget(localePage);
         } else if (buttonName == "diskSetup") {
-            stackedWidget->setCurrentWidget(diskSetupWidget);
+            stackedWidget->setCurrentWidget(diskSetupPage);
         } else if (buttonName == "users") {
-            stackedWidget->setCurrentWidget(usersWidget);
+            stackedWidget->setCurrentWidget(usersPage);
         } else if (buttonName == "network") {
-            stackedWidget->setCurrentWidget(networkWidget);
+            stackedWidget->setCurrentWidget(networkPage);
         } else if (buttonName == "packages") {
-            stackedWidget->setCurrentWidget(packagesWidget);
+            stackedWidget->setCurrentWidget(packagesPage);
         } else if (buttonName == "install") {
-            stackedWidget->setCurrentWidget(installWidget);
+            stackedWidget->setCurrentWidget(installPage);
         } 
     });
 

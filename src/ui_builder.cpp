@@ -7,18 +7,18 @@ Nav* createNav(QWidget* parent) {
     return nav;
 }
 
-QScrollArea* createWelcomeWidget() {
+QScrollArea* createWelcomePage() {
     Welcome* welcome = new Welcome();  
     welcome->setFixedSize(200, 800);
     loadWidgetStyleSheet(welcome, ":/styles/styles/welcome.qss");
     
-    QWidget* welcomeWidget = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(welcomeWidget);
+    QWidget* welcomePage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(welcomePage);
     layout->addWidget(welcome);
     layout->insertStretch(-1, 1);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(welcomeWidget);
+    scrollArea->setWidget(welcomePage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
