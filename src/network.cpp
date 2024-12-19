@@ -1,9 +1,9 @@
-#include "welcome.h"
+#include "network.h"
 
-Welcome::Welcome(QWidget *parent) : QMainWindow(parent), ui(new Ui::Welcome) {
+Network::Network(QWidget *parent) : QMainWindow(parent), ui(new Ui::Network) {
     ui->setupUi(this);
 }
 
-Welcome::~Welcome() {
+Network::~Network() {
     delete ui;
 }
