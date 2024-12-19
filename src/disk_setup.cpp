@@ -1,9 +1,9 @@
-#include "welcome.h"
+#include "disk_setup.h"
 
-Welcome::Welcome(QWidget *parent) : QMainWindow(parent), ui(new Ui::Welcome) {
+DiskSetup::DiskSetup(QWidget *parent) : QMainWindow(parent), ui(new Ui::DiskSetup) {
     ui->setupUi(this);
 }
 
-Welcome::~Welcome() {
+DiskSetup::~DiskSetup() {
     delete ui;
 }
