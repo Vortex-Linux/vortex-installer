@@ -1,22 +1,22 @@
-#ifndef WELCOME_H
-#define WELCOME_H
+#ifndef DISK_SETUP_H
+#define DISK_SETUP_H
 
 #include "headers.h"
-#include "ui_welcome.h"
+#include "ui_disk_setup.h"
 
-class Welcome : public QMainWindow {
+class DiskSetup : public QMainWindow {
     Q_OBJECT
 
 public:
-    explicit Welcome(QWidget *parent = nullptr);
-    ~Welcome();
+    explicit DiskSetup(QWidget *parent = nullptr);
+    ~DiskSetup();
 
 signals:
     void buttonClicked(const QString &buttonName); 
 
 private:
-    Ui::Welcome *ui;  
+    Ui::DiskSetup *ui;  
 };
 
-#endif // WELCOME_H
+#endif // DISK_SETUP_H
 
