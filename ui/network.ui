@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ui version="4.0">
+    <class>Network</class>
+    <widget class="QWidget" name="Network">
+        <property name="geometry">
+            <rect>
+                <x>100</x>
+                <y>100</y>
+                <width>200</width>
+                <height>800</height>
+            </rect>
+        </property>
+        <widget class="QFrame" name="networkFrame">
+            <property name="geometry">
+                <rect>
+                    <x>10</x>
+                    <y>10</y>
+                    <width>180</width>
+                    <height>780</height>
+                </rect>
+            </property>
+            <widget class="QLabel" name="networkLabel">
+                <property name="geometry">
+                    <rect>
+                        <x>10</x>
+                        <y>10</y>
+                        <width>160</width>
+                        <height>40</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string>Network to the Installer</string>
+                </property>
+                <property name="alignment">
+                    <set>Qt::AlignCenter</set>
+                </property>
+            </widget>
+        </widget>
+    </widget>
+</ui>
