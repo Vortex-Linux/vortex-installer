@@ -3,6 +3,12 @@
         <file>styles/styles.qss</file>
         <file>styles/nav.qss</file>
         <file>styles/welcome.qss</file>
+        <file>styles/locale.qss</file>
+        <file>styles/disk_setup.qss</file>
+        <file>styles/users.qss</file>
+        <file>styles/network.qss</file>
+        <file>styles/packages.qss</file>
+        <file>styles/install.qss</file>
     </qresource>
 </RCC>
 
