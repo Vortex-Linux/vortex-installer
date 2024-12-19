@@ -55,16 +55,20 @@ OBJECTS_DIR   = build/obj/
 SOURCES       = src/main.cpp \
 		src/nav.cpp \
 		src/ui_builder.cpp \
-		src/utils.cpp qrc_styles.cpp \
+		src/utils.cpp \
+		src/welcome.cpp qrc_styles.cpp \
 		qrc_images.cpp \
-		build/moc/moc_nav.cpp
+		build/moc/moc_nav.cpp \
+		build/moc/moc_welcome.cpp
 OBJECTS       = build/obj/main.o \
 		build/obj/nav.o \
 		build/obj/ui_builder.o \
 		build/obj/utils.o \
+		build/obj/welcome.o \
 		build/obj/qrc_styles.o \
 		build/obj/qrc_images.o \
-		build/obj/moc_nav.o
+		build/obj/moc_nav.o \
+		build/obj/moc_welcome.o
 DIST          = /usr/lib/qt/mkspecs/features/spec_pre.prf \
 		/usr/lib/qt/mkspecs/common/unix.conf \
 		/usr/lib/qt/mkspecs/common/linux.conf \
@@ -298,10 +302,12 @@ DIST          = /usr/lib/qt/mkspecs/features/spec_pre.prf \
 		include/main.h \
 		include/nav.h \
 		include/ui_builder.h \
-		include/utils.h src/main.cpp \
+		include/utils.h \
+		include/welcome.h src/main.cpp \
 		src/nav.cpp \
 		src/ui_builder.cpp \
-		src/utils.cpp
+		src/utils.cpp \
+		src/welcome.cpp
 QMAKE_TARGET  = vortex-installer
 DESTDIR       = build/
 TARGET        = build/vortex-installer
@@ -310,7 +316,7 @@ TARGET        = build/vortex-installer
 first: all
 ####### Build rules
 
-build/vortex-installer: build/ui/ui_nav.h $(OBJECTS)  
+build/vortex-installer: build/ui/ui_nav.h build/ui/ui_welcome.h $(OBJECTS)  
 	@test -d build/ || mkdir -p build/
 	$(LINK) $(LFLAGS) -o $(TARGET) $(OBJECTS) $(OBJCOMP) $(LIBS)
 
@@ -795,9 +801,9 @@ distdir: FORCE
 	$(COPY_FILE) --parents $(DIST) $(DISTDIR)/
 	$(COPY_FILE) --parents resources/styles.qrc resources/images.qrc $(DISTDIR)/
 	$(COPY_FILE) --parents /usr/lib/qt/mkspecs/features/data/dummy.cpp $(DISTDIR)/
-	$(COPY_FILE) --parents include/headers.h include/main.h include/nav.h include/ui_builder.h include/utils.h $(DISTDIR)/
-	$(COPY_FILE) --parents src/main.cpp src/nav.cpp src/ui_builder.cpp src/utils.cpp $(DISTDIR)/
-	$(COPY_FILE) --parents ui/nav.ui $(DISTDIR)/
+	$(COPY_FILE) --parents include/headers.h include/main.h include/nav.h include/ui_builder.h include/utils.h include/welcome.h $(DISTDIR)/
+	$(COPY_FILE) --parents src/main.cpp src/nav.cpp src/ui_builder.cpp src/utils.cpp src/welcome.cpp $(DISTDIR)/
+	$(COPY_FILE) --parents ui/nav.ui ui/welcome.ui $(DISTDIR)/
 
 
 clean: compiler_clean 
@@ -827,7 +833,8 @@ compiler_rcc_clean:
 qrc_styles.cpp: resources/styles.qrc \
 		/usr/bin/rcc \
 		resources/styles/nav.qss \
-		resources/styles/styles.qss
+		resources/styles/styles.qss \
+		resources/styles/welcome.qss
 	/usr/bin/rcc -name styles resources/styles.qrc -o qrc_styles.cpp
 
 qrc_images.cpp: resources/images.qrc \
@@ -840,9 +847,9 @@ compiler_moc_predefs_clean:
 build/moc/moc_predefs.h: /usr/lib/qt/mkspecs/features/data/dummy.cpp
 	g++ -pipe -g -Wall -O2 -flto -fno-fat-lto-objects -Wall -Wextra -dM -E -o build/moc/moc_predefs.h /usr/lib/qt/mkspecs/features/data/dummy.cpp
 
-compiler_moc_header_make_all: build/moc/moc_nav.cpp
+compiler_moc_header_make_all: build/moc/moc_nav.cpp build/moc/moc_welcome.cpp
 compiler_moc_header_clean:
-	-$(DEL_FILE) build/moc/moc_nav.cpp
+	-$(DEL_FILE) build/moc/moc_nav.cpp build/moc/moc_welcome.cpp
 build/moc/moc_nav.cpp: include/nav.h \
 		include/headers.h \
 		build/ui/ui_nav.h \
@@ -850,16 +857,27 @@ build/moc/moc_nav.cpp: include/nav.h \
 		/usr/bin/moc
 	/usr/bin/moc $(DEFINES) --include /home/arun/VortexLinux/vortex-installer/build/moc/moc_predefs.h -I/usr/lib/qt/mkspecs/linux-g++ -I/home/arun/VortexLinux/vortex-installer -I/home/arun/VortexLinux/vortex-installer/include -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -I/usr/include/c++/14.2.1 -I/usr/include/c++/14.2.1/x86_64-pc-linux-gnu -I/usr/include/c++/14.2.1/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed -I/usr/include include/nav.h -o build/moc/moc_nav.cpp
 
+build/moc/moc_welcome.cpp: include/welcome.h \
+		include/headers.h \
+		ui_welcome.h \
+		build/moc/moc_predefs.h \
+		/usr/bin/moc
+	/usr/bin/moc $(DEFINES) --include /home/arun/VortexLinux/vortex-installer/build/moc/moc_predefs.h -I/usr/lib/qt/mkspecs/linux-g++ -I/home/arun/VortexLinux/vortex-installer -I/home/arun/VortexLinux/vortex-installer/include -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -I/usr/include/c++/14.2.1 -I/usr/include/c++/14.2.1/x86_64-pc-linux-gnu -I/usr/include/c++/14.2.1/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed -I/usr/include include/welcome.h -o build/moc/moc_welcome.cpp
+
 compiler_moc_objc_header_make_all:
 compiler_moc_objc_header_clean:
 compiler_moc_source_make_all:
 compiler_moc_source_clean:
-compiler_uic_make_all: build/ui/ui_nav.h
+compiler_uic_make_all: build/ui/ui_nav.h build/ui/ui_welcome.h
 compiler_uic_clean:
-	-$(DEL_FILE) build/ui/ui_nav.h
+	-$(DEL_FILE) build/ui/ui_nav.h build/ui/ui_welcome.h
 build/ui/ui_nav.h: ui/nav.ui \
 		/usr/bin/uic
 	/usr/bin/uic ui/nav.ui -o build/ui/ui_nav.h
+
+build/ui/ui_welcome.h: ui/welcome.ui \
+		/usr/bin/uic
+	/usr/bin/uic ui/welcome.ui -o build/ui/ui_welcome.h
 
 compiler_yacc_decl_make_all:
 compiler_yacc_decl_clean:
@@ -876,6 +894,8 @@ build/obj/main.o: src/main.cpp include/main.h \
 		include/nav.h \
 		include/headers.h \
 		build/ui/ui_nav.h \
+		include/welcome.h \
+		ui_welcome.h \
 		include/utils.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/main.o src/main.cpp
 
@@ -888,12 +908,19 @@ build/obj/ui_builder.o: src/ui_builder.cpp include/ui_builder.h \
 		include/nav.h \
 		include/headers.h \
 		build/ui/ui_nav.h \
+		include/welcome.h \
+		ui_welcome.h \
 		include/utils.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/ui_builder.o src/ui_builder.cpp
 
 build/obj/utils.o: src/utils.cpp include/utils.h \
 		include/headers.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/utils.o src/utils.cpp
+
+build/obj/welcome.o: src/welcome.cpp include/welcome.h \
+		include/headers.h \
+		ui_welcome.h
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/welcome.o src/welcome.cpp
 
 build/obj/qrc_styles.o: qrc_styles.cpp 
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/qrc_styles.o qrc_styles.cpp
@@ -903,6 +930,9 @@ build/obj/qrc_images.o: qrc_images.cpp
 
 build/obj/moc_nav.o: build/moc/moc_nav.cpp 
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/moc_nav.o build/moc/moc_nav.cpp
+
+build/obj/moc_welcome.o: build/moc/moc_welcome.cpp 
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/moc_welcome.o build/moc/moc_welcome.cpp
 
 ####### Install
 

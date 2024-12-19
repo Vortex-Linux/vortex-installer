@@ -1,7 +1,8 @@
 #ifndef UI_BUILDER_H
 #define UI_BUILDER_H
 
-#include "nav.h" 
+#include "nav.h"
+#include "welcome.h"
 #include "utils.h"
 
 Nav* createNav(QWidget* parent = nullptr);
