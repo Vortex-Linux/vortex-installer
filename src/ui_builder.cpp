@@ -26,17 +26,18 @@ QScrollArea* createWelcomePage() {
     return scrollArea;
 }
 
-QScrollArea* createLocaleWidget() {
-
-    QWidget* localeWidget = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(localeWidget);
-
+QScrollArea* createLocalePage() {
+    Locale* locale = new Locale();  
+    locale->setFixedSize(200, 800);
+    loadWidgetStyleSheet(locale, ":/styles/styles/locale.qss");
+    
+    QWidget* localePage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(localePage);
+    layout->addWidget(locale);
     layout->insertStretch(-1, 1);
 
-    localeWidget->setLayout(layout);
-
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(localeWidget);
+    scrollArea->setWidget(welcomePage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -44,17 +45,18 @@ QScrollArea* createLocaleWidget() {
     return scrollArea;
 }
 
-QScrollArea* createDiskSetupWidget() {
-
-    QWidget* diskSetupWidget = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(diskSetupWidget);
-
+QScrollArea* createWelcomePage() {
+    Welcome* welcome = new Welcome();  
+    welcome->setFixedSize(200, 800);
+    loadWidgetStyleSheet(welcome, ":/styles/styles/welcome.qss");
+    
+    QWidget* welcomePage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(welcomePage);
+    layout->addWidget(welcome);
     layout->insertStretch(-1, 1);
 
-    diskSetupWidget->setLayout(layout);
-
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(diskSetupWidget);
+    scrollArea->setWidget(welcomePage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -62,17 +64,18 @@ QScrollArea* createDiskSetupWidget() {
     return scrollArea;
 }
 
-QScrollArea* createUsersWidget() {
-
-    QWidget* usersWidget = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(usersWidget);
-
+QScrollArea* createWelcomePage() {
+    Welcome* welcome = new Welcome();  
+    welcome->setFixedSize(200, 800);
+    loadWidgetStyleSheet(welcome, ":/styles/styles/welcome.qss");
+    
+    QWidget* welcomePage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(welcomePage);
+    layout->addWidget(welcome);
     layout->insertStretch(-1, 1);
 
-    usersWidget->setLayout(layout);
-
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(usersWidget);
+    scrollArea->setWidget(welcomePage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -80,17 +83,18 @@ QScrollArea* createUsersWidget() {
     return scrollArea;
 }
 
-QScrollArea* createNetworkWidget() {
-
-    QWidget* networkWidget = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(networkWidget);
-
+QScrollArea* createWelcomePage() {
+    Welcome* welcome = new Welcome();  
+    welcome->setFixedSize(200, 800);
+    loadWidgetStyleSheet(welcome, ":/styles/styles/welcome.qss");
+    
+    QWidget* welcomePage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(welcomePage);
+    layout->addWidget(welcome);
     layout->insertStretch(-1, 1);
 
-    networkWidget->setLayout(layout);
-
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(networkWidget);
+    scrollArea->setWidget(welcomePage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -98,17 +102,18 @@ QScrollArea* createNetworkWidget() {
     return scrollArea;
 }
 
-QScrollArea* createPackagesWidget() {
-
-    QWidget* packagesWidget = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(packagesWidget);
-
+QScrollArea* createWelcomePage() {
+    Welcome* welcome = new Welcome();  
+    welcome->setFixedSize(200, 800);
+    loadWidgetStyleSheet(welcome, ":/styles/styles/welcome.qss");
+    
+    QWidget* welcomePage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(welcomePage);
+    layout->addWidget(welcome);
     layout->insertStretch(-1, 1);
 
-    packagesWidget->setLayout(layout);
-
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(packagesWidget);
+    scrollArea->setWidget(welcomePage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -116,17 +121,18 @@ QScrollArea* createPackagesWidget() {
     return scrollArea;
 }
 
-QScrollArea* createInstallWidget() {
-
-    QWidget* installWidget = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(installWidget);
-
+QScrollArea* createWelcomePage() {
+    Welcome* welcome = new Welcome();  
+    welcome->setFixedSize(200, 800);
+    loadWidgetStyleSheet(welcome, ":/styles/styles/welcome.qss");
+    
+    QWidget* welcomePage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(welcomePage);
+    layout->addWidget(welcome);
     layout->insertStretch(-1, 1);
 
-    installWidget->setLayout(layout);
-
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(installWidget);
+    scrollArea->setWidget(welcomePage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
