@@ -1,9 +1,9 @@
-#include "welcome.h"
+#include "install.h"
 
-Welcome::Welcome(QWidget *parent) : QMainWindow(parent), ui(new Ui::Welcome) {
+Install::Install(QWidget *parent) : QMainWindow(parent), ui(new Ui::Install) {
     ui->setupUi(this);
 }
 
-Welcome::~Welcome() {
+Install::~Install() {
     delete ui;
 }
