@@ -8,12 +8,13 @@ Nav* createNav(QWidget* parent) {
 }
 
 QScrollArea* createWelcomeWidget() {
-
     QWidget* welcomeWidget = new QWidget();
     QVBoxLayout* layout = new QVBoxLayout(welcomeWidget);
 
-    QLabel* label = new QLabel("Welcome to the Application!");
-    layout->addWidget(label);
+    Nav* nav = new Nav();
+    nav->setFixedSize(200, 800);
+    loadWidgetStyleSheet(nav, ":/styles/styles/nav.qss");
+    layout->addWidget(nav);
 
     layout->insertStretch(-1, 1);
 
