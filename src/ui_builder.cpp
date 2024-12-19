@@ -121,18 +121,18 @@ QScrollArea* createPackagesPage() {
     return scrollArea;
 }
 
-QScrollArea* createWelcomePage() {
-    Welcome* welcome = new Welcome();  
-    welcome->setFixedSize(200, 800);
-    loadWidgetStyleSheet(welcome, ":/styles/styles/welcome.qss");
+QScrollArea* createInstallPage() {
+    Install* install = new Install();  
+    install->setFixedSize(200, 800);
+    loadWidgetStyleSheet(install, ":/styles/styles/install.qss");
     
-    QWidget* welcomePage = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(welcomePage);
-    layout->addWidget(welcome);
+    QWidget* installPage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(installPage);
+    layout->addWidget(install);
     layout->insertStretch(-1, 1);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(welcomePage);
+    scrollArea->setWidget(installPage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
