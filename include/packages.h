@@ -1,22 +1,22 @@
-#ifndef WELCOME_H
-#define WELCOME_H
+#ifndef PACKAGES_H
+#define PACKAGES_H
 
 #include "headers.h"
-#include "ui_welcome.h"
+#include "ui_packages.h"
 
-class Welcome : public QMainWindow {
+class Packages : public QMainWindow {
     Q_OBJECT
 
 public:
-    explicit Welcome(QWidget *parent = nullptr);
-    ~Welcome();
+    explicit Packages(QWidget *parent = nullptr);
+    ~Packages();
 
 signals:
     void buttonClicked(const QString &buttonName); 
 
 private:
-    Ui::Welcome *ui;  
+    Ui::Packages *ui;  
 };
 
-#endif // WELCOME_H
+#endif // PACKAGES_H
 
