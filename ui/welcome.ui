@@ -4,9 +4,9 @@
     <widget class="QWidget" name="Welcome">
         <property name="geometry">
             <rect>
-                <x>100</x>
-                <y>100</y>
-                <width>200</width>
+                <x>10</x>
+                <y>10</y>
+                <width>900</width>
                 <height>800</height>
             </rect>
         </property>
@@ -15,24 +15,21 @@
                 <rect>
                     <x>10</x>
                     <y>10</y>
-                    <width>180</width>
-                    <height>780</height>
+                    <width>900</width>
+                    <height>800</height>
                 </rect>
             </property>
-            <widget class="QLabel" name="welcomeLabel">
+            <widget class="QLabel" name="headingLabel">
                 <property name="geometry">
                     <rect>
-                        <x>10</x>
+                        <x>200</x>
                         <y>10</y>
-                        <width>160</width>
-                        <height>40</height>
+                        <width>900</width> 
+                        <height>100</height>
                     </rect>
                 </property>
                 <property name="text">
-                    <string>Welcome to the Installer</string>
-                </property>
-                <property name="alignment">
-                    <set>Qt::AlignCenter</set>
+                    <string>Welcome to the Installer of VortexLinux</string>
                 </property>
             </widget>
         </widget>
