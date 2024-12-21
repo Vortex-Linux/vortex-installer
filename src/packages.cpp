@@ -1,9 +1,9 @@
-#include "welcome.h"
+#include "packages.h"
 
-Welcome::Welcome(QWidget *parent) : QMainWindow(parent), ui(new Ui::Welcome) {
+Packages::Packages(QWidget *parent) : QMainWindow(parent), ui(new Ui::Packages) {
     ui->setupUi(this);
 }
 
-Welcome::~Welcome() {
+Packages::~Packages() {
     delete ui;
 }
