@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
     layout->addWidget(nav); 
 
     QScrollArea* welcomePage = createWelcomePage();
-    QScrollArea* localePage = createLocalesPage();
+    QScrollArea* localesPage = createLocalesPage();
     QScrollArea* diskSetupPage = createDiskSetupPage();
     QScrollArea* usersPage = createUsersPage();
     QScrollArea* networkPage = createNetworkPage();
@@ -21,7 +21,7 @@ int main(int argc, char *argv[]) {
 
     QStackedWidget* stackedWidget = new QStackedWidget();
     stackedWidget->addWidget(welcomePage);
-    stackedWidget->addWidget(localePage);
+    stackedWidget->addWidget(localesPage);
     stackedWidget->addWidget(diskSetupPage);
     stackedWidget->addWidget(usersPage);
     stackedWidget->addWidget(networkPage);
@@ -32,8 +32,8 @@ int main(int argc, char *argv[]) {
     QObject::connect(nav, &Nav::buttonClicked, [=](const QString &buttonName) {
         if (buttonName == "welcome") {
             stackedWidget->setCurrentWidget(welcomePage);
-        } else if (buttonName == "locale") {
-            stackedWidget->setCurrentWidget(localePage);
+        } else if (buttonName == "locales") {
+            stackedWidget->setCurrentWidget(localesPage);
         } else if (buttonName == "diskSetup") {
             stackedWidget->setCurrentWidget(diskSetupPage);
         } else if (buttonName == "users") {
