@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
     layout->addWidget(nav); 
 
     QScrollArea* welcomePage = createWelcomePage();
-    QScrollArea* localePage = createLocalePage();
+    QScrollArea* localePage = createLocalesPage();
     QScrollArea* diskSetupPage = createDiskSetupPage();
     QScrollArea* usersPage = createUsersPage();
     QScrollArea* networkPage = createNetworkPage();

@@ -2,6 +2,9 @@
 #define HEADERS_H
 
 #include <QApplication>
+#include <QtCore/qstring.h>
+#include <QtCore/qstringview.h>
+#include <QMainWindow>
 #include <QWidget>
 #include <QScrollArea>
 #include <QPushButton>

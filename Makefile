@@ -52,22 +52,46 @@ OBJECTS_DIR   = build/obj/
 
 ####### Files
 
-SOURCES       = src/main.cpp \
+SOURCES       = src/disk_setup.cpp \
+		src/install.cpp \
+		src/locales.cpp \
+		src/main.cpp \
 		src/nav.cpp \
+		src/network.cpp \
+		src/packages.cpp \
 		src/ui_builder.cpp \
+		src/users.cpp \
 		src/utils.cpp \
 		src/welcome.cpp qrc_styles.cpp \
 		qrc_images.cpp \
+		build/moc/moc_disk_setup.cpp \
+		build/moc/moc_install.cpp \
+		build/moc/moc_locales.cpp \
 		build/moc/moc_nav.cpp \
+		build/moc/moc_network.cpp \
+		build/moc/moc_packages.cpp \
+		build/moc/moc_users.cpp \
 		build/moc/moc_welcome.cpp
-OBJECTS       = build/obj/main.o \
+OBJECTS       = build/obj/disk_setup.o \
+		build/obj/install.o \
+		build/obj/locales.o \
+		build/obj/main.o \
 		build/obj/nav.o \
+		build/obj/network.o \
+		build/obj/packages.o \
 		build/obj/ui_builder.o \
+		build/obj/users.o \
 		build/obj/utils.o \
 		build/obj/welcome.o \
 		build/obj/qrc_styles.o \
 		build/obj/qrc_images.o \
+		build/obj/moc_disk_setup.o \
+		build/obj/moc_install.o \
+		build/obj/moc_locales.o \
 		build/obj/moc_nav.o \
+		build/obj/moc_network.o \
+		build/obj/moc_packages.o \
+		build/obj/moc_users.o \
 		build/obj/moc_welcome.o
 DIST          = /usr/lib/qt/mkspecs/features/spec_pre.prf \
 		/usr/lib/qt/mkspecs/common/unix.conf \
@@ -298,14 +322,26 @@ DIST          = /usr/lib/qt/mkspecs/features/spec_pre.prf \
 		/usr/lib/qt/mkspecs/features/exceptions.prf \
 		/usr/lib/qt/mkspecs/features/yacc.prf \
 		/usr/lib/qt/mkspecs/features/lex.prf \
-		vortex-installer.pro include/headers.h \
+		vortex-installer.pro include/disk_setup.h \
+		include/headers.h \
+		include/install.h \
+		include/locales.h \
 		include/main.h \
 		include/nav.h \
+		include/network.h \
+		include/packages.h \
 		include/ui_builder.h \
+		include/users.h \
 		include/utils.h \
-		include/welcome.h src/main.cpp \
+		include/welcome.h src/disk_setup.cpp \
+		src/install.cpp \
+		src/locales.cpp \
+		src/main.cpp \
 		src/nav.cpp \
+		src/network.cpp \
+		src/packages.cpp \
 		src/ui_builder.cpp \
+		src/users.cpp \
 		src/utils.cpp \
 		src/welcome.cpp
 QMAKE_TARGET  = vortex-installer
@@ -316,7 +352,7 @@ TARGET        = build/vortex-installer
 first: all
 ####### Build rules
 
-build/vortex-installer: build/ui/ui_nav.h build/ui/ui_welcome.h $(OBJECTS)  
+build/vortex-installer: build/ui/ui_disk_setup.h build/ui/ui_install.h build/ui/ui_locales.h build/ui/ui_nav.h build/ui/ui_network.h build/ui/ui_packages.h build/ui/ui_users.h build/ui/ui_welcome.h $(OBJECTS)  
 	@test -d build/ || mkdir -p build/
 	$(LINK) $(LFLAGS) -o $(TARGET) $(OBJECTS) $(OBJCOMP) $(LIBS)
 
@@ -801,9 +837,9 @@ distdir: FORCE
 	$(COPY_FILE) --parents $(DIST) $(DISTDIR)/
 	$(COPY_FILE) --parents resources/styles.qrc resources/images.qrc $(DISTDIR)/
 	$(COPY_FILE) --parents /usr/lib/qt/mkspecs/features/data/dummy.cpp $(DISTDIR)/
-	$(COPY_FILE) --parents include/headers.h include/main.h include/nav.h include/ui_builder.h include/utils.h include/welcome.h $(DISTDIR)/
-	$(COPY_FILE) --parents src/main.cpp src/nav.cpp src/ui_builder.cpp src/utils.cpp src/welcome.cpp $(DISTDIR)/
-	$(COPY_FILE) --parents ui/nav.ui ui/welcome.ui $(DISTDIR)/
+	$(COPY_FILE) --parents include/disk_setup.h include/headers.h include/install.h include/locales.h include/main.h include/nav.h include/network.h include/packages.h include/ui_builder.h include/users.h include/utils.h include/welcome.h $(DISTDIR)/
+	$(COPY_FILE) --parents src/disk_setup.cpp src/install.cpp src/locales.cpp src/main.cpp src/nav.cpp src/network.cpp src/packages.cpp src/ui_builder.cpp src/users.cpp src/utils.cpp src/welcome.cpp $(DISTDIR)/
+	$(COPY_FILE) --parents ui/disk_setup.ui ui/install.ui ui/locales.ui ui/nav.ui ui/network.ui ui/packages.ui ui/users.ui ui/welcome.ui $(DISTDIR)/
 
 
 clean: compiler_clean 
@@ -832,7 +868,13 @@ compiler_rcc_clean:
 	-$(DEL_FILE) qrc_styles.cpp qrc_images.cpp
 qrc_styles.cpp: resources/styles.qrc \
 		/usr/bin/rcc \
+		resources/styles/users.qss \
+		resources/styles/disk_setup.qss \
+		resources/styles/network.qss \
+		resources/styles/install.qss \
 		resources/styles/nav.qss \
+		resources/styles/locales.qss \
+		resources/styles/packages.qss \
 		resources/styles/styles.qss \
 		resources/styles/welcome.qss
 	/usr/bin/rcc -name styles resources/styles.qrc -o qrc_styles.cpp
@@ -847,9 +889,30 @@ compiler_moc_predefs_clean:
 build/moc/moc_predefs.h: /usr/lib/qt/mkspecs/features/data/dummy.cpp
 	g++ -pipe -g -Wall -O2 -flto -fno-fat-lto-objects -Wall -Wextra -dM -E -o build/moc/moc_predefs.h /usr/lib/qt/mkspecs/features/data/dummy.cpp
 
-compiler_moc_header_make_all: build/moc/moc_nav.cpp build/moc/moc_welcome.cpp
+compiler_moc_header_make_all: build/moc/moc_disk_setup.cpp build/moc/moc_install.cpp build/moc/moc_locales.cpp build/moc/moc_nav.cpp build/moc/moc_network.cpp build/moc/moc_packages.cpp build/moc/moc_users.cpp build/moc/moc_welcome.cpp
 compiler_moc_header_clean:
-	-$(DEL_FILE) build/moc/moc_nav.cpp build/moc/moc_welcome.cpp
+	-$(DEL_FILE) build/moc/moc_disk_setup.cpp build/moc/moc_install.cpp build/moc/moc_locales.cpp build/moc/moc_nav.cpp build/moc/moc_network.cpp build/moc/moc_packages.cpp build/moc/moc_users.cpp build/moc/moc_welcome.cpp
+build/moc/moc_disk_setup.cpp: include/disk_setup.h \
+		include/headers.h \
+		build/ui/ui_disk_setup.h \
+		build/moc/moc_predefs.h \
+		/usr/bin/moc
+	/usr/bin/moc $(DEFINES) --include /home/arun/VortexLinux/vortex-installer/build/moc/moc_predefs.h -I/usr/lib/qt/mkspecs/linux-g++ -I/home/arun/VortexLinux/vortex-installer -I/home/arun/VortexLinux/vortex-installer/include -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -I/usr/include/c++/14.2.1 -I/usr/include/c++/14.2.1/x86_64-pc-linux-gnu -I/usr/include/c++/14.2.1/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed -I/usr/include include/disk_setup.h -o build/moc/moc_disk_setup.cpp
+
+build/moc/moc_install.cpp: include/install.h \
+		include/headers.h \
+		build/ui/ui_install.h \
+		build/moc/moc_predefs.h \
+		/usr/bin/moc
+	/usr/bin/moc $(DEFINES) --include /home/arun/VortexLinux/vortex-installer/build/moc/moc_predefs.h -I/usr/lib/qt/mkspecs/linux-g++ -I/home/arun/VortexLinux/vortex-installer -I/home/arun/VortexLinux/vortex-installer/include -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -I/usr/include/c++/14.2.1 -I/usr/include/c++/14.2.1/x86_64-pc-linux-gnu -I/usr/include/c++/14.2.1/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed -I/usr/include include/install.h -o build/moc/moc_install.cpp
+
+build/moc/moc_locales.cpp: include/locales.h \
+		include/headers.h \
+		build/ui/ui_locales.h \
+		build/moc/moc_predefs.h \
+		/usr/bin/moc
+	/usr/bin/moc $(DEFINES) --include /home/arun/VortexLinux/vortex-installer/build/moc/moc_predefs.h -I/usr/lib/qt/mkspecs/linux-g++ -I/home/arun/VortexLinux/vortex-installer -I/home/arun/VortexLinux/vortex-installer/include -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -I/usr/include/c++/14.2.1 -I/usr/include/c++/14.2.1/x86_64-pc-linux-gnu -I/usr/include/c++/14.2.1/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed -I/usr/include include/locales.h -o build/moc/moc_locales.cpp
+
 build/moc/moc_nav.cpp: include/nav.h \
 		include/headers.h \
 		build/ui/ui_nav.h \
@@ -857,9 +920,30 @@ build/moc/moc_nav.cpp: include/nav.h \
 		/usr/bin/moc
 	/usr/bin/moc $(DEFINES) --include /home/arun/VortexLinux/vortex-installer/build/moc/moc_predefs.h -I/usr/lib/qt/mkspecs/linux-g++ -I/home/arun/VortexLinux/vortex-installer -I/home/arun/VortexLinux/vortex-installer/include -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -I/usr/include/c++/14.2.1 -I/usr/include/c++/14.2.1/x86_64-pc-linux-gnu -I/usr/include/c++/14.2.1/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed -I/usr/include include/nav.h -o build/moc/moc_nav.cpp
 
+build/moc/moc_network.cpp: include/network.h \
+		include/headers.h \
+		build/ui/ui_network.h \
+		build/moc/moc_predefs.h \
+		/usr/bin/moc
+	/usr/bin/moc $(DEFINES) --include /home/arun/VortexLinux/vortex-installer/build/moc/moc_predefs.h -I/usr/lib/qt/mkspecs/linux-g++ -I/home/arun/VortexLinux/vortex-installer -I/home/arun/VortexLinux/vortex-installer/include -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -I/usr/include/c++/14.2.1 -I/usr/include/c++/14.2.1/x86_64-pc-linux-gnu -I/usr/include/c++/14.2.1/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed -I/usr/include include/network.h -o build/moc/moc_network.cpp
+
+build/moc/moc_packages.cpp: include/packages.h \
+		include/headers.h \
+		build/ui/ui_packages.h \
+		build/moc/moc_predefs.h \
+		/usr/bin/moc
+	/usr/bin/moc $(DEFINES) --include /home/arun/VortexLinux/vortex-installer/build/moc/moc_predefs.h -I/usr/lib/qt/mkspecs/linux-g++ -I/home/arun/VortexLinux/vortex-installer -I/home/arun/VortexLinux/vortex-installer/include -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -I/usr/include/c++/14.2.1 -I/usr/include/c++/14.2.1/x86_64-pc-linux-gnu -I/usr/include/c++/14.2.1/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed -I/usr/include include/packages.h -o build/moc/moc_packages.cpp
+
+build/moc/moc_users.cpp: include/users.h \
+		include/headers.h \
+		build/ui/ui_users.h \
+		build/moc/moc_predefs.h \
+		/usr/bin/moc
+	/usr/bin/moc $(DEFINES) --include /home/arun/VortexLinux/vortex-installer/build/moc/moc_predefs.h -I/usr/lib/qt/mkspecs/linux-g++ -I/home/arun/VortexLinux/vortex-installer -I/home/arun/VortexLinux/vortex-installer/include -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -I/usr/include/c++/14.2.1 -I/usr/include/c++/14.2.1/x86_64-pc-linux-gnu -I/usr/include/c++/14.2.1/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed -I/usr/include include/users.h -o build/moc/moc_users.cpp
+
 build/moc/moc_welcome.cpp: include/welcome.h \
 		include/headers.h \
-		ui_welcome.h \
+		build/ui/ui_welcome.h \
 		build/moc/moc_predefs.h \
 		/usr/bin/moc
 	/usr/bin/moc $(DEFINES) --include /home/arun/VortexLinux/vortex-installer/build/moc/moc_predefs.h -I/usr/lib/qt/mkspecs/linux-g++ -I/home/arun/VortexLinux/vortex-installer -I/home/arun/VortexLinux/vortex-installer/include -I/usr/include/qt -I/usr/include/qt/QtWidgets -I/usr/include/qt/QtGui -I/usr/include/qt/QtCore -I/usr/include/c++/14.2.1 -I/usr/include/c++/14.2.1/x86_64-pc-linux-gnu -I/usr/include/c++/14.2.1/backward -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include -I/usr/local/include -I/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed -I/usr/include include/welcome.h -o build/moc/moc_welcome.cpp
@@ -868,12 +952,36 @@ compiler_moc_objc_header_make_all:
 compiler_moc_objc_header_clean:
 compiler_moc_source_make_all:
 compiler_moc_source_clean:
-compiler_uic_make_all: build/ui/ui_nav.h build/ui/ui_welcome.h
+compiler_uic_make_all: build/ui/ui_disk_setup.h build/ui/ui_install.h build/ui/ui_locales.h build/ui/ui_nav.h build/ui/ui_network.h build/ui/ui_packages.h build/ui/ui_users.h build/ui/ui_welcome.h
 compiler_uic_clean:
-	-$(DEL_FILE) build/ui/ui_nav.h build/ui/ui_welcome.h
+	-$(DEL_FILE) build/ui/ui_disk_setup.h build/ui/ui_install.h build/ui/ui_locales.h build/ui/ui_nav.h build/ui/ui_network.h build/ui/ui_packages.h build/ui/ui_users.h build/ui/ui_welcome.h
+build/ui/ui_disk_setup.h: ui/disk_setup.ui \
+		/usr/bin/uic
+	/usr/bin/uic ui/disk_setup.ui -o build/ui/ui_disk_setup.h
+
+build/ui/ui_install.h: ui/install.ui \
+		/usr/bin/uic
+	/usr/bin/uic ui/install.ui -o build/ui/ui_install.h
+
+build/ui/ui_locales.h: ui/locales.ui \
+		/usr/bin/uic
+	/usr/bin/uic ui/locales.ui -o build/ui/ui_locales.h
+
 build/ui/ui_nav.h: ui/nav.ui \
 		/usr/bin/uic
 	/usr/bin/uic ui/nav.ui -o build/ui/ui_nav.h
+
+build/ui/ui_network.h: ui/network.ui \
+		/usr/bin/uic
+	/usr/bin/uic ui/network.ui -o build/ui/ui_network.h
+
+build/ui/ui_packages.h: ui/packages.ui \
+		/usr/bin/uic
+	/usr/bin/uic ui/packages.ui -o build/ui/ui_packages.h
+
+build/ui/ui_users.h: ui/users.ui \
+		/usr/bin/uic
+	/usr/bin/uic ui/users.ui -o build/ui/ui_users.h
 
 build/ui/ui_welcome.h: ui/welcome.ui \
 		/usr/bin/uic
@@ -889,14 +997,40 @@ compiler_clean: compiler_rcc_clean compiler_moc_predefs_clean compiler_moc_heade
 
 ####### Compile
 
+build/obj/disk_setup.o: src/disk_setup.cpp include/disk_setup.h \
+		include/headers.h \
+		build/ui/ui_disk_setup.h
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/disk_setup.o src/disk_setup.cpp
+
+build/obj/install.o: src/install.cpp include/install.h \
+		include/headers.h \
+		build/ui/ui_install.h
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/install.o src/install.cpp
+
+build/obj/locales.o: src/locales.cpp include/locales.h \
+		include/headers.h \
+		build/ui/ui_locales.h
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/locales.o src/locales.cpp
+
 build/obj/main.o: src/main.cpp include/main.h \
 		include/ui_builder.h \
 		include/nav.h \
 		include/headers.h \
 		build/ui/ui_nav.h \
 		include/welcome.h \
-		ui_welcome.h \
-		include/utils.h
+		build/ui/ui_welcome.h \
+		include/locales.h \
+		build/ui/ui_locales.h \
+		include/disk_setup.h \
+		build/ui/ui_disk_setup.h \
+		include/users.h \
+		build/ui/ui_users.h \
+		include/network.h \
+		build/ui/ui_network.h \
+		include/packages.h \
+		build/ui/ui_packages.h \
+		include/install.h \
+		build/ui/ui_install.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/main.o src/main.cpp
 
 build/obj/nav.o: src/nav.cpp include/nav.h \
@@ -904,14 +1038,40 @@ build/obj/nav.o: src/nav.cpp include/nav.h \
 		build/ui/ui_nav.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/nav.o src/nav.cpp
 
+build/obj/network.o: src/network.cpp include/network.h \
+		include/headers.h \
+		build/ui/ui_network.h
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/network.o src/network.cpp
+
+build/obj/packages.o: src/packages.cpp include/welcome.h \
+		include/headers.h \
+		build/ui/ui_welcome.h
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/packages.o src/packages.cpp
+
 build/obj/ui_builder.o: src/ui_builder.cpp include/ui_builder.h \
 		include/nav.h \
 		include/headers.h \
 		build/ui/ui_nav.h \
 		include/welcome.h \
-		ui_welcome.h \
-		include/utils.h
+		build/ui/ui_welcome.h \
+		include/locales.h \
+		build/ui/ui_locales.h \
+		include/disk_setup.h \
+		build/ui/ui_disk_setup.h \
+		include/users.h \
+		build/ui/ui_users.h \
+		include/network.h \
+		build/ui/ui_network.h \
+		include/packages.h \
+		build/ui/ui_packages.h \
+		include/install.h \
+		build/ui/ui_install.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/ui_builder.o src/ui_builder.cpp
+
+build/obj/users.o: src/users.cpp include/users.h \
+		include/headers.h \
+		build/ui/ui_users.h
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/users.o src/users.cpp
 
 build/obj/utils.o: src/utils.cpp include/utils.h \
 		include/headers.h
@@ -919,7 +1079,7 @@ build/obj/utils.o: src/utils.cpp include/utils.h \
 
 build/obj/welcome.o: src/welcome.cpp include/welcome.h \
 		include/headers.h \
-		ui_welcome.h
+		build/ui/ui_welcome.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/welcome.o src/welcome.cpp
 
 build/obj/qrc_styles.o: qrc_styles.cpp 
@@ -928,8 +1088,26 @@ build/obj/qrc_styles.o: qrc_styles.cpp
 build/obj/qrc_images.o: qrc_images.cpp 
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/qrc_images.o qrc_images.cpp
 
+build/obj/moc_disk_setup.o: build/moc/moc_disk_setup.cpp 
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/moc_disk_setup.o build/moc/moc_disk_setup.cpp
+
+build/obj/moc_install.o: build/moc/moc_install.cpp 
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/moc_install.o build/moc/moc_install.cpp
+
+build/obj/moc_locales.o: build/moc/moc_locales.cpp 
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/moc_locales.o build/moc/moc_locales.cpp
+
 build/obj/moc_nav.o: build/moc/moc_nav.cpp 
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/moc_nav.o build/moc/moc_nav.cpp
+
+build/obj/moc_network.o: build/moc/moc_network.cpp 
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/moc_network.o build/moc/moc_network.cpp
+
+build/obj/moc_packages.o: build/moc/moc_packages.cpp 
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/moc_packages.o build/moc/moc_packages.cpp
+
+build/obj/moc_users.o: build/moc/moc_users.cpp 
+	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/moc_users.o build/moc/moc_users.cpp
 
 build/obj/moc_welcome.o: build/moc/moc_welcome.cpp 
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/moc_welcome.o build/moc/moc_welcome.cpp

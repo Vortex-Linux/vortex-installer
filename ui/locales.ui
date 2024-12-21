@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ui version="4.0">
-    <class>Locale</class>
-    <widget class="QWidget" name="Locale">
+    <class>Locales</class>
+    <widget class="QWidget" name="Locales">
         <property name="geometry">
             <rect>
                 <x>100</x>
@@ -10,7 +10,7 @@
                 <height>800</height>
             </rect>
         </property>
-        <widget class="QFrame" name="localeFrame">
+        <widget class="QFrame" name="localesFrame">
             <property name="geometry">
                 <rect>
                     <x>10</x>
@@ -19,7 +19,7 @@
                     <height>780</height>
                 </rect>
             </property>
-            <widget class="QLabel" name="localeLabel">
+            <widget class="QLabel" name="localesLabel">
                 <property name="geometry">
                     <rect>
                         <x>10</x>
@@ -29,7 +29,7 @@
                     </rect>
                 </property>
                 <property name="text">
-                    <string>Locale to the Installer</string>
+                    <string>Locales to the Installer</string>
                 </property>
                 <property name="alignment">
                     <set>Qt::AlignCenter</set>

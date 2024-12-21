@@ -3,7 +3,7 @@
         <file>styles/styles.qss</file>
         <file>styles/nav.qss</file>
         <file>styles/welcome.qss</file>
-        <file>styles/locale.qss</file>
+        <file>styles/locales.qss</file>
         <file>styles/disk_setup.qss</file>
         <file>styles/users.qss</file>
         <file>styles/network.qss</file>

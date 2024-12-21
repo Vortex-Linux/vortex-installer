@@ -24,9 +24,9 @@
                     </rect>
                 </property>
             </widget>
-            <widget class="QPushButton" name="locale">
+            <widget class="QPushButton" name="locales">
                 <property name="text">
-                    <string>Locale</string>
+                    <string>Locales</string>
                 </property>
                 <property name="geometry">
                     <rect>

@@ -26,18 +26,18 @@ QScrollArea* createWelcomePage() {
     return scrollArea;
 }
 
-QScrollArea* createLocalePage() {
-    Locale* locale = new Locale();  
-    locale->setFixedSize(200, 800);
-    loadWidgetStyleSheet(locale, ":/styles/styles/locale.qss");
+QScrollArea* createLocalesPage() {
+    Locales* locales = new Locales();  
+    locales->setFixedSize(200, 800);
+    loadWidgetStyleSheet(locales, ":/styles/styles/locales.qss");
     
-    QWidget* localePage = new QWidget();
-    QVBoxLayout* layout = new QVBoxLayout(localePage);
-    layout->addWidget(locale);
+    QWidget* localesPage = new QWidget();
+    QVBoxLayout* layout = new QVBoxLayout(localesPage);
+    layout->addWidget(locales);
     layout->insertStretch(-1, 1);
 
     QScrollArea* scrollArea = new QScrollArea();
-    scrollArea->setWidget(welcomePage);
+    scrollArea->setWidget(localesPage);
     scrollArea->setWidgetResizable(true); 
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff); 
     scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOn);
@@ -47,8 +47,8 @@ QScrollArea* createLocalePage() {
 
 QScrollArea* createDiskSetupPage() {
     DiskSetup* diskSetup = new DiskSetup();  
-    welcome->setFixedSize(200, 800);
-    loadWidgetStyleSheet(welcome, ":/styles/styles/disk_setup.qss");
+    diskSetup->setFixedSize(200, 800);
+    loadWidgetStyleSheet(diskSetup, ":/styles/styles/disk_setup.qss");
     
     QWidget* diskSetupPage = new QWidget();
     QVBoxLayout* layout = new QVBoxLayout(diskSetupPage);
@@ -104,10 +104,10 @@ QScrollArea* createNetworkPage() {
 
 QScrollArea* createPackagesPage() {
     Packages* packages = new Packages();  
-    pacakges->setFixedSize(200, 800);
+    packages->setFixedSize(200, 800);
     loadWidgetStyleSheet(packages, ":/styles/styles/packages.qss");
     
-    QWidget* pacakgesPage = new QWidget();
+    QWidget* packagesPage = new QWidget();
     QVBoxLayout* layout = new QVBoxLayout(packagesPage);
     layout->addWidget(packages);
     layout->insertStretch(-1, 1);

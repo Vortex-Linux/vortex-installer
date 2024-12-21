@@ -5,7 +5,7 @@ Nav::Nav(QWidget *parent) : QWidget(parent), ui(new Ui::Nav) {
 
     QVector<QPushButton*> navButtons = {
         ui->welcome,
-        ui->locale,
+        ui->locales,
         ui->diskSetup,
         ui->users,
         ui->network,
@@ -37,8 +37,8 @@ Nav::Nav(QWidget *parent) : QWidget(parent), ui(new Ui::Nav) {
         emit buttonClicked("welcome");
     });
 
-    connect(ui->locale, &QPushButton::clicked, [=]() {
-        QWidget* parent = ui->locale->parentWidget();
+    connect(ui->locales, &QPushButton::clicked, [=]() {
+        QWidget* parent = ui->locales->parentWidget();
 
         const auto& children = parent->findChildren<QPushButton*>();
         for (auto* button : children) {
@@ -46,10 +46,10 @@ Nav::Nav(QWidget *parent) : QWidget(parent), ui(new Ui::Nav) {
             button->style()->polish(button);
         }
 
-        ui->locale->setProperty("active", true);
-        ui->locale->style()->polish(ui->locale);
+        ui->locales->setProperty("active", true);
+        ui->locales->style()->polish(ui->locales);
 
-        emit buttonClicked("locale");
+        emit buttonClicked("locales");
     });
 
     connect(ui->diskSetup, &QPushButton::clicked, [=]() {
