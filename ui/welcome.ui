@@ -45,6 +45,22 @@
                     <string>This program will ask your some questions and setup VortexLinux on your system</string>
                 </property>
             </widget>
+            <widget class="QLabel" name="imageLabel">
+                <property name="geometry">
+                    <rect>
+                        <x>150</x>
+                        <y>100</y> 
+                        <width>600</width>
+                        <height>600</height>
+                    </rect>
+                </property>
+                <property name="scaledContents">
+                    <bool>true</bool>
+                </property>
+                <property name="pixmap">
+                  <pixmap>:/images/images/vortexlinux-logo.png</pixmap>
+                </property>
+            </widget>
         </widget>
     </widget>
 </ui>

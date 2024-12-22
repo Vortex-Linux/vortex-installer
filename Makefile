@@ -880,7 +880,8 @@ qrc_styles.cpp: resources/styles.qrc \
 	/usr/bin/rcc -name styles resources/styles.qrc -o qrc_styles.cpp
 
 qrc_images.cpp: resources/images.qrc \
-		/usr/bin/rcc
+		/usr/bin/rcc \
+		resources/images/vortexlinux-logo.png
 	/usr/bin/rcc -name images resources/images.qrc -o qrc_images.cpp
 
 compiler_moc_predefs_make_all: build/moc/moc_predefs.h
@@ -1030,7 +1031,8 @@ build/obj/main.o: src/main.cpp include/main.h \
 		include/packages.h \
 		build/ui/ui_packages.h \
 		include/install.h \
-		build/ui/ui_install.h
+		build/ui/ui_install.h \
+		include/utils.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/main.o src/main.cpp
 
 build/obj/nav.o: src/nav.cpp include/nav.h \
@@ -1043,9 +1045,9 @@ build/obj/network.o: src/network.cpp include/network.h \
 		build/ui/ui_network.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/network.o src/network.cpp
 
-build/obj/packages.o: src/packages.cpp include/welcome.h \
+build/obj/packages.o: src/packages.cpp include/packages.h \
 		include/headers.h \
-		build/ui/ui_welcome.h
+		build/ui/ui_packages.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/packages.o src/packages.cpp
 
 build/obj/ui_builder.o: src/ui_builder.cpp include/ui_builder.h \
@@ -1065,7 +1067,8 @@ build/obj/ui_builder.o: src/ui_builder.cpp include/ui_builder.h \
 		include/packages.h \
 		build/ui/ui_packages.h \
 		include/install.h \
-		build/ui/ui_install.h
+		build/ui/ui_install.h \
+		include/utils.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o build/obj/ui_builder.o src/ui_builder.cpp
 
 build/obj/users.o: src/users.cpp include/users.h \

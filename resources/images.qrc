@@ -1,2 +1,5 @@
 <RCC>
+    <qresource prefix="/images">
+        <file>images/vortexlinux-logo.png</file>
+    </qresource>
 </RCC>
