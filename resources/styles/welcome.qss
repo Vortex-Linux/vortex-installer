@@ -10,3 +10,7 @@ QLabel#headingLabel {
 QLabel#infoLabel {
     font-size: 14px;
 }
+
+QLabel#languageLabel {
+    font-size : 20px;
+}
