@@ -25,11 +25,24 @@
                         <x>200</x>
                         <y>10</y>
                         <width>900</width> 
-                        <height>100</height>
+                        <height>50</height>
                     </rect>
                 </property>
                 <property name="text">
                     <string>Welcome to the Installer of VortexLinux</string>
+                </property>
+            </widget>
+            <widget class="QLabel" name="infoLabel">
+                <property name="geometry">
+                    <rect>
+                        <x>150</x>
+                        <y>50</y>
+                        <width>900</width> 
+                        <height>30</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string>This program will ask your some questions and setup VortexLinux on your system</string>
                 </property>
             </widget>
         </widget>
