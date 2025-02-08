@@ -19,20 +19,73 @@
                     <height>780</height>
                 </rect>
             </property>
-            <widget class="QLabel" name="localesLabel">
+            <widget class="QLabel" name="timezoneLabel">
                 <property name="geometry">
                     <rect>
-                        <x>10</x>
-                        <y>10</y>
-                        <width>160</width>
+                        <x>100</x>
+                        <y>100</y>
+                        <width>400</width>
                         <height>40</height>
                     </rect>
                 </property>
                 <property name="text">
-                    <string>Locales to the Installer</string>
+                    <string>Select Timezone:</string>
                 </property>
-                <property name="alignment">
-                    <set>Qt::AlignCenter</set>
+            </widget>
+            <widget class="QComboBox" name="timezoneComboBox">
+                <property name="geometry">
+                    <rect>
+                        <x>300</x>
+                        <y>100</y>
+                        <width>400</width>
+                        <height>40</height>
+                    </rect>
+                </property>
+            </widget>
+            <widget class="QLabel" name="keyboardLabel">
+                <property name="geometry">
+                    <rect>
+                        <x>100</x>
+                        <y>200</y>
+                        <width>400</width>
+                        <height>40</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string>Select Keyboard Layout:</string>
+                </property>
+            </widget>
+            <widget class="QComboBox" name="keyboardComboBox">
+                <property name="geometry">
+                    <rect>
+                        <x>300</x>
+                        <y>200</y>
+                        <width>400</width>
+                        <height>40</height>
+                    </rect>
+                </property>
+            </widget>
+            <widget class="QLabel" name="regionLabel">
+                <property name="geometry">
+                    <rect>
+                        <x>100</x>
+                        <y>300</y>
+                        <width>400</width>
+                        <height>40</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string>Select Region:</string>
+                </property>
+            </widget>
+            <widget class="QComboBox" name="regionComboBox">
+                <property name="geometry">
+                    <rect>
+                        <x>300</x>
+                        <y>300</y>
+                        <width>400</width>
+                        <height>40</height>
+                    </rect>
                 </property>
             </widget>
         </widget>

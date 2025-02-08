@@ -1,4 +1,41 @@
 QLabel {
-    font-size: 14px;
     color: white;
+    font-weight: bold;
+}
+
+QLabel#timezoneLabel {
+    font-size : 20px;
+}
+
+QLabel#keyboardLabel {
+    font-size : 20px;
+}
+
+QLabel#regionLabel {
+    font-size : 20px;
+}
+
+QComboBox {
+  border: 2px solid #5c5c5c;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  font: bold 12px "Arial";
+}
+
+QComboBox:hover {
+  border: 2px solid #0078d7;
+  background-color: #e8f0fe;
+}
+
+QComboBox::drop-down {
+  border: none;
+}
+
+QComboBox QAbstractItemView {
+  border: 1px solid #5c5c5c;
+  background-color: #ffffff;
+  selection-background-color: #0078d7;
+  selection-color: white;
 }
