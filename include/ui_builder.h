@@ -9,7 +9,6 @@
 #include "network.h"
 #include "packages.h"
 #include "install.h"
-#include "utils.h"
 
 Nav* createNav(QWidget* parent = nullptr);
 QScrollArea* createWelcomePage();

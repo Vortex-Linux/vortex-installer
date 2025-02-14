@@ -7,6 +7,8 @@
 #include <QMainWindow>
 #include <QWidget>
 #include <QScrollArea>
+#include <QComboBox>
+#include <QString>
 #include <QPushButton>
 #include <QLineEdit>
 #include <QStackedWidget>
@@ -14,6 +16,8 @@
 #include <QMenu>
 #include <QAction>
 #include <QFile>
+#include <QTextStream>
+#include <QStringList>
 #include <QStyle>
 #include <QDebug>
 #include <iostream>

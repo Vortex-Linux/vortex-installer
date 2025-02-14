@@ -2,6 +2,7 @@
 #define LOCALES_H
 
 #include "headers.h"
+#include "utils.h"
 #include "ui_locales.h"
 
 class Locales : public QMainWindow {

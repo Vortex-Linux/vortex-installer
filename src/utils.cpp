@@ -52,3 +52,29 @@ std::vector<std::string> list_items(const std::string& input_text) {
     }
     return item_list;
 }
+
+void populateComboBox(QComboBox* comboBox, const QString& filePath) {
+    QStringList items = getDataFromFile(filePath);
+    items.sort();
+    comboBox->clear(); 
+    comboBox->addItems(items);
+}
+
+QStringList getDataFromFile(const QString& filePath) {
+    QStringList data;
+    QFile file(filePath);
+
+    if (file.open(QIODevice::ReadOnly | QIODevice::Text)) {
+        QTextStream in(&file);
+        while (!in.atEnd()) {
+            QString line = in.readLine().trimmed();
+            if (!line.isEmpty()) {
+                data << line;
+            }
+        }
+        file.close();
+    } else {
+        qDebug() << "Error opening file:" << file.errorString();
+    }
+    return data;
+}
