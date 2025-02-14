@@ -16,26 +16,26 @@ QLabel#languageLabel {
 }
 
 QComboBox {
-  border: 2px solid #5c5c5c;
-  border-radius: 5px;
-  padding: 5px;
-  background-color: #f0f0f0;
-  color: #333;
-  font: bold 12px "Arial";
+    border: 2px solid #1E90FF;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #222222;
+    color: #ffffff;
+    font: bold 12px "Arial";
 }
 
 QComboBox:hover {
-  border: 2px solid #0078d7;
-  background-color: #e8f0fe;
+    border: 2px solid #00BFFF;
+    background-color: #333333;
 }
 
 QComboBox::drop-down {
-  border: none;
+    border: none;
 }
 
 QComboBox QAbstractItemView {
-  border: 1px solid #5c5c5c;
-  background-color: #ffffff;
-  selection-background-color: #0078d7;
-  selection-color: white;
+    border: 1px solid #1E90FF;
+    background-color: #222222;
+    selection-background-color: #00BFFF;
+    selection-color: white;
 }

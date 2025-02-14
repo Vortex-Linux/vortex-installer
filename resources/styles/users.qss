@@ -1,4 +1,59 @@
 QLabel {
-    font-size: 14px;
     color: white;
+    font-weight: bold;
+}
+
+QLabel#headingLabel {
+    font-size: 24px;
+}
+
+QLabel#infoLabel {
+    font-size: 14px;
+}
+
+QLabel#usernameLabel {
+    font-size: 20px;
+}
+
+QLabel#passwordLabel {
+    font-size: 20px;
+}
+
+QLineEdit {
+    background-color: #222222; 
+    color: #ffffff; 
+    border: 2px solid #1E90FF; 
+    border-radius: 5px; 
+    padding: 5px; 
+    font-size: 16px; 
+}
+
+QLineEdit:focus {
+    border: 2px solid #00BFFF; 
+    background-color: #333333; 
+}
+
+QComboBox {
+    border: 2px solid #1E90FF;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #222222;
+    color: #ffffff;
+    font: bold 12px "Arial";
+}
+
+QComboBox:hover {
+    border: 2px solid #00BFFF;
+    background-color: #333333;
+}
+
+QComboBox::drop-down {
+    border: none;
+}
+
+QComboBox QAbstractItemView {
+    border: 1px solid #1E90FF;
+    background-color: #222222;
+    selection-background-color: #00BFFF;
+    selection-color: white;
 }

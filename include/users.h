@@ -19,4 +19,3 @@ private:
 };
 
 #endif // USERS_H
-

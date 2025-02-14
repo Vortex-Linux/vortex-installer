@@ -8,6 +8,7 @@
 #include <QWidget>
 #include <QScrollArea>
 #include <QPushButton>
+#include <QLineEdit>
 #include <QStackedWidget>
 #include <QVBoxLayout>
 #include <QMenu>
