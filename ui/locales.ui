@@ -91,29 +91,6 @@
                     </rect>
                 </property>
             </widget>
-            <widget class="QLabel" name="regionLabel">
-                <property name="geometry">
-                    <rect>
-                        <x>100</x>
-                        <y>450</y>
-                        <width>400</width>
-                        <height>40</height>
-                    </rect>
-                </property>
-                <property name="text">
-                    <string>Select Region:</string>
-                </property>
-            </widget>
-            <widget class="QComboBox" name="regionComboBox">
-                <property name="geometry">
-                    <rect>
-                        <x>400</x>
-                        <y>450</y>
-                        <width>400</width>
-                        <height>40</height>
-                    </rect>
-                </property>
-            </widget>
         </widget>
     </widget>
 </ui>
