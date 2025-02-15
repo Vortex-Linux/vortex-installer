@@ -3,7 +3,7 @@
 Welcome::Welcome(QWidget *parent) : QMainWindow(parent), ui(new Ui::Welcome) {
     ui->setupUi(this);
 
-    QStringList languages = {"English", "Spanish", "French", "German", "Italian"};
+    QStringList languages = {"English"};
     languages.sort();
     ui->languageComboBox->addItems(languages);
 }
