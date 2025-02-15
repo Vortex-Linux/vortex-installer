@@ -1,4 +1,12 @@
 QLabel {
-    font-size: 14px;
     color: white;
+    font-weight: bold;
+}
+
+QLabel#headingLabel {
+    font-size: 24px;
+}
+
+QLabel#infoLabel {
+    font-size: 14px;
 }

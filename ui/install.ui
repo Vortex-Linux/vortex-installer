@@ -4,9 +4,9 @@
     <widget class="QWidget" name="Install">
         <property name="geometry">
             <rect>
-                <x>100</x>
-                <y>100</y>
-                <width>200</width>
+                <x>10</x>
+                <y>10</y>
+                <width>900</width>
                 <height>800</height>
             </rect>
         </property>
@@ -15,26 +15,52 @@
                 <rect>
                     <x>10</x>
                     <y>10</y>
-                    <width>180</width>
-                    <height>780</height>
+                    <width>900</width>
+                    <height>800</height>
                 </rect>
-            </property>
-            <widget class="QLabel" name="installLabel">
-                <property name="geometry">
-                    <rect>
-                        <x>10</x>
-                        <y>10</y>
-                        <width>160</width>
-                        <height>40</height>
-                    </rect>
-                </property>
-                <property name="text">
-                    <string>Install to the Installer</string>
-                </property>
-                <property name="alignment">
-                    <set>Qt::AlignCenter</set>
-                </property>
-            </widget>
-        </widget>
+              </property>
+              <widget class="QLabel" name="headingLabel">
+                  <property name="geometry">
+                      <rect>
+                          <x>330</x>
+                          <y>10</y>
+                          <width>900</width> 
+                          <height>50</height>
+                      </rect>
+                  </property>
+                  <property name="text">
+                      <string>Install VortexLinux</string>
+                  </property>
+              </widget>
+              <widget class="QLabel" name="infoLabel">
+                  <property name="geometry">
+                      <rect>
+                          <x>250</x>
+                          <y>50</y>
+                          <width>900</width> 
+                          <height>30</height>
+                      </rect>
+                  </property>
+                  <property name="text">
+                      <string>Install VortexLinux according to the options you selected</string>
+                  </property>
+              </widget>
+              <widget class="QLabel" name="imageLabel">
+                  <property name="geometry">
+                      <rect>
+                          <x>150</x>
+                          <y>110</y> 
+                          <width>550</width>
+                          <height>550</height>
+                      </rect>
+                  </property>
+                  <property name="scaledContents">
+                      <bool>true</bool>
+                  </property>
+                  <property name="pixmap">
+                    <pixmap>:/images/images/vortexlinux-logo.png</pixmap>
+                  </property>
+              </widget>
+          </widget>
     </widget>
 </ui>
